@@ -4,47 +4,21 @@ In the classic introduction to his translation of the Majjhima Nikāya, Bhikkhu 
 
 >Like the Dīgha Nikāya, the Majjhima is replete with drama and narrative, while lacking much of its predecessor’s tendency towards imaginative embellishment and profusion of legend. Like the Saṁyutta, it contains some of the profoundest discourses in the Canon, disclosing the Buddha’s radical insights into the nature of existence; and like the Aṅguttara, it covers a wide range of topics of practical applicability. In contrast to those two Nikāyas, however, the Majjhima sets forth this material not in the form of short, self-contained utterances, but in the context of a fascinating procession of scenarios that exhibit the Buddha’s resplendence of wisdom, his skill in adapting his teachings to the needs and proclivities of his interlocutors, his wit and gentle humour, his majestic sublimity, and his compassionate humanity.
 
-In this short introductory essay, I describe some of the special features of the Majjhima, but avoid going into the doctrines. This is partly because, in general, the teachings of the four <i>nikāyas</i> are highly consistent and interrelated and are best regarded as collections to be “seen together” (synoptic).
-
-But it’s also because I have reservations about the usefulness of summaries. There have been plenty of attempts at summarizing the doctrines of the early texts that are quite fine as far as summaries go. But the true joy of the suttas is to see the undigested teachings, the raw moment when the Buddha encounters a person in suffering and helps them, not by giving them a digested abstract, but by reaching out to them as people. I feel that it’s better to let a general understanding of the teachings emerge from such moments, rather than setting it as a precondition. Thus the purpose of this introduction is not to condition your expectations of what the Buddha taught, but to give some background information and orientation.
+In this short introductory essay, I describe some of the special features of the Majjhima.
 
 ## The Structure of the Majjhima
 
-### Finding Your Way
-
-The Buddha’s teaching is a graduated one, leading from simple principles to profound realizations. This pattern is observed in almost all of the discourses in one way or another. However it does <em>not</em> apply to the collections of discourses. From discourse to discourse there is no graduation in difficulty, no build up of assumed knowledge in the student.  
-
-On the contrary, the Majjhima Nikāya begins with the Mūlapariyāya Sutta, one of the most profound and difficult discourses in the whole canon. A student who dives in unwarily will suddenly find themselves in very deep waters.
-
-So if a beginning student wishes to build up their foundations of knowledge step by step, they can’t rely on simply reading the suttas in order. It’s best to start with a structured reading guide, hopefully with an experienced teacher. As a small help, we provide “difficulty” icons for the discourses of the Majjhima and the Dīgha: a new sprout for beginners, a sapling for intermediate students, and a flourishing tree for advanced students.
-
-Having said which, there’s nothing wrong with simply plunging in at random, so long as you don’t expect everything to make sense at first. Usually you’ll find that obscure or difficult ideas are explained somewhere else in the suttas. Discovering those unexpected connections is one of the joys of reading the suttas.
-
-As students of Buddhist texts we are interested in the content, in learning what the Buddha and his disciples had to say. However, due to the manner in which the texts are arranged, we quickly discover that it’s not easy to find what we want, or to know how different texts relate to each other. So while it may seem dry, it is worth spending a little time to consider the <em>structure</em> of the texts.
-
-Early Buddhist texts were organized, not for reading, but for oral recitation and memorization. The overriding concern was to divide the texts into chunks that could be memorized and recited together. Since the texts were preserved in memory, they were largely “random access”: a skilled student could instantly recall a passage from anywhere in the texts, without having to flip through the pages or look up an index. In this way, the earliest system of organization is a little similar to how we find information today through a search engine.
-
-It follows from this that we cannot expect early Buddhist texts to be structured sequentially like a modern book. But the collections are not random or chaotic: they follow their own logic and principles, which we can readily understand.
-
-### How the Majjhima is Organized
-
 The Majjhima Nikāya is the second of the four main collections in the Sutta Piṭaka of the Pali Canon (<i>tipiṭaka</i>). It is translated here as <cite>Middle Discourses</cite>, and is sometimes known as the <cite>Middle-Length Discourses</cite>. As the title suggests, its discourses are somewhat shorter than those of the Dīgha Nikāya (<cite>Long Discourses</cite>), but longer than the many short discourses collected in the Saṁyutta Nikāya (<cite>Linked Discourses</cite>) and Aṅguttara Nikāya (<cite>Numbered Discourses</cite>).
 
-Among students of the suttas, the names of these collections are often abbreviated to “Dīgha”, “Majjhima”, and so on, just as the word “Sutta” is often omitted from sutta titles. Strictly speaking, it’d be best to use the Pali title when referring to the original text, and the translated title when referring to the translation, but this distinction is often overlooked.
+There are 152 discourses collected in the  Majjhima. These are collected into groups of 50 discourses (<i>paṇṇāsa</i>), although the final <i>paṇṇāsa</i> contains 52.
 
-There are 152 discourses collected in the  Majjhima. These are collected into groups of 50 discourses (<i>paṇṇāsa</i>), although the final <i>paṇṇāsa</i> contains 52. The <i>paṇṇāsas</i> are purely for convenience, and do not correspond to any meaningful divisions of the text.
-
-Within each <i>paṇṇāsa</i> is a set of five <i>vaggas</i>. The <i>vagga</i> is the most widespread and distinctive structural unit in early Buddhist texts. It usually consists of ten textual units, which may be ten discourses, ten verses, ten rules, and so on. The number ten is adhered to fairly consistently, although on occasion a <i>vagga</i> may contain more or less than ten. This happens in the second-last <i>vagga</i> of the Majjhima, which contains twelve discourses.
-
-Like the <i>paṇṇāsa</i>, the <i>vagga</i> is often no more than a division to help organize the discourses neatly. In such cases, a <i>vagga</i> is usually simply named after its first discourse. However, it is also common to find that a <i>vagga</i> collects discourses with a loose thematic unity. Examples of this in the Majjhima include:
+Within each <i>paṇṇāsa</i> is a set of five <i>vaggas</i>.  Most of these <i>vaggas</i> are, as usual, simply named after their first sutta, but a few display some thematic unity.
 
 - **Opamma Vagga (Chapter With Similes):** All these discourses prominently feature similes.
-- **Mahāyamaka Vagga (Large Chapter With Pairs):** Paired “long” and “short” discourses.
+- **Mahāyamaka Vagga (Large Chapter With Pairs):** Paired “long” and “short” discourses. The following Cūḷayamaka Vagga (Shorter Chapter With Pairs) only has two sets of pairs.
 - **Vaggas 6–10:** These collect discourses featuring certain kinds of people: householders, mendicants, wanderers, kings, and brahmins.
 - **Vibhaṅga Vagga (Chapter on Analysis):** These discourses consist of a lengthy “analysis” of a short saying.
 - **Saḷāyatana Vagga (Chapter on the Six Senses):** These focus on the six senses.
-
-In some cases it seems that such thematic vaggas may have pre-existed the collections in which they are found today, and thus may be found in similar form in different collections.
 
 ## The Audience
 
