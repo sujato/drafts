@@ -1,12 +1,42 @@
+# A General Introduction to the Pali Nikāyas
+
+The four main *nikāyas* of the Pali canon (Tipiṭaka) are the core texts for any understanding of early Buddhism. They consist of roughly 1,000,000 words, preserved and passed down by the Buddhist traditions as the word of the Buddha.
+
+The four *nikāyas* find their place in the traditional structure of the Pali Tipiṭaka, or “Three Baskets”.
+
+- Vinaya Piṭaka (Basket of Monastic Law)
+- Sutta Piṭaka (Basket of Discourses)
+  - **Dīgha Nikāya** (Long Discourses)
+  - **Majjhima Nikāya** (Middle Discourses)
+  - **Saṁyutta Nikāya** (Linked Discourses)
+  - **Aṅguttara Nikāya** (Numbered Discourses)
+  - Khuddaka Nikāya (Minor Discourses)
+- Abhidhamma Piṭaka (Basket of Systematc Treatises)
+
+Similar collections exist in ancient Chinese translations, and substantial parts of them are found in Sanskrit and Tibetan. SuttaCentral hosts almost all of these texts and provides comprehensive parallels that show the connections between them. A comparative understanding of all these texts is essential for a serious study of early Buddhism.
+
+There are many reasons, though, why the Pali texts will always retain a special place for those who wish to understand what the Buddha taught:
+
+- They are the only scriptures which we possess in full in an early Indic dialect.
+- They are accompanied by an extensive and detailed set of ancient commentaries (*aṭṭhakathā*).
+- They are the central scriptures of a living tradition, the Theravāda school found in Sri Lanka, Thailand, Myanmar, Bangladesh, Cambodia, Laos, and Vietnam.
+- They are, for the most part, linguistically clear, well-edited, and highly readable.
+
+For these reasons the Pali texts have been translated multiple times, and they form the main basis for understanding of early Buddhism.
+
+And among the Pali texts, it is the four *nikāyas* that command the most attention. It is there that we find extensive and definitive explanations of Buddhist teachings, as well as the living personality of the Buddha and his immediate disciples.
+
+By comparison, the <cite>Vinaya Piṭaka</cite> is primarily of interest for understanding the monastic communities, as well as providing much information about the history and social background. But it contains only limited doctrinal content. The <cite>Abhidhamma Piṭaka</cite> is highly specialized and somewhat later. And the books of the Khuddaka Nikāya are very mixed. Some fairly short books are (mostly verse) supplements to the main four *nikāyas* (the Dhammapada, Udāna, Itivuttaka, Sutta Nipāta, Theragāthā, and Therīgāthā). However, most of the books in this collection are later, and depict a phase of Buddhism a few centuries after the Buddha.
+
+So  the four *nikāyas*  are the starting point for an understanding of the Buddha’s teachings. The purpose of these introductions is to give the reader enough background to get oriented among these texts.
+
+Note, however, that I will avoid going into the doctrines in any depth. I admit I have reservations about the usefulness of summaries. There have been plenty of attempts at summarizing the doctrines of the early texts that are quite fine as far as summaries go. But the true joy of the suttas is in the undigested teachings, in that raw moment when the Buddha encounters a person in suffering and helps them, not by giving them a digested abstract, but by reaching out to them as people. I feel that it’s better to let a general understanding of the teachings emerge from such moments, rather than setting it as a precondition.
+
 Among students of the suttas, the names of these collections are often abbreviated to “Dīgha”, “Majjhima”, and so on, just as the word “Sutta” is often omitted from sutta titles. Strictly speaking, it’d be best to use the Pali title when referring to the original text, and the translated title when referring to the translation, but this distinction is often overlooked.
 
-Note, however, that I will avoid going into the doctrines in any depth. This is mainly because the teachings of the four <i>nikāyas</i> are highly consistent and interrelated and are best seen as a whole.
+## Finding Your Way
 
-But it’s also because I have reservations about the usefulness of summaries. There have been plenty of attempts at summarizing the doctrines of the early texts that are quite fine as far as summaries go. But the true joy of the suttas is to see the undigested teachings, the raw moment when the Buddha encounters a person in suffering and helps them, not by giving them a digested abstract, but by reaching out to them as people. I feel that it’s better to let a general understanding of the teachings emerge from such moments, rather than setting it as a precondition. Thus the purpose of this introduction is not to condition your expectations of what the Buddha taught, but to give some background information and orientation.
-
-### Finding Your Way
-
-The Buddha’s teaching is a graduated one, leading from simple principles to profound realizations. This pattern is observed in almost all of the discourses in one way or another. However it does <em>not</em> apply to the collections of discourses. From discourse to discourse there is no graduation in difficulty, no build up of assumed knowledge in the student.  
+The Buddha’s teaching is a graduated one, leading from simple principles to profound realizations. This pattern is observed in almost all of the discourses in one way or another. However it does <em>not</em> apply to the collections of discourses. From collection to collection or discourse to discourse there is no graduation in difficulty, no build up of assumed knowledge in the student.  
 
 On the contrary, the Dīgha Nikāya begins with the Brahmajala Sutta, while the Majjhima Nikāya begins with the Mūlapariyāya Sutta, both of which are among the most profound and difficult discourses in the whole canon. A student who dives in unwarily will suddenly find themselves in very deep waters.
 
@@ -38,7 +68,7 @@ Like the <i>paṇṇāsa</i>, the <i>vagga</i> is often no more than a division 
 
 In some cases, a *vagga* in Pali may parallel a similar *vagga* in another language. For example, the famous <cite>Aṭṭhakavagga</cite> of the Sutta Nipāta exists in Chinese translation, though the Sutta Nipāta as a whole does not. Similarly, the <cite>Sīlakkhandhavagga</cite> of the Dīgha Nikāya has parallels in both the Dharmaguptaka (Chinese) and Sarvāstivāda (Sanskrit) texts of the Dīgha.
 
-Occasionally the word <i>vagga</i> is applied to a larger textual unit, one that includes a number of sections, each of which composed of "little" <i>vaggas</i>. Examples of such nested *vagga* structures include the Saṁyutta Nikāya and the Khandhakas of the Pali Vinaya.
+Occasionally the word <i>vagga</i> is applied to a larger textual unit, one that includes a number of sections, each of which composed of “little” <i>vaggas</i>. Examples of such nested *vagga* structures include the Saṁyutta Nikāya and the Khandhakas of the Pali Vinaya.
 
 ### Paṇṇāsa (“Fifty”)
 
@@ -50,7 +80,7 @@ The literal meaning of <i>nipāta</i> is “fallen down”, and it is a generic 
 
 ### Saṁyutta (“Collection of Linked Discourses”)
 
-Whereas *nipāta* is quite generic, the *saṃyutta* has a more specific meaning: texts collected according to a similar theme or subject matter. The Saṁyutta Nikāya consists of 52 such collections.
+Whereas the *nipāta* is quite generic, the *saṃyutta* has a more specific meaning: texts collected according to a similar theme or subject matter. The Saṁyutta Nikāya consists of 52 such collections.
 
 ### Nikāya or Āgama (“Division”)
 
@@ -58,4 +88,4 @@ The largest structural unit, usually known as *nikāya* in the Pali tradition of
 
 The four *nikāyas* as found in the Pali seem to have been fairly standard and similar collections are, so far as we know, found in all the other schools. However, while the overall nature of the collections is similar, and they are organized in similar ways, the detailed content varies considerably. It frequently happens that a sutta found in the Majjhima of one school, for example, may be found in the Saṁyutta or Dīgha of another school. In addition, the internal sequence of texts is quite different. It seems the *nikāyas* were conceived more as organizational guidelines than as fixed units.
 
-The fifth Pali *nikāya*, the Khuddaka Nikāya, is more flexible and varies more between traditions. It seems it originated as a place for collecting verses and minor texts not gathered elsewhere. However the Pali collection became a handy place to include later texts. While there are occasional references to a similar collection in the northern schools, none exist in that form today. Nevertheless, many of the individual texts of the Khuddaka have parallels, with the Dhammapada especially existing in many dfferent editions.
+The fifth Pali *nikāya*, the Khuddaka Nikāya, is more flexible and varies more between traditions. It seems it originated as a place for collecting verses and minor texts not gathered elsewhere. However the Pali collection became a handy place to include later texts. While there are occasional references to a similar collection in the northern schools, none exist in that form today. Nevertheless, many of the individual texts of the Khuddaka have parallels, with the Dhammapada especially existing in many different editions.
