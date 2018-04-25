@@ -6,7 +6,7 @@ In the classic introduction to his translation of the Majjhima Nikāya—an intr
 
 >Like the Dīgha Nikāya, the Majjhima is replete with drama and narrative, while lacking much of its predecessor’s tendency towards imaginative embellishment and profusion of legend. Like the Saṁyutta, it contains some of the profoundest discourses in the Canon, disclosing the Buddha’s radical insights into the nature of existence; and like the Aṅguttara, it covers a wide range of topics of practical applicability. In contrast to those two Nikāyas, however, the Majjhima sets forth this material not in the form of short, self-contained utterances, but in the context of a fascinating procession of scenarios that exhibit the Buddha’s resplendence of wisdom, his skill in adapting his teachings to the needs and proclivities of his interlocutors, his wit and gentle humour, his majestic sublimity, and his compassionate humanity.
 
-In this short introductory essay, I describe some of the special features of the Majjhima
+In this short introductory essay, I describe some of the special features of the Majjhima.
 
 ## How the Majjhima is Organized
 
