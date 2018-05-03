@@ -2,7 +2,7 @@
 
 The Dīgha Nikāya is the first of the four main collections in the Sutta Piṭaka of the Pali Canon (*tipiṭaka*). It is translated here as <cite>Long Discourses</cite>. As the title suggests, its discourses are somewhat longer than those of other *nikāyas*. There are, however, only 34 discourses in the collection, so despite the length of the individual discourses, the collection as a whole is by far the shortest of the *nikāyas*.
 
-It is distinguished from the other *nikāyas* by the more developed and sophisticated literary forms, and by the audience, which strongly emphasizes the lay community, especially the self-proclaimed spiritual leaders, the brahmins. The brahmins, of course, were the custodians of the most sophisticated texts in ancient India up to this time. It seems the composition of the Dīgha was intended to impress and convert such learned men.
+It is distinguished from the other *nikāyas* by the more fully developed and sophisticated literary forms, and by the audience, which strongly emphasizes the lay community, especially the self-proclaimed spiritual leaders, the brahmins. The brahmins, of course, were the custodians of the most sophisticated texts in ancient India up to this time. It seems the composition of the Dīgha was intended to impress and convert such learned men.
 
 ## How the Dīgha is Organized
 
