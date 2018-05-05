@@ -1,6 +1,6 @@
 # A General Introduction to the Pali Nikāyas
 
-The four main *nikāyas* of the Pali canon (Tipiṭaka) are the core texts for any understanding of early Buddhism. They consist of roughly 1,000,000 words, preserved and passed down by the Buddhist traditions as the word of the Buddha.
+The four main *nikāyas* of the Pali Canon (Tipiṭaka) are the core texts for any understanding of early Buddhism. They consist of roughly 1,000,000 words, preserved and passed down by the Theravāda tradition of Buddhism as the word of the Buddha.
 
 The four *nikāyas* find their place in the traditional structure of the Pali Tipiṭaka, or “Three Baskets”.
 
@@ -22,7 +22,7 @@ There are many reasons, though, why the Pali texts will always retain a special 
 - They are the central scriptures of a living tradition, the Theravāda school found in Sri Lanka, Thailand, Myanmar, Bangladesh, Cambodia, Laos, and Vietnam.
 - They are, for the most part, linguistically clear, well-edited, and highly readable.
 
-For these reasons the Pali texts have been translated multiple times, and they form the main basis for understanding of early Buddhism.
+For these reasons the Pali texts have been translated multiple times, and form the main basis for our understanding of early Buddhism.
 
 And among the Pali texts, it is the four *nikāyas* that command the most attention. It is there that we find extensive and definitive explanations of Buddhist teachings, as well as the living personality of the Buddha and his immediate disciples.
 
@@ -30,7 +30,7 @@ By comparison, the <cite>Vinaya Piṭaka</cite> is primarily of interest for und
 
 So  the four *nikāyas*  are the starting point for an understanding of the Buddha’s teachings. The purpose of these introductions is to give the reader enough background to get oriented among these texts.
 
-I will avoid going into the doctrines in this general introduction, and instead, summaries of major doctrinal themes may be found in the introduction to the Saṁyutta. I admit I have reservations about the usefulness of summaries. There have been plenty of attempts at summarizing the doctrines of the early texts that are quite fine as far as summaries go. But the true joy of the suttas is in the undigested teachings, in that raw moment when the Buddha encounters a person in suffering and helps them, not by giving them a digested abstract, but by reaching out to them as people. I feel that it’s better to let a general understanding of the teachings emerge from such moments, rather than setting it as a precondition.
+I will avoid going into the doctrines in this general introduction, and instead, summaries of major doctrinal themes may be found in the introduction to the Saṁyutta. But I would urge a degree of caution when it comes to summaries. There have been plenty of attempts at summarizing the doctrines of the early texts that are quite fine as far as summaries go. But the true joy of the suttas is in the undigested teachings, in that raw moment when the Buddha encounters a person in suffering and helps them, not by giving them a digested abstract, but by reaching out to them as people. I feel that it’s better to let a general understanding of the teachings emerge from such moments.
 
 In this general introduction I will give an overview, aiming to ease a student into reading the suttas by addressing some common questions. I avoid giving too many examples, as it could easily become very long. Rather, the general information presented here is fleshed out in individual essays on each of the four *nikāyas*, which are to be be read after this essay. For the most part, the four *nikāyas* are a highly unified body of texts, sharing most of the significant doctrinal passages. However, there are significant shifts in emphasis and orientation from one collection to the next, which will be discussed in the essays for each collection.
 
@@ -82,7 +82,7 @@ The flipside of repetition is abbreviation. Since the repetitions are so abundan
 
 Generally speaking, the abbreviations as found in the Pali editions, and the occasional instructions on how to spell out the full text, are sensible and fairly consistent between editions. Modern translations follow the manuscript tradition, but not slavishly. Sometimes the translation will spell out abbreviated passages, or else abbreviate passages spelled out in the original.
 
-Abbreviations are both “internal”—for example, where the only the first and last items in a list are spelled out, and the rest just mentioned in brief—and “external”, where an abbreviated passage requires looking up another text to fill in the blanks. This is another example of how the oral tradition differs from written texts. A reciter would obviously know, say, the formula for the four noble truths, so there is no need to write it every time; just enough to jog the memory. But in modern editions, especially on the web, a reader can access a specific text from anywhere, and may never have encountered the abbreviated passage before. So we try to present our translations so as to reduce the amount of external abbreviations, so far as is practicable.
+Abbreviations are both “internal”—for example, where the only the first and last items in a list are spelled out, and the rest are just mentioned in brief—and “external”, where an abbreviated passage requires looking up another text to fill in the blanks. This is another example of how the oral tradition differs from written texts. A reciter would obviously know, say, the formula for the four noble truths, so there is no need to write it every time; just enough to jog the memory. But in modern editions, especially on the web, a reader can access a specific text from anywhere, and may never have encountered the abbreviated passage before. So we try to present our translations so as to reduce the amount of external abbreviations, so far as is practicable.
 
 ### Titles
 
@@ -124,8 +124,6 @@ The fifth Pali *nikāya*, the Khuddaka Nikāya, is more flexible and varies more
 
 ## In the Buddha’s Day: A Time of Change
 
-### Time and Place
-
 Each discourse begins with a brief statement saying that at “one time” the Buddha was staying at a particular place. In this way the redactors of the texts were concerned to locate the Buddha and his teachings in a specific historical and cultural context. Modern scholars have been able to reconstruct a fairly detailed picture of the Buddha’s life and times, relying on the early Buddhist texts, as well as what information may be gleaned from Brahmanical and Jaina scriptures.
 
 <small>Archeology is, unfortunately, of limited use, as there are few archeological remnants from the Buddha’s day. In fact, before the time of Ashoka—perhaps 150 years after the Buddha—there are very few remains at all of ancient India, until the time of the Indic Valley civilization, many centuries earlier. For the period we are interested in, we have found only some pottery and a few other implements, but no large scale buildings or other more substantive remnants. This is for two main reasons. The first is that buildings at the time were mostly of wood or other perishable materials. And the second is that archeological work in India has been very spotty and incomplete.</small>
@@ -136,7 +134,7 @@ After his Awakening, the Buddha traveled among the region, in the area known as 
 
 It was not just the Buddha who was restricted to this region. It seems that trade and other close cultural contacts were normally restricted to this region, too. Occasional references to places further afield—southern India or the Greeks—were vague and often legendary. It was in the century after the Buddha passed away that the kingdoms of northern India were unified and regular trade routes to the West were established.
 
-### Economics and Politics
+## Economics and Politics
 
 Though cities and urban life feature prominently in the texts, they are still on a small scale compared to what came later.  The economy was largely rural, with farming playing a prominent role. However there are lists of occupations in the Pali canon that show a diverse range of employment—accountants, jewelers, builders, soldiers, doctors, government officials, and many more.
 
@@ -146,7 +144,7 @@ These technological and economic shifts were mirrored in the social and politica
 
 Of even greater significance, towards the end of his life, Magadha was announcing its intentions to invade the Vajjian republic. In fact, in the decades following the Buddha’s death, Magadha conquered virtually all of the sixteen nations, establishing an unquestioned supremacy over the region, and establishing pan-Indian trade networks. So powerful was the resulting kingdom under Chandragupta that Alexander the Great’s troops rebelled at the mere rumor of Magadhan military might.
 
-### Social Life
+## Social Life
 
 The growing complexity of economic and political life required corresponding changes in social roles and responsibilities. Like any society in a time of change, people in the time of the Buddha were trying to balance their traditional values and structures with the new realities. It seems that people were for the most part reasonably well off, and we don’t hear about endemic poverty and famine. Nevertheless, these things did exist, along with injustice, banditry, and economic uncertainty. We hear frequent laments about how unpredictable wealth is, whether the older forms of wealth in cattle and land, or the newer forms of wealth in money and career.
 
@@ -154,7 +152,7 @@ The Buddha was not a social revolutionary, and did not overtly agitate for an ov
 
 A man was supposed to earns funds so as to take care of his family and protect them. The money he earned was to be used to provide for his family, treating workers with kindness and decency, and not neglecting to assign some funds for savings, and some for donations to charity.
 
-A woman’s role was to marry and bear children. Aside from this, her options were limited. We rarely hear of professional women aside from sex workers. In this context, the opportunity to become a nun allowed women to pursue their own spiritual and intellectual development, to act and leaders and teachers, and to be respected and supported in that role.
+A woman’s traditional role was to marry and bear children. Aside from this, her options were limited. We rarely hear of professional women aside from sex workers. In this context, the opportunity to become a nun allowed women to pursue their own spiritual and intellectual development, to act and leaders and teachers, and to be respected and supported in that role.
 
 Many of the more extreme manifestations of sexual discrimination are not found in the early texts. We find no mention of child brides, immolation of widows, or the essential subjugation of women to men. Such things only appear in later Indian practices and law books.
 
@@ -167,7 +165,7 @@ India had not yet developed the fully-fledged caste system of later times. But t
 
 Not everyone fit into this neat scheme. We hear reference to outcastes and various tribal peoples. In addition, there were slaves or bonded servants. Finally, the ascetics (*samaṇa*) such as the Buddha saw themselves as having left behind all such notions of caste.
 
-### The Many Spiritual Paths of Ancient India
+## The Many Spiritual Paths of Ancient India
 
 Change was not limited to the worldly sphere. The religious life of ancient India was equally dynamic. It would be a mistake to read modern conditions back into the ancient texts. Some of the elements that make up modern Hinduism may be discerned, but Indian religion, like spiritual and religious practice everywhere, has always been in a state of flux and evolution. Many of the old gods featured in the Ṛg Veda had vanished by the time of the Buddha, and many of the famed deities of later Hinduism had not yet appeared. Those who do appear take on a markedly different aspect; prominent gods may appear in minor roles, or a warrior like Sakka (AKA Indra) appears as an apostle of peace.
 
@@ -177,9 +175,82 @@ While many of these people ended up declaring themselves followers of the Buddha
 
 Amid the complex sets of religious practices, we may discern three major domains.
 
-1. **Animism:** In the villages and towns of ancient India, the most widespread folk religion was a belief in the omnipresent reality of spirits in nature. Such deities might embody aspects of the weather, or live in plants or rivers or caves; they might promote abundance, or take ferocious and threatening forms. They were unreliable, but could be wooed through simple offerings of rice, flowers, or ghee. Animist beliefs were derived from local legends and rituals, not from religious philosophy. However, the higher religious paths such as Buddhism or Jainism, rather than repressing such beliefs, were happy to assign them a minor role in the scheme of things, so long as they eliminated harmful practices like human or animal sacrifice.
-1. **Brahmanism:** The caste who called themselves “brahmins” inherited an ancient body of sacred lore known as the Vedas. This consisted of three sets of oral scriptures (in the early Buddhist texts; later the Arthavaveda was added as the fourth), among which the Ṛg Veda was primary. The Ṛg Veda was ultimately derived from the cultural and religious milieu of the ancient Indo-European peoples, and shares much in common with the Persian Zend Avesta, and more distantly, the mythologies of Europe. It seems that the Indo-European people moved into India around a millennium before the Buddha, with distinct clans maintaining sets of sacred lore. Around 800 BCE in the area know as the Kuru country (modern Delhi) the clans were unified into the classical brahmanical kingdom whose story is echoed in the Mahābharata. The Ṛg Veda was forged from the books of the clans, wrapped in opening and closing chapters emphasizing unity. By the time of the Buddha, the brahmanical culture and language had already become strongly established in the regions further south and east where the Buddha lived. The brahmins insisted on the holiness of their caste, the efficacy of their rituals, the truth of their scriptures, and the omnipotence of their deities. The Buddha rejected all these claims out of hand. However, Brahmanical traditions were far from a unified monolith. We see a strong strand of questioning of tradition, of seeking out new ways, of earnest seeking of the truth; and such attitudes are just as strong in the Brahmanical texts as the Buddhist. Brahmins were typically family men, living a settled life, and expecting a degree of social respect and standing due to their learning and caste—a respect that they did not always deserve. Some brahmins had adopted an ascetic lifestyle, apparently influenced by the *samaṇas*. In the generations preceding the Buddha, brahmanical philosophy had reached a peak in the Upanishads, with their sophisticated debates and mystic philosophy of the essential unity of self and cosmos. Some early Upanishads are apparently referred to in DN 13 <cite>Tevijjā</cite>, and the Upanishadic docrtine of "self" (*ātman*) was prominently rejected by the Buddha in his most distinctive teaching: not-self (*anattā*).
-1. **The Samaṇas:** Quite distinct from the brahmins, and often in opposition to them, was a complex religious movement known as the <i>samaṇas</i> or “ascetics”. Six prominent ascetic schools were acknowledged in the time of the Buddha, and the Buddha counted himself among them. Like the Buddhists, the other *samaṇas* were typically celibate renunciates, living either in solitude or in monastic communities, and relying on alms for food.  The most famous—and the only one to survive until today—was the Jains, who flourished under their leader Mahāvīra, known as Nigaṇṭha Nātaputta in the Buddhist texts. The ascetics shared an iconoclastic attitude, and all rejected the brahmanical system *in toto*. However they varied amongst each other, as shown in their teachings attested at DN 2 <cite>Sāmaññaphala</cite> as well as MN 60 and MN 76. Some emphasized austerities and self-mortification, others rationality and debate. Some advocated ardent effort, others a resigned fatalism. Some taught rebirth, while others asserted that this material world was the only reality. But regardless of what we might think of their sometimes florid and obscure doctrines, they are a lasting testament to the diversity and vigor of religious life in ancient India.
+### Animism
+
+In the villages and towns of ancient India, the most widespread folk religion was a belief in the omnipresent reality of spirits in nature. Such deities might embody aspects of the weather, or live in plants or rivers or caves; they might promote abundance, or take ferocious and threatening forms. They were unreliable, but could be wooed through simple offerings of rice, flowers, or ghee.
+
+Animist beliefs were derived from local legends and rituals, not from religious philosophy. However, the higher religious paths such as Buddhism or Jainism, rather than repressing such beliefs, were happy to assign them a minor role in the scheme of things, so long as they eliminated harmful practices like human or animal sacrifice.
+
+### Brahmanism
+
+The caste who called themselves “brahmins” inherited an ancient body of sacred lore known as the Vedas. This consisted of three sets of oral scriptures (in the early Buddhist texts; later the Arthavaveda was added as the fourth), among which the Ṛg Veda was primary.
+
+The Ṛg Veda was ultimately derived from the cultural and religious milieu of the ancient Indo-European peoples, and shares much in common with the Persian Zend Avesta, and more distantly, the mythologies of Europe. It seems that the Indo-European people moved into India around a millennium before the Buddha, with distinct clans maintaining sets of sacred lore.
+
+Around 800 BCE in the area know as the Kuru country (modern Delhi) the clans were unified into the classical brahmanical kingdom whose story is echoed in the Mahābharata. The Ṛg Veda was forged from the books of the clans, wrapped in opening and closing chapters emphasizing unity.
+
+By the time of the Buddha, the brahmanical culture and language had already become strongly established in the regions further south and east where the Buddha lived.
+
+The brahmins insisted on the holiness of their caste, the efficacy of their rituals, the truth of their scriptures, and the omnipotence of their deities. The Buddha rejected all these claims out of hand.
+
+However, Brahmanical traditions were far from a unified monolith. We see a strong strand of questioning of tradition, of seeking out new ways, of earnest seeking of the truth; and such attitudes are just as strong in the Brahmanical texts as the Buddhist.
+
+Brahmins were typically family men, living a settled life, and expecting a degree of social respect and standing due to their learning and caste—a respect that they did not always deserve. But some brahmins had adopted an ascetic lifestyle, apparently influenced by the *samaṇas*.
+
+In the generations preceding the Buddha, brahmanical philosophy had reached a peak in the Upanishads, with their sophisticated debates and mystic philosophy of the essential unity of self and cosmos. Some early Upanishads are apparently referred to in DN 13 <cite>Tevijjā</cite>, and the Upanishadic docrtine of “self” (*ātman*) was prominently rejected by the Buddha in his most distinctive teaching: not-self (*anattā*).
+
+### The Samaṇas
+
+Quite distinct from the brahmins, and often in opposition to them, was a complex religious movement known as the <i>samaṇas</i> or “ascetics”. Six prominent ascetic schools were acknowledged in the time of the Buddha, and the Buddha counted himself among them.
+
+Like the Buddhists, the other *samaṇas* were typically celibate renunciates, living either in solitude or in monastic communities, and relying on alms for food.  The most famous—and the only one to survive until today—was the Jains, who flourished under their leader Mahāvīra, known as Nigaṇṭha Nātaputta in the Buddhist texts.
+
+The ascetics shared an iconoclastic attitude, and all rejected the brahmanical system *in toto*. However they varied amongst each other, as shown in their teachings attested at DN 2 <cite>Sāmaññaphala</cite> as well as MN 60 and MN 76. Some emphasized austerities and self-mortification, others rationality and debate. Some advocated ardent effort, others a resigned fatalism. Some taught rebirth, while others asserted that this material world was the only reality.
+
+But regardless of what we might think of their sometimes florid and obscure doctrines, they are a lasting testament to the diversity and vigor of religious life in ancient India.
+
+### Cosmology
+
+A recurring theme in many of the religious strands of India is a concern for cosmology. A religious philosophy was expected to paint a picture of the world on a large scale and indicate humanity’s role within it. Like all aspects of religious life, such cosmologies were partly shared across traditions, and in part were unique to each tradition.
+
+Some traditions asserted a materialist cosmology, rejecting the notion that one would be reborn in any other state and asserting that only this life was real.
+
+Most cosmologies, however, posited multiple realms of existence. Beings would come and go from these different stations. Some were pleasant and desirable, while others were not. As to why this was so, different reasons were given.
+
+- Some ascetics argued that beings transmigrated due to destiny or chance.
+- Mainstream Brahmanical traditions said it was due to the performance of rituals and sacrifices to the gods.
+-  Some said that rebirth was determined by intentional actions, whether moral or immoral.
+
+The latter view was held by some ascetic schools such as Buddhism and Jainism and some threads of Brahmanism. These traditions shared a conception of transmigration that in many ways is quite similar. Three common elements can be discerned:
+
+1. All sentient beings are reborn countless times in process called <i>saṁsāra</i> (“transmigration”).
+2. This process is driven by ethical choices (<i>kamma</i>). Good deeds lead to a pleasant rebirth; bad deeds lead to a painful rebirth.
+3. True salvation is not found in any realm of existence, but only in liberation from transmigration itself.
+
+While these aspects of the cosmology were shared, the details differed in both theory and practice.
+
+Jain and Brahmanical theory proposed that transmigration was undergone by a soul or self (<i>ātman</i> or <i>jīva</i>) which could attain freedom. For the Jains, the individual soul would attain an eternal purity and bliss. For the most sophisticated brahmins, individual self would realize its true nature as identical with the divine cosmos itself.
+
+The Buddha rejected all such metaphysical notions of self or soul. Instead, he explained transmigration as an ongoing process of changing conditions, formulated as the famous twelve links of dependent origination (<i>paṭicca samuppāda</i>).
+
+In the practical application of their theory, Jains believed that the way to salvation was to firstly avoid harming any sentient beings, even unintentionally, and then to burn off past <i>kamma</i> through painful austerities. The brahmins, as seen in the suttas, did not have such a clear and unambiguous path to a highest goal, and indeed are depicted as arguing among themselves as to the correct path. This reflects the historical situation, where the earlier, simpler, and more worldly goals of Vedic Brahmanism were growing into a more sophisticated Upanishadic form.
+
+The Buddha shared the Jain concern for avoiding harm, but rejected the practice of extreme austerities. Rather than bodily torment, he emphasized mental development. Certain Brahmanical lineages had developed meditation to a high degree before the Buddha, but meditative states were still conceived in metaphysical terms. The Buddha adopted such meditations for their value in purifying the mind, but interpreted them in purely psychological terms.
+
+One of the benefits of advanced meditation was that a practitioner would develop the ability to perceive many past lives and many realms into which beings may be reborn. In this, we may distinguish between the core doctrinal texts, which typically speak of rebirth in general terms as good or bad destinies, and the narrative portions, which depicted the realms of rebirth in terms familiar from popular Indian cosmology.
+
+The early texts do not attempt to systematize these realms in any great detail. Indeed, the various deities and realms mentioned defy any simple categorization. Later Buddhism developed a theory of various realms, sometimes called the 31 planes of existence, but this does not fully represent the situation as found in the early texts.
+
+Here is general overview of the most important realms found in the suttas. All of these, even the most high, are impermanent and do not constitute true freedom.
+
+- **Brahmā realms:** The highest heavens, which correspond to attainments of absorption meditation (<i>jhāna</i>). Certain of these realms (the Pure Abodes) may only be attained by non-returners, who have reached the third of the four stages of Awakening in Buddhism.
+- **Heavens of sensual pleasures:** Many of these are mentioned, most commonly the realm of the Thirty-Three, governed by Sakka. Various beings from Indian animist beliefs live in the lesser of these realms, including <i>yakkhas</i> (spirits), <i>nāgas</i> (dragons), <i>garudas</i> (phoenixes), and <i>gandhabbas</i> (fairies).
+- **Human realm:** The most important realm, where Buddhas appear and the spiritual path is taught.
+- **Lower realms:**  These include the animal realm, the ghost realm, and the hells. The realm of the <i>asuras</i>—titans or demons—is usually placed here in the later cosmologies, but the early texts seem to treat it as one of the heavens.
+
+The Buddha taught that doing good and avoiding bad was the path to rebirth in one of the fortunate realms, which include the human realm and all higher realms. However, the course of transmigration is long and unpredictable, so no heaven realm provides a sure refuge. Far from teaching rebirth as a solace for naive followers unable to face the inevitability of death, rebirth is depicted in traumatic and terrifying terms. The tears that one has shed in the endless course of transmigration are greater than all the oceans of the world. Thus the true significance of doing good deeds is not merely to get a better rebirth, but to lay the foundations for higher spiritual development, primarily through meditation.
+
+In the core teaching of the Four Noble Truths, the origin of all suffering is traced to the craving that is connected with rebirth (<i>yāyaṁ taṇhā ponobbhavikā</i>). The practice of the noble eightfold path is the only thing that enables one to let go of that craving and be free of suffering. This is what the Buddha called “extinguishment” or “quenching” (<i>nibbāna</i>; Sanskrit <i>nirvāṇa</i>).
 
 ## The Buddha’s Life
 
