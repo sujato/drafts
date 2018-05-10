@@ -277,3 +277,19 @@ Despite his exalted and revered status, the Buddha in the Majjhima had not yet b
 In the early texts, the term *bodhisatta* means “one intent on awakening”. It primarily refers to the period after leaving home and before awakening. It is clear from the descriptions of his practices that the Buddha was not following a path that he had started long ago, but was exploring the different options available to him, uncertain as to how awakening may be gained. His crucial insight came, not by recollecting vows made in past lives, but when he remembered the time he fell into absorption as a child.
 
 The Buddha goes to great lengths to detail the many trials and experiments he undertook before his path was mature. His truly special quality was that he discovered the path through his own efforts, and later taught that same path to his disciples. Even disciples who had realized the same liberation and understanding revered the Buddha as the one of unsurpassed wisdom and compassion who had illuminated the path for others.
+
+## A Brief and Incomplete Textual History
+
+The significance of the *nikāyas* was recognized by European scholars early on. The Pali Text Society, founded by T.W. Rhys Davids, and largely funded by Asian donors, obtained palm-leaf manuscripts, on the basis of which they prepared print editions of all the Pali texts.
+
+These print editions introduced a number of conventions of western publishing. Most obviously, they used a set of conventions for presenting Indic scripts with European letters. This system is lossless, so texts may be automatically changed from one script to another (which is the basis of SuttaCentral's script changing utility.) They also introduced titles at the start of texts, punctuation and capitalization, page numbers, footnotes, variant readings, and various other modern innovations.
+
+One innovation that was not pursued consistently was the introduction of chapter and section numbers. These were added to the PTS Pali editions of the Dīgha Nikāya and the Vinaya, and are used in subsequent translations. However most of the PTS lack such editions, with the unfortunate consequence that academic referencing of Pali texts is still based on the volume and page of the PTS edition, a system that is neither practical nor accurate.
+
+The PTS editions were ground-breaking and have exerted an unparalleled influence on modern Buddhism, both east and west. Asian scholars have been well aware of them, with the consequence that it is probably hard to find any printed edition from the 20th century that is completely free of their influence. Nevertheless, the quality of the PTS texts is not particularly reliable. They were put together over a considerable period of time, with scant resources and few workers. The editors used whatever manuscripts they had to hand, and it is hard to discern a consistent or clear methodology in their choices of readings. The limitations of these editions are well known among experts in the field, and in some cases updated and improved editions have been published.
+
+I will discuss specifics of the editions and translations in the essays on the individual *nikāyas*.
+
+For my translation of the *nikāyas*, I preferred to use the the Mahāsaṅgīti edition, which is essentially a digital representation of the Burmese textual tradition of the 5th and 6th Councils. It is based on the digital edition prepared by the Vipassana Research Institute, with extensive prrofreading and corrections by the Dhamma Society of Bangkok. The Mahāsaṅgīti is, so far as I know, the most consistent and carefully edited digital text, and for that reason was chosen as the root Pali text for SuttaCentral.
+
+However, like most translators, when editions vary I did not adhere to one edition, but simply selected what seems to be the best reading in each case.
