@@ -1,6 +1,6 @@
 # A Reader’s Introduction to the Middle Discourses
 
-The Majjhima Nikāya is the second of the four main collections in the Sutta Piṭaka of the Pali Canon (*tipiṭaka*). It is translated here as <cite>Middle Discourses</cite>, and is sometimes known as the <cite>Middle-Length Discourses</cite>. As the title suggests, its discourses are somewhat shorter than those of the Dīgha Nikāya (<cite>Long Discourses</cite>), but longer than the many short discourses collected in the Saṁyutta Nikāya (<cite>Linked Discourses</cite>) and Aṅguttara Nikāya (<cite>Numbered Discourses</cite>).
+The Majjhima Nikāya is the second of the four main divisions in the Sutta Piṭaka of the Pali Canon (*tipiṭaka*). It is translated here as <cite>Middle Discourses</cite>, and is sometimes known as the <cite>Middle-Length Discourses</cite>. As the title suggests, its discourses are somewhat shorter than those of the Dīgha Nikāya (<cite>Long Discourses</cite>), but longer than the many short discourses collected in the Saṁyutta Nikāya (<cite>Linked Discourses</cite>) and Aṅguttara Nikāya (<cite>Numbered Discourses</cite>).
 
 In the classic introduction to his translation of the Majjhima Nikāya—an introduction that inspired the current essay—Bhikkhu Bodhi described the Majjhima as “the collection that combines the richest variety of contextual settings with the deepest and most comprehensive assortment of teachings”. He went on to situate it among the other *nikāyas*:
 

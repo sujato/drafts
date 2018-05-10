@@ -1,6 +1,6 @@
 # A Reader’s Introduction to the Long Discourses
 
-The Dīgha Nikāya is the first of the four main collections in the Sutta Piṭaka of the Pali Canon (*tipiṭaka*). It is translated here as <cite>Long Discourses</cite>. As the title suggests, its discourses are somewhat longer than those of other *nikāyas*. There are, however, only 34 discourses in the collection, so despite the length of the individual discourses, the collection as a whole is by far the shortest of the *nikāyas*.
+The Dīgha Nikāya is the first of the four main divisions in the Sutta Piṭaka of the Pali Canon (*tipiṭaka*). It is translated here as <cite>Long Discourses</cite>. As the title suggests, its discourses are somewhat longer than those of other *nikāyas*. There are, however, only 34 discourses in the collection, so despite the length of the individual discourses, the collection as a whole is by far the shortest of the *nikāyas*.
 
 It is distinguished from the other *nikāyas* by its more developed and elaborate literary forms. Outgrowing the bare and direct style of most of the early texts, here the extra length offers space for narratives and doctrinal expositions to find a fuller expression. This is an early hint at how the literary form of Buddhist texts was to develop in later years, moving towards expansiveness and abundance.
 
