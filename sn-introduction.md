@@ -1,4 +1,4 @@
-# A Reader's Introduction to the Linked Discourses
+# A Reader’s Introduction to the Linked Discourses
 
 The Saṁyutta Nikāya is the third of the four main divisions in the Sutta Piṭaka of the Pali Canon (*tipiṭaka*). It is translated here as <cite>Linked Discourses</cite>, and is sometimes known as the <cite>Connected Discourses</cite>. As the title suggests, its discourses are grouped thematically. These thematic groups of texts are called *saṁyuttas*, and the Saṁyutta Nikāya is the collection of such *saṁyuttas*.
 
