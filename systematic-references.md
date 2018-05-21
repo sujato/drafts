@@ -2,7 +2,7 @@
 
 ## Background
 
-SC inherits tens of thousands of texts, with probably hundreds of different referencing systems. Dealing with these elegantly and predictably is one of the hardest problems that we face. We have over the years discussed this many times, and spent a great deal of time and effort during development to get it right. Nevertheless, the system as it is is deeply flawed. I’ve been trying to think of ways to improve it, and I think I have an idea.
+SC inherits tens of thousands of texts, with probably hundreds of different referencing systems. Dealing with these elegantly and predictably is one of the hardest problems that we face. We have over the years discussed this many times, and spent a great deal of time and effort during development to get it right. Nevertheless, the system as it is is still flawed. I’ve been trying to think of ways to improve it, and I think I have an idea.
 
 ## The problem
 
@@ -30,7 +30,7 @@ I suggest that we introduce a set of three classes of references. For each item,
 
 ## How to do it
 
-As you know, my understanding of how it all works is very basic, so here are just some thoughts if they are useful.
+My understanding of how the coding works is very basic, so here are just some thoughts if they are useful.
 
 1. Go through all the texts, identify all the referencing systems in them, and assign them to one of the three classes.
   - Keep this in a new file, `reference-classes.json`?
