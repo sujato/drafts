@@ -1,6 +1,8 @@
 Dear Sir or Madam,
 
-It was with great delight and not a little surprise that I came across an ancient manuscript of the Pali Cullavagga in the National Library in Colombo recently. As soon as I saw it I recognized its great value and interest for studying Pali and Buddhism and realized the need for a digital edition of the text for use by Pali scholars. With this letter I would like to propose to you the establishing of a project to do just that. 
+Re: Scanning and digitizing the Cullavagga
+
+It was with great delight and not a little surprise that I came across an ancient manuscript of the Pali Cullavagga in the National Library in Colombo recently. As soon as I saw it I recognized its great value and interest for studying Pali and Buddhism and realized the need for a digital edition of the text for use by Pali scholars. With this letter I would like to propose to you the establishing of a project to do just that.
 
 But first, a little background. My name is Bhante Sujato, and I am an Australian bhikkhu, ordained in 1994 in the Ajahn Chah tradition in Thailand. Since 2005 I have been running a website called SuttaCentral, which gathers early Buddhist texts in Pali, Sanskrit, Chinese, and Tibetan. Recently I spent over two years in retreat in Taiwan, during which time I completed a full translation of the four main Pali *nikāyas* into English.
 
@@ -21,4 +23,4 @@ Here is an initial proposal for the scope of the project as I envisage it.
 3. Engage an epigraphic expert to determine the exact nature of the script.
 4. Have the manuscript typed.
 5. Publish digitally, and perhaps in print.
-6. The text, as well as accompanying artwork and historical context, should be described in appropriate journal articles.
+6. The text, as well as accompanying artwork and historical context, should be described in appropriate journal articles. Note, however, that the primary scope of the work is to make the text available for scholars, not to do a detailed study of it at this stage.
