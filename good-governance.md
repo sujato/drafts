@@ -72,7 +72,7 @@ Here, I will discuss the Buddhist contribution to good governance using the Budd
 
 A successful leader is one who inspires others to action: (a) by example, (b) with authority, and (c) through kindness.
 
-### 1a. Leading by example
+\subheading{1a. Leading by example}
 
 The great political leader, Mahatma Gandhi, succeeded in liberating his country of India from colonial domination with surprisingly little bloodshed. The leadership skills that he possessed were developed over a lifetime and were essential to his ability to maintain harmony in all the diverging factions of the independence movement. The greatest of his leadership skills, in my view, was his ability to lead by personal example.
 
@@ -85,7 +85,7 @@ A leader who would only ask others to do what they already do themselves, is one
 The Buddha clearly taught that the leaders of the Sangha should not be allowed to be preceptors or teachers unless they have sufficient virtue, meditation experience, and wisdom (Mv. 1.36-37). And Kings should be virtuous and diligent (Cakkavatti-Sihanada Sutta, DN26). In other words, Buddhism extols leading by example.
 
 
-### 1b. Leadership with authority.
+\subheading{1b. Leadership with authority.}
 
 There are three types of authority: conferred authority, inherent authority, and assumed authority. Only the first two types have any legitimacy and are thus sustainable.
 
@@ -104,7 +104,7 @@ In the time of the Buddha, Devadatta attempted to assume authority over the Sang
 
 Buddhism suggests, through its code of monastic rules, that the most effective and sustainable form of leadership is one with a combination of conferred and inherent authority, avoiding all forms of assumed authority.
 
-### 1c. leadership through kindness
+\subheading{1c. leadership through kindness}
 A general in the Chinese Imperial Army was once asked by the Emperor why his soldiers had such perfect discipline, while other troops had not. He replied that his soldiers would always obey him, because he only told them to do what the already wanted to do!
 
 This was not meant as a joke, rather it reveals the secret of effective leadership. The secret is motivation. That general’s troops had been so perfectly motivated by him that when he told them to train long and hard, they already had the desire to train. When he ordered them to march, they loved marching.  And when he commanded them into battle at the risk of their very lives, they wanted to rush into the fight. They had perfect discipline, because they had been so well motivated. An effective leader is skilful at motivating others.
@@ -119,7 +119,7 @@ A leader is the captain, not the team. They are the front pair of feet of the ce
 
 It is the responsibility of a leader to make decisions. Buddhism’s contribution to the psychology of decision making is profound. The Buddha taught that, before making any decisions, one should first ensure that one is not acting out of the ‘4 Agati’ self-interest, ill will, delusion, or fear.
 
-### 2a. Self-interest
+\subheading{2a. Self-interest}
 
 Buddhism teaches that one of the duties of an ideal monarch (Cakkavatti Dhammaraja) is to practise generosity. What does this mean? In modern day Buddhism, some people go to the temple to give requisites so that the pretty girl that they like will fall in love with them, or they invite monks to a meal ta their office so that their profits will go up, or they give a large monetary donation to a monastery building project so that their name will appear on a big brass plaque. That is not generosity – it is doing a deal. It is a form of business where one gives a sum of money to the temple in return for advertising rights, for one’s own name on the big brass plaque. True giving has to be done expecting nothing back in return.
 
@@ -143,7 +143,7 @@ I replied “Happiness, madam, only happiness”.
 
 Similarly, the ideal form of governance in Buddhism would have leaders embracing self-sacrifice and not self-interest. They would lead without any concern for material reward. Their only reward would be in the happiness of service. It would reflect what President John Fitzgerald Kennedy once said it is not what your country can do for you, but what you can do for country, but it now applied to the leadership not the citizens.
 
-### 2b. Ill Will
+\subheading{2b. Ill Will}
 
 A decision motivated by ill will only generates more ill will. As the famous verse in the Dhammapada states that hatred never cease through hatred in this world. The inspirational leader, Nelson Mandela, was imprisoned unfairly for 26 years. A short time after his released from jail he became president of South Africa with full power to take revenge upon those who imprisoned him. Instead he forgave. He governs without ill will towards those who had oppressed his race. Because of Mandela’s attitude, the nation was led forward with surprisingly little violence out of the darkness of apartheid.
 Mahatma Gandhi was beaten many times, as well as imprisoned. He too led without ill will. He once said, “I can see a thousand reasons for giving my life for a good cause, but not one reason for taking the life of another”. Such leadership drove the most powerful Empires of its time out from his country. I also wish to quote the Russian proverb, made famous by President Yeltsin that one can not sit on a throne made of swords.
@@ -152,7 +152,7 @@ These anecdotes make clear that governing with ill will, hatred, or revenge, onl
 
 Decisions made from ill will only generate more problems. In Greek mythology there was a many headed monster called the Hydra. When an assailant cut off one of the Hydra’s heads, the monster would quickly grow another two! A decision motivated by ill will is like cutting off one of the Hydra’s heads, it only doubles the number of problems.
 
-### 2c. Delusion
+\subheading{2c. Delusion}
 
 When one is in thrall to self-interest or desire, one only sees what one wants to see. When one is under the influence of ill will, one is in denial to all that isn’t negative. Self-interest and ill will are the first causes of delusion. When a leader is deluded through self-interest or ill will, they will misunderstand the situation and make grave errors in their governance.
 
@@ -193,7 +193,7 @@ While the King’s soldiers were separating the blind and bruised brawlers, the 
 
 Each one of us can know only a part of the whole that constitutes truth, when we hold on to our limited knowledge as absolute truth, we are like one of the blind men feeling a part of the elephant and inferring that their own partial experience is the truth, all else being wrong. Instead of blind faith, we can have dialogue. Imagine the result if the seven blind men, instead of opposing their data, had combined their experience. They would have concluded that an ‘elephant’ is something like a huge rock standing on four stout tree trunks. On the back of the rock is a flywhisk, on the front a large water jar. At the sides of the jar are two palm-leaf fans, with two ploughs towards the bottom and a long python in the middle! That would not be such a bad description of an elephant, for one who will never see one.
 
-### 2d. Fear
+\subheading{2d. Fear}
 
 Many ineffectual leaders are crippled through fear of what other people think of them. I have advised many government ministers, a premier and even an executive president never allow the media to control your happiness. Many a government can be imprisoned by a free press! Timidity is not good governance.
 
@@ -204,7 +204,7 @@ May years ago, when I was a monk in Thailand wandering on tudong, I was sitting 
 A leader’s duty is not only to make decisions avoiding self-interest, ill will, delusion, or fear, the manager must also be a wise problem-solver. They must be skilful in giving feedback, taking feedback and creating a meaningful agenda.
 
 
-### 3a. Giving Feedback
+\subheading{3a. Giving Feedback}
 
 The leader of a team is responsible for nurturing its members by giving them feedback. In modern business jargon this is called “Performance assessment”. A team cannot be successful when it is carrying a member who is either not pulling his weight or is downright obstructive. It is the leader’s job to ensure that every member of their team is performing well.
 
@@ -223,7 +223,7 @@ Fifthly, when admonishing another, it is helpful to make clear that it isn’t t
 
 This is how Buddhism advises to give feedback.
 
-### 3b. Taking Feedback
+\subheading{3b. Taking Feedback}
 
 The Buddha’s chief disciples, Ven Sariputta, was walking to the village for alms round one day when a little novice monk told the great arahant that he was improperly dressed. The statues of Ven Sarriputta will be like a fabulously wealthy and powerful Vice President of a Fortune 500 company being criticized by the office boy. But Ven Sariputta never shouted,” Who do you think you are, you insignificant little mouse? Get out of my sight!”, as would probably have been the case with the VP and the office boy. Instead, Ven Sariputta looked at his robes, noticed that the novice was right, went behind a thicket to adjust the robe, then came out to thank the novice. The great, enlightened Sariputta, second in wisdom only to the Buddha, then called the little novice his teacher. That is how great leaders take feedback.
 
@@ -237,7 +237,7 @@ Three aspiring politicians were being interviewed for selection to stand for the
 
 It takes humility, courage and effort for leaders to seek out feedback from beyond their inner circle, and even beyond their outer circle. But without such feedback, good governance is lost.
 
-### 3c. Creating a meaningful agenda.
+\subheading{3c. Creating a meaningful agenda.}
 
 Whether one is a Prime Minister or a Sangharaja, an abbot or a CEO, a general or a department manager, one also has the role of steering the country or the organisation towards a worthwhile goal. This is ‘the big picture’ part of a governance, and I have deliberately left it to the last, because many managers never seem to get past ‘the big picture’. It is the leader’s job to articulate the agenda, and convince others of its value, and embody it through example.
 
