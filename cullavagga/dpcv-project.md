@@ -80,7 +80,7 @@ A project such as this requires a variety of specialized technical skills and eq
 4. **University of Sri Jayawardenepura**
    - Ven. Prof. Medagoda Abhayatissa has lent his support to the project in recognition of its importance for Pali studies.
 5. **Bhante Sujato of SuttaCentral**
-  - The author of this document! I have a special interest in the digital aspects of the project, due to my extensive experience managing digital texts for suttacentral.net.
+   - The author of this document! I have a special interest in the digital aspects of the project, due to my extensive experience managing digital texts for suttacentral.net.
 
 ## How to proceed
 
@@ -94,7 +94,7 @@ Here I will outline what I envisage as the scope of the project. This will have 
 
 In order to achieve the project efficiently and in good time, it is important to break the project down into clear subtasks, each with an agreed body or person to take responsibility. Here is the initial proposal of this.
 
-#### Review the manuscript to ascertain the state of preservation
+### Review the manuscript to ascertain the state of preservation
 
 The manuscript appears to be in good condition, but it must be carefully examined before taking any action. This must be done by an experienced expert in the field. Any recommendations must be followed so as to ensure the manuscript is not damaged by the digitization process.
 
@@ -200,9 +200,9 @@ Consider our source manuscript. It tells us it was copied by Sumedha Mahāthera 
 
 Now consider our digital texts. Who were they typed by? Who authorized them? Who sponsored them? What was the process by which the work was done? In most cases, we know none of these things. The texts are produced, vaguely ascribed to an institution, and published in a digital form with little or nothing to tell us how they were made. We have better information about a 13th century manuscript than we do about most of our digital texts.
 
-As a result of poor digital management strategies, it is unfortunately common for years of work to be lost. The Pali text used on SuttaCentral, for example, was rescued from a project by the Dhamma Society of Bangkok. Unfortunately, the parent organization fell apart and their online presence disappeared. The text, which they had devoted years to proofing and preparing, vanished. It was only be sheer luck that we located a source that had been copied by a monk. In another case, years of work annotating and preparing a digital version of a Pali dictionary in a German University was permanently lost, as the IT manager resigned and left without sharing the passwords.
+As a result of poor digital management strategies, it is unfortunately common for years of work to be lost. The Pali text used on SuttaCentral, for example, was rescued from a project by the Dhamma Society of Bangkok. Sadly, the parent organization fell apart and their online presence disappeared. The text, to which they had devoted years of proofing and preparing, vanished. It was only by sheer luck that we located a source that had been copied by a monk. In another case, years of work annotating and preparing a digital version of a Pali dictionary in a German University was permanently lost, as the IT manager resigned and left without sharing the passwords.
 
-We can do better. What, we should ask, is the gold standard for creating and maintaining digital projects? In my view, the answer is this: it is what programmers use for their own projects. What we are producing is, in fact, just code, at its core, binary data. As such, it is no different from what programmers produce.
+We can do better. What, we should ask, is the gold standard for creating and maintaining digital projects? In my view, the answer is this: it is what programmers use for their own projects. What we are producing is, in fact, just code. At its core it is binary data, no different from what programmers produce.
 
 ### Use Github for all assets
 
@@ -210,7 +210,7 @@ For many years, SuttaCentral has managed its code and source texts at Github. Gi
 
 The great advantage of using Github is that it preserves every detail about *what* changes are made, *who* changed it, *when* they changed it, and (optionally but recommended) *why* they changed it. These are recorded in an indelible and publicly accessible form on Github. On Github, *nothing is ever deleted*. So if any mistake is made, no matter how small or large, we can always revert it back to the prior state. This means that we can preserve a forensic level of detail and accuracy in all our doings, setting a new standard for reliability and transparency.
 
-Github is free and simple to use. Anyone with access to the Github account can add or alter assets. No special software is needed; it can be done simply via a browser. For team members, it will be useful to set up a local version of the Github repository. (In Git terminology, a “repository” or “repo” is simply a folder that contains a set of files for a project.) Local tech support can set this up; because we’re using the same tools that programmers use themselves, pretty much every programmer will know how to do this.
+Github is free and simple to use. Anyone with access to the Github account can add or alter assets. No special software is needed; it can be done simply via a browser. For team members, it will be useful to set up a local version of the Github repository. (In Git terminology, a “repository” or “repo” is a folder that contains a set of files for a project.) Local tech support can set this up; because we’re using the same tools that programmers use themselves, pretty much every programmer will know how to do this.
 
 Since Github is designed as a workshop for creating programs, any data and files may be exported (“forked”) into other applications. Thus the data may be made use of by many different projects. In addition, this encourages the creation of multiple redundant copies, thus ensuring the survival of the information.
 
@@ -251,7 +251,7 @@ Normally, it is a lot of work to create and coordinate such rich data associated
         Evaṃ me sutaṃ—
         ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.
 
-Notice that, even though there is no metadata at all, we can keep the segments coordinated with the original file by simply counting the line numbers: one line = one segment.
+Even though there is no metadata at all, we can keep the segments coordinated with the original file by simply counting the line numbers: one line = one segment.
 
 When our typists are working on the DP CV, they will keep one window on their computer to see this reference edition. Each time they come to a new segment, they mirror the reference edition by pressing <kbd>Enter</kbd> to create a new line. By this extremely simple method we can integrate our new edition with all the rich associated data from the reference edition.
 
@@ -263,10 +263,10 @@ I recommend using the open-source text editor Atom for this process. It can be u
 
 Here is how the text is created.
 
-1. Create a new text file with the ID of the appropriate chapter, let us say kd1.
+1. Create a new text file with the ID of the appropriate chapter, let us say `kd1`.
 2. Type exactly what is on the page.
-2. At the end of each line in the manuscript, insert an arbitrary glyph, let us say $.
-3. At the end of each page in the manuscript, insert a (different) arbitrary glyph, let us say #.
+2. At the end of each line in the manuscript, insert an arbitrary glyph, let us say `$`.
+3. At the end of each page in the manuscript, insert a (different) arbitrary glyph, let us say `#`.
 4. Text is segmented by adding a new line (i.e. hit <kbd>Enter</kbd> for each new segment.)
 
 That’s all that is required to create a new digitized edition.
