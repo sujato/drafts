@@ -14,8 +14,8 @@ The aim of the project is to make available to scholars internationally the cont
 - Carbon date the manuscript.
 - Have the manuscript carefully typed and proofread.
 - Publish digitally and in print.
-- Academic documentation
-- Publicity and popular awareness
+- Document the project in academic journals and conferences.
+- Publicize the project in popular awareness.
 
 To accomplish this will require the cooperation and goodwill of scholars, governmental organizations, and universities.
 
@@ -53,15 +53,15 @@ This follows the conventions established on SuttaCentral, where Kd stands for Kh
 
 The texts of the Pali Tipiṭaka are our most important witness for the original teachings and person of the Buddha. Their significance has always been recognized in Theravada Buddhism, and became known internationally in the 19th century through the work of scholars such as [T.W. Rhys Davids](http://0-www.worldcat.org.novacat.nova.edu/identities/lccn-n50035648/) in England and [Bunyiu Nanjio](http://0-www.worldcat.org.novacat.nova.edu/identities/lccn-n81033028/) in Japan.
 
-Pali texts were traditionally passed down on palm (or *ola*) leaf manuscripts. From the late 19th century into the 20th century these manuscripts have been transcribed and published in book form. From the 1990s the books have been digitized, and are now widely available in several editions on the internet. All this has greatly increased the availability of the Pali texts and has benefited scholars immensely.
+Pali texts were traditionally passed down on palm (or *ola*) leaf manuscripts. From the late 19th century into the 20th century these manuscripts have been transcribed and published in book form. From the 1990s the books have been digitized, and are now widely available in several editions on the internet. {See Lewis Lancaster's article "Digital Input of Buddhist Texts" in Damien Keown, Charles S. Prebish, *Encyclopedia of Buddhism*, pp 288–296, Routledge 2013.} All this has greatly increased the availability of the Pali texts and has benefited scholars immensely.
 
-However, in recent years scholars have paid greater attention to the problem of manuscript authenticity. Almost all of the manuscripts in existence date from the 18th and 19th centuries. This means that the entire Pali tradition rests on physical witnesses no more than a couple of centuries old. Linguistic, historical, and other evidence gives us good reason to be confident that the Pali texts are, on the whole, much older than this, and that they substantially date back to the time of the Buddha or shortly after. (See *The Authenticity of the Early Buddhist Texts*, Sujato and Brahmali.) Nevertheless, we should not neglect the opportunity to further test and refine our understanding of the historical provenance of the Pali texts.
+However, in recent years scholars have paid greater attention to the problem of manuscript authenticity. Almost all of the manuscripts in existence date from the 18th and 19th centuries. This means that the entire Pali tradition rests on physical witnesses no more than a couple of centuries old. Linguistic, historical, and other evidence gives us good reason to be confident that the Pali texts are, on the whole, much older than this, and that they substantially date back to the time of the Buddha or shortly after. {See *The Authenticity of the Early Buddhist Texts*, Sujato and Brahmali.} Nevertheless, we should not neglect the opportunity to further test and refine our understanding of the historical provenance of the Pali texts.
 
 A further problem is that almost all the Sri Lankan manuscripts stem from texts that were imported from Burma or Thailand around the 18th century. Thus, although Burma and Thailand originally received their texts from Sri Lanka, we have little evidence for a Sri Lankan transmission that has not passed through those countries. For a discussion of these and other issues regarding the state of Pali manuscripts in Sri Lanka, see Bhikkhu Ñāṇatusita, *Pali Manuscripts of Sri Lanka*. He observes that:
 
 >Given the widespread neglect of collections, the general lack of interest in the preservation of and research into palm-leaf manuscripts in Sri Lanka, and often the considerable difficulty in getting access to collections, it is important that an international project is undertaken to preserve manuscripts by way of digitally photographing or scanning. This should be done in cooperation with Sri Lankan institutes such as the National Archives, universities, and a well-known international institute such as UNESCO, which already manages some important historical sites in Sri Lanka. The digital photographs should not be stored in just one institution, where they might be lost, as happened with the microfilms at the National Archives, but should be made freely available on the internet so that any scholar can access them. Also detailed information (description, history, photographs, list of manuscripts) should be given about the monasteries where the manuscripts were photographed.
 
-While we are not prepared to undertake the more wide-scale digital preservation envisaged by Bhikkhu Ñāṇatusita, by preserving and published DP CV we can, perhaps, stimulate interest and further action to preserve manuscripts.
+While we are not prepared to undertake the more wide-scale digital preservation envisaged by Bhikkhu Ñāṇatusita, by preserving and published DP CV we can, perhaps, stimulate interest and further action.
 
 One of the few early Pali texts in existence was studied and published by Oskar von Hinuber in his *The Oldest Buddhist Manuscript*. This offers a transcription, description, and detailed study of a 8th–9th century Pali manuscript from Nepal by a leading Indological philologist. Von Hinuber suggests that it may have derived from a branch monastery of the Mahāvihāra on the mainland, possibly at Bodhgaya. As it happens, the text itself, while only a few pages, is from the Cullavagga. Thus it is a small portion of the same text found in the DP CV, and when the DP CV is published it will enable a study of the  same passage in manuscripts of the 8th, 13th, and 18th centuries.
 
@@ -175,7 +175,7 @@ Since ISO 15919 supports Pali precisely, it is possibly to losslessly convert it
 As the project is of considerable interest to Pali and other Indological scholars, it should be described in international journals. Such essays should document various aspects of the project, including:
 
 1. Linguistic discussion.
-2. Historical evidence.
+2. Historical context.
 3. Project methodology.
 4. Artwork on the covers.
 5. Investigation as to the provenance of the manuscript, and circumstances of its finding and preservation.
@@ -188,7 +188,7 @@ The National Museum and/or other bodies may wish to publicize the work to raise 
 
 Here I set out a process for ensuring the efficient completion of the tasks. The principle is that, so far as possible, tasks may be completed in parallel. This means that, unless it is really necessary, none of the team members has to wait for other team members to finish their work. This process is inspired by task management in modern “Agile” processes for teams, which empasizes “release early and often”.
 
-Many of these tasks are of intrinsic value, even if later tasks are not completed. For example, having scanned images available is useful in and of itself, regardless of whether we have a digitized text. So there is no need to wait for the digitization process to be completed before releasing the images. Similarly, carbon dating or epigraphic assessment are of intrinsic interest.
+Many of these tasks are of intrinsic value, even if later tasks are not completed. For example, having scanned images available is useful in and of itself, regardless of whether we have a digitized text. So there is no need to wait for the digitization process to be completed before releasing the images. Similarly, carbon dating or epigraphic assessment are of intrinsic interest. These details can be released, also, in a timely manner. Making information publicly available in this way increases interest in a project and demonstrates a commitment to accountability and transparencey.
 
 ![alt text](dpcv-modules.png "Task module flow")
 
@@ -200,7 +200,7 @@ Consider our source manuscript. It tells us it was copied by Sumedha Mahāthera 
 
 Now consider our digital texts. Who were they typed by? Who authorized them? Who sponsored them? What was the process by which the work was done? In most cases, we know none of these things. The texts are produced, vaguely ascribed to an institution, and published in a digital form with little or nothing to tell us how they were made. We have better information about a 13th century manuscript than we do about most of our digital texts.
 
-As a result of poor digital management strategies, it is unfortunately common for years of work to be lost. The Pali text used on SuttaCentral, for example, was rescued from a project by the Dhamma Society of Bangkok. Sadly, the parent organization fell apart and their online presence disappeared. The text, to which they had devoted years of proofing and preparing, vanished. It was only by sheer luck that we located a source that had been copied by a monk. In another case, years of work annotating and preparing a digital version of a Pali dictionary in a German University was permanently lost, as the IT manager resigned and left without sharing the passwords.
+As a result of poor digital management strategies, it is unfortunately common for years of work to be lost. The Pali text used on SuttaCentral, for example, was rescued from a project by the Dhamma Society of Bangkok. Sadly, the parent organization fell apart and their online presence disappeared. The text, to which they had devoted years of proofing and preparing, vanished. It was only by sheer luck that we located a source that had been copied by a monk. In another case, years of work annotating and preparing a digital version of a Pali dictionary in a German University was permanently lost, as the IT manager resigned and left without sharing the passwords. Prof Lewis Lancaster's article "Digital Input of Buddhist Texts" contains several more such sad stories of work gone to waste.
 
 We can do better. What, we should ask, is the gold standard for creating and maintaining digital projects? In my view, the answer is this: it is what programmers use for their own projects. What we are producing is, in fact, just code. At its core it is binary data, no different from what programmers produce.
 
@@ -208,13 +208,13 @@ We can do better. What, we should ask, is the gold standard for creating and mai
 
 For many years, SuttaCentral has managed its code and source texts at Github. Github is a public cloud service for hosting code and files using the open-source Git version control system. Github is extremely stable and secure, being used by major software companies such as Google, Microsoft, and Facebook for their own code.
 
-The great advantage of using Github is that it preserves every detail about *what* changes are made, *who* changed it, *when* they changed it, and (optionally but recommended) *why* they changed it. These are recorded in an indelible and publicly accessible form on Github. On Github, *nothing is ever deleted*. So if any mistake is made, no matter how small or large, we can always revert it back to the prior state. This means that we can preserve a forensic level of detail and accuracy in all our doings, setting a new standard for reliability and transparency.
+The great advantage of using Github is that it preserves every detail about *what* changes are made, *who* changed it, *when* they changed it, and (optionally but recommended) *why* they changed it. These are recorded in an indelible and publicly accessible form on Github. On Github, *nothing is ever deleted*. So if any mistake is made, no matter how small or large, we can always revert it back to the prior state. This means that we can preserve a forensic level of detail and accuracy in all our doings, setting a standard for reliability and transparency that is unprecedented in any comparable projects.
 
 Github is free and simple to use. Anyone with access to the Github account can add or alter assets. No special software is needed; it can be done simply via a browser. For team members, it will be useful to set up a local version of the Github repository. (In Git terminology, a “repository” or “repo” is a folder that contains a set of files for a project.) Local tech support can set this up; because we’re using the same tools that programmers use themselves, pretty much every programmer will know how to do this.
 
 Since Github is designed as a workshop for creating programs, any data and files may be exported (“forked”) into other applications. Thus the data may be made use of by many different projects. In addition, this encourages the creation of multiple redundant copies, thus ensuring the survival of the information.
 
-Thus I propose this:
+Thus I propose:
 
 - **All digital assets of the project—including text, images, reports, and essays—be maintained in a single Github repository.**
 
