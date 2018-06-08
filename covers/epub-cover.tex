@@ -1,0 +1,147 @@
+\RequirePackage{fix-cm}%font size
+
+\documentclass[11pt]{article}
+%\usepackage{showframe}
+
+
+%PACKAGES%
+\usepackage{anyfontsize}
+\usepackage[outer=0cm, inner=0cm, top=1.3cm, bottom=0cm, papersize={15cm, 21cm},footnotesep=1.2\baselineskip,marginparwidth=2em, marginparsep=1em,headsep=.4cm,footskip=.5cm]{geometry}
+\usepackage{graphicx}
+\usepackage{fontspec}
+\usepackage{xcolor}
+
+\setlength{\parindent}{0pt}
+
+
+
+
+%\usepackage{pagegrid}
+%\pagegridsetup{top-left, step=1cm}
+
+
+%LINESPA\caps{ce}% SETS LINESPA\caps{ce}
+\usepackage{setspace}
+\setstretch{1.062}
+%LINESPA\caps{ce}%
+
+%FONTS%
+\setmainfont[Numbers=OldStyle]{Skolar PE}
+\setsansfont[Numbers=OldStyle]{Skolar Sans PE}
+\setmonofont{Source Code Pro}
+\newfontfamily\SkolarLight[Numbers=OldStyle]{Skolar PE Light}
+\newfontfamily\SkolarLining[Numbers=Lining]{Skolar PE}
+\newfontfamily\SkolarTabular[Numbers=Monospaced]{Skolar PE}
+\newfontfamily\SkolarSansLining[Numbers=Lining]{Skolar Sans PE}
+\newfontfamily\SkolarSansMe[Numbers=OldStyle,ItalicFont={Skolar Sans PE Me It}]{Skolar Sans PE Me}%With the Skolar Sans fonts, due to the large number of weights, it is necessary to specify the exact italic and bold fonts to be used, else fontspec gets confused.
+\newfontfamily\SkolarSansLt[Numbers=OldStyle,ItalicFont={Skolar Sans PE Lt It}]{Skolar Sans PE Lt}
+\newfontfamily\SkolarSansSb[Numbers=OldStyle,ItalicFont={Skolar Sans PE Sb It}]{Skolar Sans PE Sb}
+\newfontfamily\SkolarSC[Renderer=Basic]{Skolar PE}%``small caps features'' forces the small caps to display all lower case, including proper small-caps numbers, while the renderer=basic allows microtype to do the letterspacing. A separate font must be defined for each kind of small caps.
+\newfontfamily\SkolarLightSC[SmallCapsFeatures={RawFeature=+c2sc},Renderer=Basic]{Skolar PE Light}
+\newfontfamily\SkolarSansMeSC[ItalicFont={Skolar Sans PE Me It},SmallCapsFeatures={RawFeature=+c2sc},Renderer=Basic]{Skolar Sans PE Me}
+\newfontfamily\SkolarSansSbSC[ItalicFont={Skolar Sans PE Sb It},SmallCapsFeatures={RawFeature=+c2sc},Renderer=Basic]{Skolar Sans PE Sb}
+\newfontfamily\SkolarSansLtSC[ItalicFont={Skolar Sans PE Lt It},SmallCapsFeatures={RawFeature=+c2sc},Renderer=Basic]{Skolar Sans PE Lt}
+\newfontfamily\SkolarSansThSC[ItalicFont={Skolar Sans PE Th It},SmallCapsFeatures={RawFeature=+c2sc},Renderer=Basic]{Skolar Sans PE Th}
+\newfontfamily\SkolarSansElSC[ItalicFont={Skolar Sans PE El It},SmallCapsFeatures={RawFeature=+c2sc},Renderer=Basic]{Skolar Sans PE El}
+\newfontfamily\SkolarSansBdSC[ItalicFont={Skolar Sans PE Bd It},SmallCapsFeatures={RawFeature=+c2sc},Renderer=Basic]{Skolar Sans PE Bd}
+\newfontfamily\SkolarSansBlSC[ItalicFont={Skolar Sans PE Bl It},SmallCapsFeatures={RawFeature=+c2sc},Renderer=Basic]{Skolar Sans PE Bl}
+\newfontfamily\SkolarSansEbSC[ItalicFont={Skolar Sans PE Eb It},SmallCapsFeatures={RawFeature=+c2sc},Renderer=Basic]{Skolar Sans PE Eb}
+
+\usepackage[tracking=smallcaps]{microtype}
+\frenchspacing
+\SetTracking[no ligatures={f,t,T},spacing={700*,166,}]{encoding=*,shape=sc}{25}%This defines a small amount of spacing for all small caps fonts, similar to that provided by the /caps command of soul. These are activated using the following commands.
+
+\newcommand\caps
+{\scshape\SkolarSC}
+
+\newcommand\ltcaps
+{\scshape\SkolarLightSC}
+
+\newcommand\SkolarSansMecaps
+{\scshape\SkolarSansMeSC}
+
+\newcommand\SkolarSansLtcaps
+{\scshape\SkolarSansLtSC}
+
+\newcommand\SkolarSansElcaps
+{\scshape\SkolarSansElSC}
+
+\newcommand\SkolarSansThcaps
+{\scshape\SkolarSansThSC}
+
+\newcommand\SkolarSansSbcaps
+{\scshape\SkolarSansSbSC}
+
+\newcommand\SkolarSansBdcaps
+{\scshape\SkolarSansBdSC}
+
+\newcommand\SkolarSansEbcaps
+{\scshape\SkolarSansEbSC}
+
+\newcommand\SkolarSansBlcaps
+{\scshape\SkolarSansBlSC}
+
+
+
+
+
+
+
+
+
+
+%enable use of real script numerals
+\usepackage{realscripts}
+
+
+%\usepackage{background}
+
+
+
+
+
+\begin{document}
+
+\pagecolor[HTML]{CE8400}
+\pagestyle{empty}
+%\backgroundsetup{angle=0,scale=1,contents={\includegraphics{texture.png}}}
+\begin{center}
+\Large\color{white}{
+
+{\raisebox{-3.4pt}{\includegraphics[width=0.6cm]{suttacentral-logo.png}}}\,{\caps SuttaCentral}
+
+
+
+\vspace{0.77cm}
+
+\begin{spacing}{2}
+{\fontsize{35}{33}\SkolarSansEbcaps Middle Discourses}
+\end{spacing}
+
+\vspace{-.25cm}
+
+{\SkolarSansSb Volume 1: The First Fifty Discourses}
+
+\vspace{2.8cm}
+
+\color[HTML]{f6b735}{\hrule height 0.05in}
+
+\vspace{3cm}
+
+\includegraphics[width=2cm]{bird.png}
+
+\vspace{2.5cm}
+
+\color{white}\SkolarSansSb\textit{A translation of the Majjhima Nikāya by}
+
+\vspace{0.05cm}
+
+\huge\SkolarSansEbcaps{Bhikkhu Sujato}
+
+}
+
+
+\end{center}
+
+
+\end{document}
