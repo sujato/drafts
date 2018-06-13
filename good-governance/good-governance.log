@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.6.2)  2 JUN 2018 11:10
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.6.2)  13 JUN 2018 08:21
  restricted system commands enabled.
 **good-governance.tex
 (./good-governance.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.095 seconds
+luaotfload | main : initialization completed in 0.107 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
@@ -1093,6 +1093,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 141--144
 
 ] [2
 
+] [3
+
+Missing character: There is no ṅ (U+1E45) in font AlegreyahtPro:mode=node;scri
+pt=latn;language=DFLT;+tlig;!
 ]
 Chapter 1.
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1102,11 +1106,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSansSCMedium(0)/m/sc' undefined
 (Font)              using `TU/AlegreyaSansSCMedium(0)/m/n' instead on input line
- 189.
+ 198.
 
 
 LaTeX Font Warning: Font shape `TU/AlegreyaSansBold(0)/bx/n' undefined
-(Font)              using `TU/AlegreyaSansBold(0)/m/n' instead on input line 193
+(Font)              using `TU/AlegreyaSansBold(0)/m/n' instead on input line 202
 .
 
 (save: /home/user/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/alegreya
@@ -1116,41 +1120,51 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `AlegreyaSansBold' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [3
+ [4
 
-] [4] [5] [6] [7]
+] [5
+Missing character: There is no ṅ (U+1E45) in font AlegreyahtPro:mode=node;scri
+pt=latn;language=DFLT;+tlig;!
+] [6
+Missing character: There is no ṅ (U+1E45) in font AlegreyahtPro:mode=node;scri
+pt=latn;language=DFLT;+tlig;!
+Missing character: There is no ṅ (U+1E45) in font AlegreyahtPro:mode=node;scri
+pt=latn;language=DFLT;+tlig;!
+Missing character: There is no ṅ (U+1E45) in font AlegreyahtPro:mode=node;scri
+pt=latn;language=DFLT;+tlig;!
+Missing character: There is no ṅ (U+1E45) in font AlegreyahtPro:mode=node;scri
+pt=latn;language=DFLT;+tlig;!
+] [7] [8]
 Chapter 2.
 
 Underfull \vbox (badness 2293) has occurred while \output is active []
 
- [8
+ [9
 
 ]
-Overfull \hbox (1.82277pt too wide) in paragraph at lines 257--258
-[]\TU/AlegreyahtPro(0)/m/n/10.95 “Lis-ten to me!”, she shouted down the pho
-ne, “DOL-LARS! CENTS!
- []
-
-[9]
+[10]
 Underfull \vbox (badness 2452) has occurred while \output is active []
 
- [10]
-Overfull \hbox (9.62022pt too wide) in paragraph at lines 282--283
-[]\TU/AlegreyahtPro(0)/m/n/10.95 One of the clas-sic Bud-dhist para-bles, from 
-the Udana, is a paradigm
+ [11]
+Overfull \hbox (5.16927pt too wide) in paragraph at lines 293--294
+[]\TU/AlegreyahtPro(0)/m/n/10.95 One of the clas-sic Bud-dhist para-bles from t
+he Udāna is a paradigm
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
-[13] [14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+[14
+Missing character: There is no ṅ (U+1E45) in font AlegreyahtPro:mode=node;scri
+pt=latn;language=DFLT;+tlig;!
+] [15]
 Chapter 3.
 
-Overfull \hbox (0.52815pt too wide) in paragraph at lines 332--333
+Overfull \hbox (0.52815pt too wide) in paragraph at lines 347--348
 []\TU/AlegreyahtPro(0)/m/n/10.95 Most lead-ers think it is un-nec-es-sary to gi
 ve feed-back when things
  []
@@ -1158,50 +1172,59 @@ ve feed-back when things
 
 Underfull \vbox (badness 2293) has occurred while \output is active []
 
- [15
+ [16
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16]
-[17] [18] [19] [20
+ [17]
+[18] [19] [20] [21
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 390.
- [21]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 390.
+Overfull \hbox (0.86pt too wide) in paragraph at lines 411--412
+[]\TU/AlegreyaSans(0)/m/n/10 In 1983, Ajahn Chah asked Ajahn Brahm to help es-t
+ab-lish a for-est monastery
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 428.
+[22]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 428.
  (./good-governance.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 390.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 390.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 428.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 428.
 Package rerunfilecheck Info: File `good-governance.out' has not changed.
-(rerunfilecheck)             Checksum: 1F2B30F0484870743C035A72EB504992;1752.
+(rerunfilecheck)             Checksum: D496AC72531F7B16D5335FC6BAA7CB21;1752.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 390.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 428.
 )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 401 ({)
+### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 21627 strings out of 494480
+ 21634 strings out of 494480
  100000,662416 words of node,token memory allocated
- 470 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 2 glue, 1 glyph, 5 attribute, 62 glue_spec, 5 attri
+ 526 words of node memory still in use:
+   5 hlist, 1 vlist, 2 rule, 2 glue, 1 glyph, 6 attribute, 69 glue_spec, 6 attri
 bute_list, 1 write nodes
-   avail lists: 1:1,2:120,3:42,4:34,5:403,6:2605,7:600,8:14,9:90,10:15,11:198
- 25139 multiletter control sequences out of 65536+600000
- 52 fonts using 8964087 bytes
- 55i,11n,67p,1377b,347s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:1,2:163,3:43,4:34,5:352,6:2279,7:555,8:13,9:90,10:13,11:189
+ 25141 multiletter control sequences out of 65536+600000
+ 53 fonts using 9099295 bytes
+ 55i,11n,67p,1115b,415s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/user/.fonts/AlegreyaSans/AlegreyaSans-Italic.otf></usr/share/texlive/texm
 f-dist/fonts/truetype/huerta/alegreya/AlegreyaSans-Bold.ttf></usr/share/texlive/
 texmf-dist/fonts/truetype/huerta/alegreya/AlegreyaSansSC-Medium.ttf></home/user/
 .fonts/AlegreyaSans/AlegreyaSans-Bold.otf></home/user/.fonts/AlegreyaSans/Alegre
 yaSans-Regular.otf></home/user/.fonts/AlegreyahtProFamily/AlegreyahtPro-Regular.
 otf></home/user/.fonts/AlegreyahtProFamily/AlegreyahtPro-Italic.otf>
-Output written on good-governance.pdf (23 pages, 88285 bytes).
+Output written on good-governance.pdf (24 pages, 89882 bytes).
 
-PDF statistics: 219 PDF objects out of 1000 (max. 8388607)
- 171 compressed objects within 2 object streams
- 47 named destinations out of 1000 (max. 131072)
+PDF statistics: 224 PDF objects out of 1000 (max. 8388607)
+ 175 compressed objects within 2 object streams
+ 49 named destinations out of 1000 (max. 131072)
  105 words of extra memory for PDF output out of 10000 (max. 100000000)
 
