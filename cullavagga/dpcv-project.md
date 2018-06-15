@@ -110,6 +110,8 @@ The images must be saved in as high resolution as practical. The basic image for
 
 The images must be saved using a sensible naming system. Since there is only one manuscript, I propose that we use a simple increment to number the pages, adding “r” and “v” for *recto* and *verso* as needed. Thus the images for the first leaf of the manuscript would be named `dpcv-1r` and `dpcv-1v` and so on. This might seem like a trivial detail, but maintaining a clear and consistent naming convention from the start can avoid a lot of headaches later on.
 
+In addition to scanning the images, it would be advisable to also print a few sets of images. These should be printed professionally, with high resolution on good quality paper using ring binding or similar. Such printed copies, which need not be great in number, would be useful for typists, rather than having to look at a screen; and in addition, print is a more lasting media than digital.
+
    - **Responsible party:** Department of Archaeology.
 
 ### Engage an epigraphic expert to assess the script
