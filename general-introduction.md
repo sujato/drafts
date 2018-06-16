@@ -22,11 +22,11 @@ There are many reasons, though, why the Pali texts will always retain a special 
 - They are the central scriptures of a living tradition, the Theravāda school found in Sri Lanka, Thailand, Myanmar, Bangladesh, Cambodia, Laos, India, China, and Vietnam.
 - They are, for the most part, linguistically clear, well-edited, and readily comprehensible.
 
-For these reasons the Pali texts have been translated multiple times, and form the main basis for our understanding of early Buddhism.
+For these reasons the Pali texts have been translated multiple times and form the main basis for our understanding of early Buddhism.
 
 And among the Pali texts, it is the four *nikāyas* that command the most attention. It is here that we find extensive and definitive explanations of Buddhist teachings, as well as the living personality of the Buddha and his immediate disciples.
 
-By comparison, the Vinaya Piṭaka is primarily of interest for understanding the monastic communities, as well as providing much information about the history and social background. But it contains only limited doctrinal content. The Abhidhamma Piṭaka is made up of systematic treatises that were composed in the centuries following the Buddha’s passing. And the books of the Khuddaka Nikāya are very mixed. Some fairly short books are (mostly verse) supplements to the main four *nikāyas* (the Dhammapada, Udāna, Itivuttaka, Sutta Nipāta, Theragāthā, and Therīgāthā). However, most of the books in this collection are later, and represent a phase of Buddhism a few centuries after the Buddha.
+By comparison, the Vinaya Piṭaka is primarily of interest for understanding the monastic communities, as well as providing much information about the history and social background. But it contains only limited doctrinal content. The Abhidhamma Piṭaka is made up of systematic treatises that were composed in the centuries following the Buddha’s passing. And the books of the Khuddaka Nikāya are very mixed. There are six fairly short books that are (mostly verse) supplements to the main four *nikāyas* (the Dhammapada, Udāna, Itivuttaka, Sutta Nipāta, Theragāthā, and Therīgāthā). However, most of the books in this collection are later, and represent a phase of Buddhism a few centuries after the Buddha.
 
 I have prepared these introductions in order to ease a student into an understanding of the *nikāyas*. This general introduction is meant to be read first, as it covers a variety of issues that are common to all the *nikāyas*. The four *nikāyas* are a highly unified body of texts, sharing most of the significant doctrinal passages. The general information presented here is fleshed out in individual essays on each of the four *nikāyas*, which may be read in any order, and which highlight the shifts in emphasis and orientation from one collection to the next.
 
@@ -60,7 +60,7 @@ The suttas frequently employ an ABA pattern. A statement is made; a simile is gi
 
 This formal pattern is highly effective in reinforcing learning. First we get the basic idea. But abstract philosophical or psychological statements are hard to understand and remember without any context, so the Buddha illuminates his teaching with a simile.
 
-The range of similes in the suttas is truly astounding. The Buddha was able to effortlessly summon an apt comparison from anything that he saw around him. The similes also convey a great deal of incidental detail regarding life and culture in the Buddha’s day, and, more importantly, they show how the Dhamma teaching makes sense in its context.
+The range of similes in the suttas is truly astounding. The Buddha had an uncanny ability to effortlessly summon an apt comparison from anything that he saw around him. The similes also convey a great deal of incidental detail regarding life and culture in the Buddha’s day, and, more importantly, they show how the Dhamma teaching makes sense in its context.
 
 Sometimes the similes are extended to a brief parable or fable. Curiously enough, however, we rarely see the Buddha engage in story-telling of any length.
 
@@ -90,7 +90,7 @@ Abbreviations are both “internal”—for example, where the only the first an
 
 Buddhist manuscripts rarely have titles at the start like modern texts. Rather, the title is recorded at the end. In modern editions, these titles have been added at the start for clarity.
 
-In many cases, especially in the titles of suttas and <i>vaggas</i>, what we actually have in the manuscript is not really a title as such, but a key word found in the summary verse (*uddāna*) found at the end of a <i>vagga</i> or other division. These verses were inserted by the redactors of the canon in order to help keep the contents organized, much like a Table of Contents. However, the verses do vary to some extent between editions, so the titles of suttas are not always consistent. In addition, some suttas are assigned more than one title in the text itself (see DN 1 <cite>Brahmajala</cite>), or there are spelling variations. So take care, for it is quite common to find different titles for the same text.
+In many cases, especially in the titles of suttas and <i>vaggas</i>, what we actually have in the manuscript is not really a title as such, but a key word found in the summary verse (*uddāna*) found at the end of a <i>vagga</i> or other division. These verses were inserted by the redactors of the canon in order to help keep the contents organized, much like a Table of Contents. However, the summary verses do vary to some extent between editions, so the titles of suttas are not always consistent. In addition, some suttas are assigned more than one title in the text itself (see DN 1 <cite>Brahmajala</cite>), or there are spelling variations. So take care, for it is quite common to find different titles for the same text.
 
 ### Textual Divisions
 
@@ -144,15 +144,15 @@ Though cities and urban life feature prominently in the texts, they are still on
 
 The rise in diversity of employment was linked to the growth of cities, which in turn is associated with the appearance of new technologies. The archeological record, though thin, has furnished us with records of two significant innovations: a kind of fine pottery known as Northern Black Polished Ware (NBPW), and forges for iron. These new developments attest to a growing mastery in the industrial use of fire, something that the suttas mention in several memorable similes.
 
-These technological and economic shifts were mirrored in the social and political spheres. During the Buddha’s time there were two major forms of governance. Traditional clans such as the Sakyans or the Vajjians followed an ancient restricted form of democracy, where decisions were made in a town council, and the clan elected a leading member as temporary ruler. Other nations, like Kosala and Magadha, had formed a more familiar kind of kingdom, with an absolute and inherited monarch. While the Buddha evidently favored the democratic ideals under which he grew up, and after which he modeled the governance of the Sangha, it was the kingdoms that were growing in economic and military dominance. During the Buddha’s lifetime, there were repeated skirmishes between Kosala and Magadha, vying for dominion over the ancient sacred city of Varanasi.
+These technological and economic shifts were mirrored in the social and political spheres. During the Buddha’s time there were two major forms of governance. Traditional clans such as the Sakyans or the Vajjians followed an ancient restricted form of democracy, where decisions were made in a town council, and the clan elected a leading member as temporary ruler. Other nations, like Kosala and Magadha, had formed a more familiar kind of kingdom, with an absolute hereditary monarch. While the Buddha evidently favored the democratic ideals under which he grew up, and after which he modeled the governance of the Sangha, it was the kingdoms that were growing in economic and military dominance. During the Buddha’s lifetime, there were repeated skirmishes between Kosala and Magadha, vying for dominion over the ancient sacred city of Varanasi.
 
-Of even greater significance, towards the end of his life, Magadha was announcing its intentions to invade the Vajjian republic. In fact, in the decades following the Buddha’s death, Magadha conquered virtually all of the sixteen nations, establishing an unquestioned supremacy over the region, and establishing pan-Indian trade networks. So powerful was the resulting kingdom under Chandragupta that Alexander the Great’s troops rebelled at the mere rumor of Magadhan military might.
+Of even greater significance, towards the end of his life, Magadha was announcing its intentions to invade the Vajjian republic. History attests to the success of this policy: in the decades following the Buddha’s death, Magadha conquered virtually all of the sixteen nations, establishing an unquestioned supremacy over the region, and establishing pan-Indian trade networks. So powerful was the resulting kingdom that Alexander the Great’s troops rebelled at the mere rumor of Magadhan military might.
 
 ## Social Life
 
 The growing complexity of economic and political life required corresponding changes in social roles and responsibilities. Like any society in a time of change, people in the time of the Buddha were trying to balance their traditional values and structures with the new realities. It seems that people were for the most part reasonably well off, and we don’t hear about extreme endemic poverty and famine. Nevertheless, these things did occur, along with injustice, banditry, and economic uncertainty. We hear frequent laments about how unpredictable wealth is, whether the older forms of wealth in cattle and land, or the newer forms in money and career.
 
-The Buddha was not a social revolutionary, and did not overtly agitate for an overthrow of systems, even those he explicitly recognized as unjust. Typically he would argue for a more just and fair implementation of existing norms. For example, rather than saying all societies should be democratic, he spoke of the sacred duties of a king to look after his people.
+The Buddha was not a social revolutionary, and did not overtly agitate for an overthrow of social systems, even those he explicitly recognized as unjust. Typically he would argue for a more just and fair implementation of existing norms. For example, rather than saying all societies should be democratic, he spoke of the moral duty of a king to look after his people.
 
 A man was supposed to earns funds so as to take care of his family and protect them. The money he earned was to be used to provide for his family, treating workers with kindness and decency, and not neglecting to assign some funds for savings, and some for donations to charity.
 
@@ -162,16 +162,32 @@ Many of the more extreme manifestations of sexual discrimination are not found i
 
 India had not yet developed the fully-fledged caste system of later times. But there was a much simpler fourfold division of society:
 
-- Aristocrats (*khattiya*): Owners of land (*khetta*), typically wealthy and powerful, engaged in statecraft, war, and production. The Buddha was from an aristocratic clan. The aristocrats placed themselves at the highest tier of society.
-- Brahmins: Members of a hereditary priestly class. The brahmins were custodians of sacred texts called “Vedas”, and performed rituals and ceremonies to their various deities. However by the time of the Buddha many brahmins were simply engaged in ordinary worldly livelihoods and their religious role was secondary. They believed themselves to be the chosen of God.
-- Merchants (*vessa*): Engaged in trade and commerce.
-- Workers (*sudda*): Performed physical labor.
+- **Aristocrats** (*khattiya*): Owners of land (*khetta*), typically wealthy and powerful, engaged in statecraft, war, and production. The Buddha was from an aristocratic clan. The aristocrats placed themselves at the highest tier of society.
+- **Brahmins** (*brāhmaṇa*): Members of a hereditary priestly class. The brahmins were custodians of sacred texts called “Vedas”, and performed rituals and ceremonies to their various deities. However by the time of the Buddha many brahmins were simply engaged in ordinary worldly livelihoods and their religious role was secondary. They believed themselves to be the chosen of God.
+- **Merchants** (*vessa*): Engaged in trade and commerce.
+- **Workers** (*sudda*): Performed physical labor.
 
 Not everyone fit into this neat scheme. We hear reference to outcastes and various tribal peoples. In addition, there were slaves or bonded servants. Finally, the ascetics (*samaṇa*) such as the Buddha saw themselves as having left behind all such notions of caste.
 
 ## The Many Spiritual Paths of Ancient India
 
-Change was not limited to the worldly sphere. The religious life of ancient India was equally dynamic. It would be a mistake to read modern conditions back into the ancient texts. Some of the elements that make up modern Hinduism may be discerned, but Indian religion, like spiritual and religious practice everywhere, has always been in a state of flux and evolution. Many of the old gods featured in the Ṛg Veda had vanished by the time of the Buddha, and many of the famed deities of later Hinduism had not yet appeared. Those who do appear take on a markedly different aspect; prominent gods may appear in minor roles, or a warrior like Sakka (AKA Indra) appears as an apostle of peace.
+Change in the Buddha’s day was not limited to the worldly sphere. The religious life of ancient India was equally dynamic. For this reason it would be a mistake to assume that India in the time of the Buddha was primarily a Hindu society. Some of the elements that make up modern Hinduism may be discerned, but Indian religion, like spiritual and religious practice everywhere, has always been in a state of flux and evolution.
+
+Many of the old gods featured in the Ṛg Veda had vanished by the time of the Buddha, and many of the famed deities of later Hinduism had not yet appeared. Those who do appear take on a markedly different aspect; prominent gods may appear in minor roles, or a warrior like Sakka (AKA Indra) appears as an apostle of peace. There were no temples, no images, and no cult of devotion (*bhakti*). There is no mention of a system of *avatars*, and hence no concept that the various deities were expressions of more fundamental realities.
+
+Moreover, the outstanding feature of Hinduism—the great synthesis of religious and philosophical ideas, from simple animism to profound non-dualism—had not yet been undertaken. Different strands of religious life were quite distinct, and were not considered to be part of the same “religion”.
+
+Thus historians do not refer to the brahmanical religion of the time as Hinduism, but rather as Vedism or Brahmanism. It was nearly a thousand years later that the movement recognizable as modern Hinduism became prominent in India.
+
+There is, however, an oft-repeated claim to the effect that the Buddha “was born, lived, and died a Hindu”, attributed to the great pioneer of Indology, Thomas Rhys Davids. While it is true that he did write this, it was in an early work, page 116 of *Buddhism: its history and literature*, a lecture series published in 1896. But by 1912 his views had changed, for on page 83 of *Buddhism: Being a sketch of the life and teachings of Gautama, the Buddha* he said:
+
+>Gautama was born, and brought up, and lived, and died a typical Indian. Hinduism had not yet, in his time, arisen.
+
+Rhys Davids emphasizes that the Buddha did not have an antagonistic relation to the Brahmanical religion. His purpose was not religious reform, but freedom from suffering. However, on page 85 of the same work he comments:
+
+>In the long run the two systems were quite incompatible. … Gautama’s whole training lay indeed outside of the ritualistic lore of the Brahmanas and the brahmins. The local deities of his clan were not Vedic.
+
+Thus it is important to avoid reading modern conditions back into ancient times. The peoples of ancient India had their own rich, complex, and many-faceted spiritual lives. We can only begin to understand them, and to understand how the Buddha related to them, by setting aside our modern preconceptions and preoccupations and listening to what they had to say for themselves.
 
 An outstanding feature of early Buddhist texts is interreligious dialogue. The Buddha did not live in a Buddhist culture. We frequently encounter the Buddha and his disciples discussing various aspects of spiritual philosophy and practice with followers of other spiritual paths, or with people of no particular path. Sometimes they would come to the Buddha seeking to learn or even to attack. And it is not uncommon to find the Buddha and his disciples actively seeking out followers of other spiritual paths simply to engage in conversation. In this, the early texts are quite different from later Buddhist literature, which almost always consists of Buddhists speaking with other Buddhists.
 
@@ -207,13 +223,13 @@ In the generations preceding the Buddha, brahmanical philosophy had reached a pe
 
 ### The Samaṇas
 
-Quite distinct from the brahmins, and often in opposition to them, was a complex set of religious movements known as the <i>samaṇas</i> or “ascetics”. Six prominent ascetic schools were acknowledged in the time of the Buddha. The Buddha counted himself as an ascetic, too, in view of the many similarities between his own teaching and practice and theirs.
+Quite distinct from the brahmins, and often in opposition to them, was a complex set of religious movements known as the <i>samaṇas</i> or “ascetics”. Six prominent ascetic schools were acknowledged in the time of the Buddha. The Buddha counted himself as an ascetic, too, in view of the many similarities between his own teachings and theirs.
 
 Like the Buddhists, the other *samaṇas* were typically celibate renunciates, living either in solitude or in monastic communities, and relying on alms for food.  The most famous—and the only one to survive until today—was Jainism, which flourished under their leader Mahāvīra, known as Nigaṇṭha Nātaputta in the Buddhist texts.
 
 The ascetics shared an iconoclastic attitude, and all rejected the brahmanical system *in toto*. However they varied amongst each other, as shown in their teachings attested at DN 2 <cite>Sāmaññaphala</cite> as well as MN 60 and MN 76. Some emphasized austerities and self-mortification, others rationality and debate. Some advocated ardent effort, others a resigned fatalism. Some taught rebirth, while others asserted that this material world was the only reality.
 
-Regardless of what we might think of their sometimes florid and obscure doctrines, they are a lasting testament to the diversity and vigor of religious life in ancient India.
+While their doctrines may appear florid and obscure, and their practices sometimes bizarre and pointless, the ascetic movements are a lasting testament to the diversity, vigor, and innovation of religious life in ancient India.
 
 ## Cosmology
 
@@ -262,7 +278,7 @@ Here is general overview of the most important realms found in the suttas. It is
 
 The Buddha taught that doing good and avoiding bad was the path to rebirth in one of the fortunate realms, which include the human realm and all higher realms. However, the course of transmigration is long and unpredictable, so no heaven realm provides a sure refuge. Far from teaching rebirth as a solace for naive followers unable to face the inevitability of death, rebirth is depicted in traumatic and terrifying terms. The tears that one has shed in the endless course of transmigration are greater than all the oceans of the world. Thus the true significance of doing good deeds is not merely to get a better rebirth, but to lay the foundations for higher spiritual development, primarily through meditation.
 
-In the core teaching of the Four Noble Truths, the origin of all suffering is traced to the craving that is connected with rebirth (<i>yāyaṁ taṇhā ponobbhavikā</i>). The practice of the noble eightfold path is the only thing that enables one to let go of that craving and be free of suffering. This is what the Buddha called “extinguishment” or “quenching” (<i>nibbāna</i>; Sanskrit <i>nirvāṇa</i>).
+In the core teaching of the four noble truths, the origin of all suffering is traced to the craving that is connected with rebirth (<i>yāyaṁ taṇhā ponobbhavikā</i>). The practice of the noble eightfold path is the only thing that enables one to let go of that craving and be free of suffering. This is what the Buddha called “extinguishment” or “quenching” (<i>nibbāna</i>; Sanskrit <i>nirvāṇa</i>).
 
 ## The Buddha’s Life
 
@@ -294,7 +310,7 @@ The Buddha goes to great lengths to detail the many trials and experiments he un
 
 The significance of the *nikāyas* was recognized by European scholars early on. I will discuss specifics of the editions and translations in the essays on the individual *nikāyas*, and here offer some general remarks.
 
-During the 19th century, European scholars became aware of the Pali tradition, seeing in it a more reliable source of information for the Buddha, his times and his teachings. An English civil servant in Sri Lanka, T.W. Rhys Davids, learned Pali from the monks, initially to help him better understand Sri Lankan legal practices. Recognizing the significance of these text, he returned to England and established the Pali Text Society, largely funded by Asian donors. They obtained palm-leaf manuscripts, on the basis of which they prepared print editions of all the Pali texts.
+During the 19th century, European scholars became aware of the Pali tradition, seeing in it a more reliable source of information for the Buddha, his times and his teachings. An English civil servant in Sri Lanka, Thomas Rhys Davids, learned Pali from the monks, initially to help him better understand Sri Lankan legal practices. Recognizing the significance of these texts, he returned to England and established the Pali Text Society, largely funded by Asian donors. They obtained palm-leaf manuscripts, on the basis of which the PTS prepared print editions of the main Pali texts.
 
 The PTS editions introduced a number of ideas from the west. Most obviously, they used a set of conventions for presenting Indic scripts with European letters. This system is lossless, so texts may be automatically changed from one script to another (which is the basis of SuttaCentral’s script changing utility.) They also introduced titles at the start of texts, punctuation and capitalization, page numbers, footnotes, variant readings, and various other modern innovations.
 
@@ -304,4 +320,4 @@ The PTS editions were ground-breaking and have exerted an unparalleled influence
 
 For my translation of the *nikāyas*, I preferred to use the the Mahāsaṅgīti edition, which is essentially a digital representation of the Burmese textual tradition of the 5th and 6th Councils. It is based on the digital edition prepared by the Vipassana Research Institute, with extensive proofreading and corrections by the Dhamma Society of Bangkok. The Mahāsaṅgīti is, so far as I know, the most consistent and carefully edited digital text, and for that reason was chosen as the root Pali text for SuttaCentral. But it should not be assumed that it is the most authentic. On the contrary, it preserves the Burmese readings, which tend to correct the text in conformity with the Pali grammars. Nevertheless, in almost all such cases there is no difference in the meaning, just minor differences in spelling.
 
-Like most translators, when editions vary I did not adhere to one edition, but simply selected what seems to be the best reading in each case. I referred to the PTS and, more rarely, the Buddha Jayanthi and other editions of the Pali. I also consulted previous translations, and, where relevant, Sanskrit and Chinese parallels. However in every case the overriding intention was to accurately represent the Pali text. Only in a very few and exceptional cases did I rely on the Sanskrit or Chinese parallels to correct the Pali.
+Like most translators, when editions vary I did not adhere to one edition, but simply selected what seems to be the best reading in each case. I referred to the PTS and, more rarely, the Buddha Jayanthi and other editions of the Pali. I also consulted previous translations, and, where relevant, Sanskrit and Chinese parallels. However in every case the overriding intention was to accurately represent the Pali text. Only in a very few exceptional cases did I rely on the Sanskrit or Chinese parallels to correct the Pali.
