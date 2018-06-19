@@ -1,4 +1,4 @@
-# A Reader’s Introduction to the Middle Discourses
+# The Middle Discourses: conversations on matters of deep truth
 
 The Majjhima Nikāya is the second of the four main divisions in the Sutta Piṭaka of the Pali Canon (*tipiṭaka*). It is translated here as <cite>Middle Discourses</cite>, and is sometimes known as the <cite>Middle-Length Discourses</cite>. As the title suggests, its discourses are somewhat shorter than those of the Dīgha Nikāya (<cite>Long Discourses</cite>), but longer than the many short discourses collected in the Saṁyutta Nikāya (<cite>Linked Discourses</cite>) and Aṅguttara Nikāya (<cite>Numbered Discourses</cite>).
 
@@ -32,13 +32,13 @@ The Majjhima includes an astonishing range of similes and imagery, found in almo
 
 While the Buddha himself speaks only short tales, in the background narratives we find more developed narratives, including famous stories as the taming of the vicious serial-killer Aṅgulimāla (MN 86) or the uncompromising commitment of the wealthy youth Raṭṭhapāla (MN 82), who defied his parents will to take ordination, and whose discourse finishes with an extraordinary set of teachings for his king.
 
-Some stories are less earth-bound. MN 37 <cite>The Shorter Discourse on the Ending of Craving</cite> depicts Moggallāna ascending to the heaven of Sakka the lord of gods to check his indulgence. MN 50 <cite>The Rebuke of Māra</cite> also features Moggallāna, ths time in a dialogue with Māra, the lord of deceit and death; and it contains the startling revelation that Moggallāna himself was Māra in a past life. Such cosmic drama reaches its apex in MN 49 <cite>On the Invitation of Brahmā</cite>, where the Buddha takes on no less that Brahmā himself in a high-level philosophical debate, forcing Māra to reveal himself on the side of Brahmā. From the perspective of early Buddhism, God and the Devil are not so very different.
+Some stories are less earth-bound. MN 37 <cite>The Shorter Discourse on the Ending of Craving</cite> depicts Moggallāna ascending to the heaven of Sakka the lord of gods to check his indulgence. MN 50 <cite>The Rebuke of Māra</cite> also features Moggallāna, this time in a dialogue with Māra, the lord of deceit and death; and it contains the startling revelation that Moggallāna himself was Māra in a past life. Such cosmic drama reaches its apex in MN 49 <cite>On the Invitation of Brahmā</cite>, where the Buddha takes on no less that Brahmā himself in a high-level philosophical debate, forcing Māra to reveal himself on the side of Brahmā. From the perspective of early Buddhism, God and the Devil are not so very different.
 
 ## The Buddha in the Majjhima
 
 The Majjhima Nikāya furnishes us with many of the most crucial and beloved tales of the Buddha’s life. Episodes from these texts form a primary source of knowledge for the Buddha’s early life and teaching career. While the tendency towards legend-building is apparent in some places, most of these episodes are simple and realistic.
 
-In MN 123 <cite>Incredible and Amazing</cite> we find Ānanda, the founder of Buddhist biography, recounting an extended series of apparently miraculous events that accompanied the birth of the Buddha-to-be. Whether regarded as history or legend, this text, with its devotional tone and emphasis on the extraordinary, shows a shift in emphasis towards honoring the person of the Buddha; a shift that the Buddha resists by pointing out that the truly extraordinary thing is to be aware of one’s own mind.
+In MN 123 <cite>Incredible and Amazing</cite> we find Ānanda, the founder of Buddhist biography, recounting an extended series of apparently miraculous events that accompanied the birth of the Buddha-to-be. Whether regarded as history or legend, this text, with its devotional tone and emphasis on the extraordinary, shows a shift in emphasis towards honoring the person of the Buddha rather than practicing his teachings; a shift that the Buddha resists by pointing out that the truly extraordinary thing is to be aware of one’s own mind.
 
 It is in the Majjhima (MN 36, MN 85, MN 100) that the Buddha speaks of that crucial moment in his childhood where he spontaneously entered the first absorption, a state of profound peace and stillness in meditation. Much later, when he arrived at a crisis in his spiritual progress, he was to recall this event and realize that such peace was the only true path to awakening (*eso’va maggo bodhāya*).
 
@@ -50,7 +50,7 @@ While it might seem as if the night of awakening followed directly from his reje
 
 The Majjhima makes no mention of the Buddha’s wife, although his son Rāhula is prominently featured in several discourses (MN 61, MN 62, MN 147), showing the Buddha’s patient teaching and Rāhula’s eventual awakening. The Buddha’s father is briefly mentioned in the above passage on meditation as a child, but his birth mother, Māyā, is not mentioned in the Majjhima at all. His stepmother Mahāpajāpatī Gotamī, however, appears in MN 142 <cite>The Analysis of Offerings to the Teacher</cite>, where she offers robes to her son; but he encourages her to offer them rather to the whole community.
 
-MN 91 <cite>With Brahmāyu</cite> describes his behavior in minute detail, recording the tiny nuances of mindfulness and care that he brought to every activity. His followers saw him as the embodiment of the highest truth. Discerning his realization in every detail of his words and acts, they could be moved to exalted praise (MN 92 <cite>With Sela</cite>). However, far from encouraging mindless devotion, the Buddha encouraged his students to investigate him, describing a rigorous and detailed set of tests that a good spiritual teacher should pass (MN 47 <cite>The Inquirer</cite>).
+MN 91 <cite>With Brahmāyu</cite> describes his behavior in minute detail, recording the tiny nuances of mindfulness and care that he brought to every activity. His followers saw him as the embodiment of the highest truth. Discerning his realization in every detail of his words and acts, they could be moved to exalted praise (MN 92 <cite>With Sela</cite>). However, far from encouraging mindless devotion, the Buddha encouraged his students to investigate him, prescribing a rigorous and detailed set of tests that a good spiritual teacher should pass (MN 47 <cite>The Inquirer</cite>).
 
 ## The Disciples
 
@@ -62,13 +62,13 @@ Nine discourses are spoken by the Buddha’s chief disciple and renowned General
 
 Mahākaccāna is another monk of renowned wisdom, whose incisive analytic style, with especial focus on the process of sense experience, influenced the Abhidhamma. He spoke four discourses in the Majjhima. MN 28, the “Honey Cake” demonstrates his unmatched skill in drawing out subtle implications of brief teachings by the Buddha. This discourse received a detailed treatment in Katukurunde Nyanananda’s <cite>Concept and Reality in Early Buddhist Thought</cite>, one of the most influential monographs in modern Buddhist studies.
 
-MN 24, a dialogue between Sāriputta and Puṇṇa Mantāṇiputta, speaks of a relay of chariots, introducing the idea of the seven stages of purification that was to greatly influence the concept of stages of insight in Buddhaghosa’s <cite>Visuddhimagga</cite> and contemporary Theravada meditation.
+MN 24, a dialogue between Sāriputta and Puṇṇa Mantāṇiputta, speaks of a relay of chariots, introducing the idea of the seven stages of purification that was to greatly influence the concept of stages of insight in Buddhaghosa’s <cite>Visuddhimagga</cite> and, from there, contemporary Theravada meditation.
 
 The nun Dhammadinnā presents the only discourse by a *bhikkhunī* in the Majjhima. It seems that the teachings by women in the suttas, while rare, were included because of their unique and striking wisdom. In MN 44 she responds to a series of questions by her former husband, revealing her depth of meditative accomplishment and wisdom.
 
 Further discourses by disciples include several by Moggallāna, Anuruddha, and others. And we cannot pass a discussion on disciples without mentioning Ānanda, who lived closest to the Buddha, and through whom, according to tradition, all the texts passed. Ānanda is the main teacher in seven discourses, and features in many more. Ānanda has a specially close interest in the personal life of the Buddha, and it is with him that the Buddha’s life story began to take on its familiar form.
 
-## A Brief and Incomplete Textual History
+## A Brief Textual History
 
 The Majjhima Nikāya was edited by V. Trenckner (vol. 1) and Robert Chalmers (vols. 2 and 3) on the basis of manuscripts in Sinhalese, Burmese, and Thai scripts, and published in Latin script by the Pali Text Society from 1888 to 1899. The first translation followed in 1926–7 by Robert Chalmers under the title <cite>Further Dialogues of the Buddha</cite>.
 
