@@ -12,5 +12,5 @@ Here I have extracted the raw data in table form. Each table row contains:
     2. Cross references
     3. Beginning Notes
     4. Ending notes.
-3. The text as found in the MS edition, together with an * indicating the exact position of the note.
+3. The text as found in the MS edition, together with an ⁕ indicating the exact position of the note. (Currently changed from `*` so as to avoid confusing markdown.)
 4. The note content.
