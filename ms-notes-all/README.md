@@ -36,3 +36,43 @@ Some examples.
 - 1V:280.  The BN marks the beginning of the word ⁕khittacittassa, and the EN marks end of the word vedanāṭṭassa⁕. Okay, so this text appears on SC here: https://suttacentral.net/pli-tv-bu-vb-pj2/pli/ms#90. Note that the note does appear as a Variant Reading. However the markup is not properly formed. Worse, the critical part of the text is missing. The note says "the passage between these points is *not* found in these editions" (*potthakesu natthi*). But the word *natthi* is missing from our note, giving exactly the wrong meaning. Oops!
 - 27Pe:15. This appears on SC at https://suttacentral.net/pe1/pli/ms#15 . The markup is not correct, but the content is there.
 - 27Pe:788. At https://suttacentral.net/pe8/pli/ms#165 . Content is correct, but markup is not.
+
+Let us take another example.
+
+    <tr>
+    <td class="ms">7D:626</td>
+    <td class="note-type">Ending Notes</td>
+    <td class="ms-text">…devānaṃ tāvatiṃsānaṃ paccekapallaṅkesu pallaṅkena⁕ nisīditvā deve tāvatiṃse āmantesi …</td>
+    <td class="note-content">paccekapallaṅkesu paccekapallaṅkena (sī. ka.-ma.), paccekapallaṅke (syā1-3. kaṃ.)</td> </tr>
+    <tr> <td class="ms">7D:626</td>
+    <td class="note-type">Beginning Notes</td>
+    <td class="ms-text">…tettiṃse attabhāve abhinimminitvā devānaṃ tāvatiṃsānaṃ ⁕paccekapallaṅkesu pallaṅkena nisīditvā deve …</td>
+    <td class="note-content"></td> </tr>
+
+The note starts in BN at `⁕paccekapallaṅkesu` and ends in EN at `pallaṅkena⁕`. The content says that the first stated variant is from the first set of bracketed editions, while the second stated variant is from the second set of bracketed editions. So far so good. But here’s where it gets weird.
+
+In the MS text on SC, there are no variant readings: https://suttacentral.net/dn18/pli/ms#sc31
+
+But there are variant readings listed on pootle: https://pootle.suttacentral.net/en/dn/translate/dn18.po#unit=43937
+
+But they do not appear on the pootelized text: https://suttacentral.net/dn18/en/sujato#20.1
+
+Finally, the text on SC is not the MS text! According to the table, it should read *devānaṃ tāvatiṃsānaṃ paccekapallaṅkesu pallaṅkena nisīditvā* , but in fact it reads *devānaṃ tāvatiṃsānaṃ pallaṅkena nisīditvā*.  I.e. *paccekapallaṅkesu* is missing. Thus the mainline text on SC misses the element of *pacceka* (“individual”) even though it is found in all the variants.
+
+Fortunately I translated it according to the variants!
+
+So there are appear to be multiple issues with the BN/EN:
+
+- Sometimes the mainline text gets garbled.
+- Sometimes notes get lost between pootle and SC.
+- Sometimes content is missing from the notes.
+- Sometimes markup on notes is wrong.
+
+I propose we thoroughly review the BN/EN.
+
+1. Eliminate duplications
+2. Determine the scope of the remaining notes. My guess is that there are around 200 distinct notes. Next:
+   - If there are a relatively small number, fix them by hand and regex.
+   - If there are lots, figure out a more sophisticated method.
+3. The notes themselves should be identified with the appropriate SC segment where it exists (i.e. for the 4 nikayas.)
+4. The notes I have seen so far are fairly simple, in that they do not span multiple sections. We need to see if this is always the case. But this is hard to determine until the duplications are eliminated.
