@@ -61,7 +61,7 @@ Finally, the text on SC is not the MS text! According to the table, it should re
 
 Fortunately I translated it according to the variants!
 
-So there are appear to be multiple issues with the BN/EN:
+So there are multiple issues with the BN/EN:
 
 - Sometimes the mainline text gets garbled.
 - Sometimes notes get lost between pootle and SC.
@@ -70,9 +70,10 @@ So there are appear to be multiple issues with the BN/EN:
 
 I propose we thoroughly review the BN/EN.
 
-1. Eliminate duplications
-2. Determine the scope of the remaining notes. My guess is that there are around 200 distinct notes. Next:
-   - If there are a relatively small number, fix them by hand and regex.
-   - If there are lots, figure out a more sophisticated method.
-3. The notes themselves should be identified with the appropriate SC segment where it exists (i.e. for the 4 nikayas.)
-4. The notes I have seen so far are fairly simple, in that they do not span multiple sections. We need to see if this is always the case. But this is hard to determine until the duplications are eliminated.
+I have made a start on this by creating a new file `en-bn-dedup.html`. This contains, I believe, the whole content of the BN and EN. Here is the method I used.
+
+1. Put each entry on one line.
+2. Eliminate duplications (dedup) using http://www.text-filter.com/tools/remove-duplicate-lines/. This resulted in about 200 unique entries, down from 2112.
+3. Sort the entries.
+4. Go through each one by one and make it into a single note rather than a pair of BN/EN. Mostly this was straightforward, but in a few cases it was tricky. I consulted the original Mahasangiti files when in doubt. This resulted in the final total of 99 notes.
+5. In the few cases where notes spanned more than one `ms` number, I simply marked the first phrase and indicated the scope of the variant in the notes. This avoids the gnarly problem of overlapping hierarchies in HTML. I reworded these notes in English so as to make my editorial intervention clear.
