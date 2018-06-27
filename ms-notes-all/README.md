@@ -29,7 +29,7 @@ The Variant Readings and Cross references seem straightforward enough. But the B
 - Exactly the same note appears multiple times. No idea why.
 - Sometimes the BN and EN appear next to each other, other times not.
 - In the version we have on SC, the markup appears often malformed, and sometimes content is incorrect.
-- Why are these marked like this, rather than simply wrapping the words in the same note? I don't know. It would make sense if the span was long, or if it covered multiple `ms` sections, but it doesn't, or at least, I haven't found any cases like this.
+- Why are these marked like this, rather than simply wrapping the words in the same note? I don't know. It would make sense if the span was long, or if it covered multiple `ms` sections, but only a few do this.
 
 Some examples.
 
