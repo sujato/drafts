@@ -73,7 +73,7 @@ I propose we thoroughly review the BN/EN.
 I have made a start on this by creating a new file `en-bn-dedup.html`. This contains, I believe, the whole content of the BN and EN. Here is the method I used.
 
 1. Put each entry on one line.
-2. Eliminate duplications (dedup) using http://www.text-filter.com/tools/remove-duplicate-lines/. This resulted in about 200 unique entries, down from 2112.
+2. Eliminate duplications (dedup) using http://www.text-filter.com/tools/remove-duplicate-lines/. This resulted in about 200 unique entries, down from 2112. I have done this for all the types of notes, not just bn/en. This consistently results in about 10% of the original size.
 3. Sort the entries.
 4. Go through each one by one and make it into a single note rather than a pair of BN/EN. Mostly this was straightforward, but in a few cases it was tricky. I consulted the original Mahasangiti files when in doubt. This resulted in the final total of 99 notes.
 5. In the few cases where notes spanned more than one `ms` number, I simply marked the first phrase and indicated the scope of the variant in the notes. This avoids the gnarly problem of overlapping hierarchies in HTML. I reworded these notes in English so as to make my editorial intervention clear.
