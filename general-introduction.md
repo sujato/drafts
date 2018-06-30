@@ -106,9 +106,9 @@ In some cases, a *vagga* in Pali may parallel a similar *vagga* in another langu
 
 Occasionally the word <i>vagga</i> is applied to a larger textual unit, one that includes a number of sections, each of which composed of “little” <i>vaggas</i>. Examples of such nested *vagga* structures include the Saṁyutta Nikāya and the Khandhakas of the Pali Vinaya.
 
-#### Paṇṇāsa (“Fifty”)
+#### Paṇṇāsaka (“Fifty”)
 
-The word <i>paṇṇāsa</i> means “fifty”, and it is a group of approximately fifty suttas, or five <i>vaggas</i>. It is used to organize collections that contain many <i>vaggas</i>. The <i>paṇṇāsa</i> is purely for convenience, and does not correspond to any meaningful divisions of the text.
+The word <i>paṇṇāsa</i> means “fifty”, and a <i>paṇṇāsaka</i> is a group of approximately fifty suttas, or five <i>vaggas</i>. It is used to organize collections that contain many <i>vaggas</i>. The <i>paṇṇāsaka</i> is purely for convenience, and does not correspond to any meaningful divisions of the text.
 
 #### Nipāta (“Group”)
 
@@ -156,7 +156,7 @@ The Buddha was not a social revolutionary, and did not overtly agitate for an ov
 
 A man was supposed to earns funds so as to take care of his family and protect them. The money he earned was to be used to provide for his family, treating workers with kindness and decency, and not neglecting to assign some funds for savings, and some for donations to charity.
 
-A woman’s traditional role was to marry and bear children. Aside from this, her options were limited. We rarely hear of professional women aside from sex workers. In this context, the opportunity to become a nun allowed women to pursue their own spiritual and intellectual development, to act and leaders and teachers, and to be respected and supported in that role.
+A woman’s traditional role was to marry and bear children. Aside from this, her options were limited. We rarely hear of professional women aside from sex workers. In this context, the opportunity to become a nun allowed women to pursue their own spiritual and intellectual development, to act as leaders and teachers, and to be respected and supported in that role.
 
 Many of the more extreme manifestations of sexual discrimination are not found in the early texts. We find no mention of child brides, immolation of widows, or the essential subjugation of women to men. Such things only appear in later Indian practices and law books.
 
@@ -173,9 +173,9 @@ Not everyone fit into this neat scheme. We hear reference to outcastes and vario
 
 Change in the Buddha’s day was not limited to the worldly sphere. The religious life of ancient India was equally dynamic. For this reason it would be a mistake to assume that India in the time of the Buddha was primarily a Hindu society. Some of the elements that make up modern Hinduism may be discerned, but Indian religion, like spiritual and religious practice everywhere, has always been in a state of flux and evolution.
 
-Many of the old gods featured in the Ṛg Veda had vanished by the time of the Buddha, and many of the famed deities of later Hinduism had not yet appeared. Those who do appear take on a markedly different aspect; prominent gods may appear in minor roles, or a warrior like Sakka (AKA Indra) appears as an apostle of peace. There were no temples, no images, and no cult of devotion (*bhakti*). There is no mention of a system of *avatars*, and hence no concept that the various deities were expressions of more fundamental realities.
+Many of the old gods featured in the Ṛg Veda had vanished by the time of the Buddha, and many of the famed deities of later Hinduism had not yet appeared. Those who do appear take on a markedly different aspect; prominent gods such as Vishnu (Pali: *Veṇhu*) or Shiva (Pali: *Siva*) appear in minor roles, and a warrior like Sakka (AKA Indra) appears as an apostle of peace. There were no temples, no images, and no cult of devotion (*bhakti*). There is no mention of a system of *avatars*, and hence no concept that the various deities were expressions of more fundamental realities.
 
-Moreover, the outstanding feature of Hinduism—the great synthesis of religious and philosophical ideas, from simple animism to profound non-dualism—had not yet been undertaken. Different strands of religious life were quite distinct, and were not considered to be part of the same “religion”.
+Moreover, the outstanding feature of Hinduism—the great synthesis of religious and philosophical ideas, from simple animism to profound non-dualism—had not yet been undertaken. Different strands of religious life were quite distinct, and were not considered to be part of the same path.
 
 Thus historians do not refer to the brahmanical religion of the time as Hinduism, but rather as Vedism or Brahmanism. It was nearly a thousand years later that the movement recognizable as modern Hinduism became prominent in India.
 
@@ -243,7 +243,9 @@ Most cosmologies, however, posited multiple realms of existence. Beings would co
 - Mainstream Brahmanical traditions said it was due to the performance of rituals and sacrifices to the gods.
 -  Some said that rebirth was determined by intentional actions, whether moral or immoral.
 
-The latter view was held by some ascetic schools, such as Buddhism and Jainism, and some threads of Brahmanism. These traditions shared a conception of transmigration that in many ways is quite similar. Three common elements can be discerned:
+The latter view was held by some ascetic schools, such as Buddhism and Jainism, and some of the more advanced and innovative threads of Brahmanism.
+
+These traditions shared a conception of transmigration that in many ways is quite similar. Three common elements can be discerned:
 
 1. All sentient beings are reborn countless times in process called <i>saṁsāra</i> (“transmigration”).
 2. This process is driven by ethical choices (<i>kamma</i>). Good deeds lead to a pleasant rebirth; bad deeds lead to a painful rebirth.
@@ -278,7 +280,7 @@ Here is general overview of the most important realms found in the suttas. It is
 
 The Buddha taught that doing good and avoiding bad was the path to rebirth in one of the fortunate realms, which include the human realm and all higher realms. However, the course of transmigration is long and unpredictable, so no heaven realm provides a sure refuge. Far from teaching rebirth as a solace for naive followers unable to face the inevitability of death, rebirth is depicted in traumatic and terrifying terms. The tears that one has shed in the endless course of transmigration are greater than all the oceans of the world. Thus the true significance of doing good deeds is not merely to get a better rebirth, but to lay the foundations for higher spiritual development, primarily through meditation.
 
-In the core teaching of the four noble truths, the origin of all suffering is traced to the craving that is connected with rebirth (<i>yāyaṁ taṇhā ponobbhavikā</i>). The practice of the noble eightfold path is the only thing that enables one to let go of that craving and be free of suffering. This is what the Buddha called “extinguishment” or “quenching” (<i>nibbāna</i>; Sanskrit <i>nirvāṇa</i>).
+In the core teaching of the four noble truths, the origin of all suffering is traced to the craving that is connected with rebirth (<i>yāyaṁ taṇhā ponobbhavikā</i>). The practice of the noble eightfold path is the only thing that enables one to let go of that craving and be free of suffering. This is what the Buddha called “extinguishment” or “quenching” (Pali: <i>nibbāna</i>; Sanskrit <i>nirvāṇa</i>).
 
 ## The Buddha’s Life
 
@@ -302,7 +304,7 @@ MN 116 <cite>Isigili</cite> also refers to the so-called “Buddhas awakened for
 
 Despite his exalted and revered status, the Buddha in the Majjhima had not yet been elevated to the cosmic divinity who appears in later Buddhism. He is a very human figure. Nowhere does he say that his practice in past lives led to his awakening in this life; there is no mention of the *pāramīs*. Indeed, in one of the rare occasions when he refers to a past life (MN 81 <cite>Ghaṭikāra</cite>), he appears decidedly un-enlightened.
 
-In the early texts, the term *bodhisatta* means “one intent on awakening”. It primarily refers to the period after leaving home and before awakening. It is clear from the descriptions of his practices that the Buddha was not following a path that he had started long ago, but was exploring the different options available to him, uncertain as to how awakening may be gained. His crucial insight came, not by recollecting vows made in past lives, but when he remembered the time he fell into absorption as a child.
+In the early texts, the term *bodhisatta* means “one intent on awakening”. It primarily refers to the period after leaving home and before awakening. It is clear from the descriptions of his practices that the Buddha was not following a path that he had started long ago, but was exploring the different options available to him, uncertain as to how awakening may be gained. His crucial insight came, not by recollecting vows made in past lives, but when he remembered the time he fell into absorption (*jhāna*) as a child.
 
 The Buddha goes to great lengths to detail the many trials and experiments he undertook before his path was mature. His truly special quality was that he discovered the path through his own efforts, and later taught that same path to his disciples. Even disciples who had realized the same liberation and understanding revered the Buddha as the one of unsurpassed wisdom and compassion who had illuminated the path for others.
 
@@ -310,7 +312,7 @@ The Buddha goes to great lengths to detail the many trials and experiments he un
 
 The significance of the *nikāyas* was recognized by European scholars early on. I will discuss specifics of the editions and translations in the essays on the individual *nikāyas*, and here offer some general remarks.
 
-During the 19th century, European scholars became aware of the Pali tradition, seeing in it a more reliable source of information for the Buddha, his times and his teachings. An English civil servant in Sri Lanka, Thomas Rhys Davids, learned Pali from the monks, initially to help him better understand Sri Lankan legal practices. Recognizing the significance of these texts, he returned to England and established the Pali Text Society, largely funded by Asian donors. They obtained palm-leaf manuscripts, on the basis of which the PTS prepared print editions of the main Pali texts.
+During the 19th century, European scholars became aware of the Pali tradition, seeing in it a more reliable source of information for the Buddha, his times and his teachings. An English civil servant in Sri Lanka, Thomas Rhys Davids, learned Pali from the monks, initially to help him better understand Sri Lankan legal practices. Recognizing the significance of these texts, he returned to England and established the Pali Text Society (PTS), largely funded by Asian donors. They obtained palm-leaf manuscripts, on the basis of which the PTS prepared print editions of the main Pali texts.
 
 The PTS editions introduced a number of ideas from the west. Most obviously, they used a set of conventions for presenting Indic scripts with European letters. This system is lossless, so texts may be automatically changed from one script to another (which is the basis of SuttaCentral’s script changing utility.) They also introduced titles at the start of texts, punctuation and capitalization, page numbers, footnotes, variant readings, and various other modern innovations.
 
