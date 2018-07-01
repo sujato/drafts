@@ -44,6 +44,26 @@ So if you wish to build up your knowledge step by step, you can’t rely on simp
 
 Having said which, there’s nothing wrong with simply plunging in at random, so long as you don’t expect everything to make sense at first. Usually you’ll find that obscure or difficult ideas are explained somewhere else. Discovering those unexpected connections is one of the joys of reading the suttas.
 
+## Looking Up References
+
+When you delve into Sutta reading, you'll notice that texts and passages are referenced in sometimes confusing ways. On SuttaCentral we try to choose the simplest, most widely accepted form of referencing that is based on the divisions in the texts themselves. For the four *nikāyas*, this means:
+
+- In the Dīgha and Majjhima, texts are referenced by the ID for the collection (DN and MN respectively) and the sutta number, counted in a simple sequence from the beginning.
+- In the Saṁyutta, the collection ID (SN), *saṁyutta* (thematic group), and sutta.
+- In the Aṅguttara, the collection ID (AN), *nipāta* (numerical group), and sutta.
+
+More granular referencing is provided by section and segment numbers. These follow pre-existing conventions:
+
+- In the Dīgha, the section numbers of the PTS Pali edition (which are widely adopted in translations.)
+- In the Majjhima, the section numbers introduced by Bhikkhu Ñāṇamoḷi, and used in Bhikkhu Bodhi's edition.
+- In the Saṁyutta and Aṅguttara, the paragraph numbers as found in the Mahāsaṅgīti Pali text.
+
+Each of these is further subdivided so that each section contains a number of "segments", a short piece of text usually about a sentence or so long. In my translations, the segments are matched with the underlying Pali text.
+
+You may encounter various other referencing systems. In modern academic works, texts are often referenced by volume and page of the Pali Text Society edition of the original Pali. This is a regrettable and unscientific convention, and I hope it is soon abandoned in favor of proper semantic references. The PTS numbers are displayed on SC in the sutta cards.
+
+Traditionally, the texts were—and indeed still are—referenced the long way: by *nikāya*, *vagga*, *saṁyutta*, *paṇṇasaka* (for the Khandha Saṁyutta and Saḷāyatana Saṁyutta), *vagga* and *sutta*. This system is helpful when using manuscripts, as you can narrow your search step by step through the manuscript to find what you need. On the web, or even in books, however, it is unnecessary. Nevertheless, you can use the traditional navigation structure in our sidebar if you wish.
+
 ## Elements of Structure
 
 As students of Buddhist texts we are interested in the content, in learning what the Buddha and his disciples had to say. However, due to the manner in which the texts are arranged, we quickly discover that it’s not easy to find what we want, or to know how different texts relate to each other. So while it may seem dry, it is worth spending a little time to consider the <em>structure</em> of the texts.
