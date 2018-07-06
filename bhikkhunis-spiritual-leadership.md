@@ -2,6 +2,9 @@
 
 - Bhante Sujato, for the Asian Buddhism Connection (ABC) Conference 2018
 
+>### Abstract
+Bhikkhuni ordination, despite initial resistance, has taken root and flourished in Theravada Buddhism. Women’s leadership is critical for any community, all the more so due to the multitude of challenges facing us today. By supporting and encouraging our bhikkhunis, we are building a more resilient and adaptable Buddhism for the future.
+
 Like most men, I grew up simply not noticing the ways in which my gender offered me opportunities and advantages that were denied to women. Even after becoming a monk, I just accepted the fact that women could not ordain as a fact: that’s just “the way it is”. But I couldn’t deny one thing: that everywhere I went, it was mostly women coming to the temple, and mostly women who were meditating. But the moment that pierced my heart was when my own sister said to me that she could never full commit to a religious path, because none of them treat women equally.
 
 I started to research the issue and found, as have so many others, that there are no real obstacles to bhikkhunis ordaining. I wanted to share the good news with my fellow monks. And while many of them were indeed delighted and supportive, I found, to my surprise and growing disappointment, that many of them were simply not interested. Instead of seeing this as wonderful chance for growth and renewal in Buddhism, they felt threatened, and did all they could to oppose ordination.
