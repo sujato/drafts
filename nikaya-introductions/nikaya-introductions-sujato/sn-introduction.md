@@ -190,7 +190,7 @@ Thus one of the key functions of the aggregates was to categorize theories of th
 
 Regardless of whether the set of categories was pre-Buddhist, the Buddha treated them in his own distinctive way, emphasizing that when examined, the aggregates turn out to lack the qualities of permanence, surety, and refuge that are intrinsic to the idea of a true self. But our grasping and identification are strong and have been built up over a long time, so it is not enough to merely acknowledge this on an intellectual level. Hence in the Khandhasaṁyutta we find the core teachings emphasized again and again. The Buddha constantly reminds the mendicants that the aggregates lead to sorrow and despair (SN 22.7), that they are aggravating (SN 22.79), that desire for them must be given up (SN 22.137), that they are alien (SN 22.33). One who identifies with the aggregates is like a man who hires an assassin as a servant (SN 22.85). The entire collection, in fact, can be seen as a blueprint for insight meditation (*vipassanā*).
 
-The view that the aggregates are self is called "identity view" (*sakkāya diṭṭhi*). It is possible to identify with any or all of the aggregates in a myriad of ways, commonly set out as twenty forms of identity view (SN 22.1, etc.). Identity view leashes an unenlightened person to transmigration like a dog tied to a post, pointlessly running around and around (SN 22.99).
+The view that the aggregates are self is called “identity view” (*sakkāya diṭṭhi*). It is possible to identify with any or all of the aggregates in a myriad of ways, commonly set out as twenty forms of identity view (SN 22.1, etc.). Identity view leashes an unenlightened person to transmigration like a dog tied to a post, pointlessly running around and around (SN 22.99).
 
 In this collection we find a large number of striking and lively narratives, showing how the aggregates could be a solace at the time of death, a guide to the knotty theoretical debates on identity, or a framework for insight meditation.
 
@@ -198,9 +198,70 @@ Many of the short abbreviated texts are built from the same templates employed i
 
 ## The Book of the Six Sense Fields
 
-The “Book of the Six Sense Fields” is the fourth of the five books of the Linked Discourses. It is named after the first and longest <i>saṁyutta</i>, which deals with the core Buddhist teaching of the six sense fields. The second <i>saṁyutta</i> on Feelings also deals with a major doctrinal topic. The remaining eight <i>saṁyuttas</i> deal with miscellaneous secondary themes, some organized by subject, others by person.
+The “Book of the Six Sense Fields” is the fourth of the five books of the Linked Discourses. It is named after the first and longest <i>saṁyutta</i>. The second <i>saṁyutta</i> on Feelings also deals with a major doctrinal topic, one that is closely related to the main theme. The remaining eight <i>saṁyuttas</i> deal with secondary themes organized by subject or by person.
 
-The number of discourses in the “Linked Discourses on the Six Sense Fields” varies between editions, mainly due to the way repetitions are counted; SuttaCentral follows Bhikkhu Bodhi’s translation in counting 248 discourses. The six sense fields complement the five aggregates as the summary of the noble truth of suffering. Where the aggregates focus on the functional structure of experience as basis for views of self, the emphasis here is on how sense experience stimulates desire. Despite this difference in orientation, the two collections share much in common, and often the exact same template is applied in both cases. The six sense fields are the means through which the world is known, and so each of them has an “inner” and an “outer” aspect—the “eye” and “sights”, etc. Though common, it’s best to avoid thinking of the external sense field as the “object”, since in the suttas they are depicted in relation to the observing mind, and not as independently existing entities. This is straightforward until we come to the last sense, the “mind” and “thoughts” or “mental phenomena”. Just to clear up a possible confusion, this “sixth sense” is simply the mental faculty, and has nothing to do with psychic powers. The outer aspect is <i>dhammā</i>, a term so ambiguous its translation is always difficult. Here it refers to anything that may be known directly by the mind, distinct from the six senses. The most technically correct translation is probably “mental phenomena”, but “thought’ may be used as a more colloquial rendering, so long as it includes ideas, imagination, and so on, not just verbalized cognition.
+The number of discourses in the “Linked Discourses on the Six Sense Fields” varies between editions, mainly due to the way repetitions are counted; SuttaCentral follows Bhikkhu Bodhi’s translation in counting 248 discourses.
+
+The six sense fields are the means through which the world is known, and so each of them has two aspects. The “inner” aspect is the sense organs, for example the “eye” or the “ear”, which make it possible to for an organism to experience the outside world by receiving sense stimuli. These are paired with the external sense stimuli, such as “sights” or “sounds”, which impact the sense organ (contact, *phassa*) and give rise to the appropriate form of consciousness.
+
+It’s best to avoid thinking of the external sense fields as “objects”, since in the suttas they are depicted in relation to the observing mind, and not as independently existing entities. There is no word for “object” in this sense in the early texts. The term *ārammaṇa*, which came to be used in this sense much later in the Abhidhamma, means “support” in the suttas.
+
+The operation of the senses is relatively straightforward until we come to the last sense, the “mind” and “thoughts” or “mental phenomena”. Just to clear up a possible confusion, this “sixth sense” is simply the mental faculty, and has nothing to do with psychic powers. And unlike the five external senses, the “inner” sense field is not a physical organ: *mano* does not mean “brain”.
+
+The exact meaning of “mind” (*mano*)  in this context is not spelled out in detail, so let us consider this first. Buddhism uses three main words for the mind: *mano*, *citta*, and *viññāṇa*. In general usage these are synonyms, and it is not possible to draw hard and fast distinctions between them (AN 3.60, DN 1:2, SN 12.61). Nevertheless, they tend to be used in different ways.
+
+- *Viññāṇa* in doctrinal contexts is awareness itself, the sheer knowing of things. It appears in this sense in dependent origination, the aggregates, and the sense fields, and so it pertains to the first noble truth, the suffering of the world that we are to know. In colloquial usage, however, it can take on a variety of shades of meaning, such as “understanding”.
+- *Mano* is the mind in action, one of the three spheres of *kamma*, a sense it inherits from the Upanishads. It is that which creates results, as in the famous first line of the Dhammapada: *mano pubbaṅgamā dhammā*, “mind is the forerunner of all things”. It is particularly used in ethical contexts, the performance of mental acts that bear fruit of either good or bad. So it may be understood as primarily relating to the second and third noble truths, the origination and ending of suffering.
+- *Citta* is the most general, and the least tightly bound to a particular technical sense. It is used widely as “mind”, “thought”, “heart”, etc. But when found in technical contexts it refers to *samādhi*, to the purified awareness of deep meditative immersion. For this reason it is specially used in contexts relating to the path, the fourth noble truth.
+
+In the six senses, *mano* is clearly not identical with *viññāṇa*, as it gives rise to it. Nor is it the “known”, the phenomena of which the mind is aware, for that is *dhammā*. Nor is it the turning towards or paying attention to the thing known, as is revealed in MN 26 Mahāhatthipadopamasutta (“The Longer Simile of the Elephant’s Footprint”):
+
+> *Ajjhattikañceva, āvuso … mano aparibhinno hoti, bāhirā ca dhammā na āpāthaṃ āgacchanti no ca tajjo samannāhāro hoti, neva tāva tajjassa viññāṇabhāgassa pātubhāvo hoti.*  
+Though the mind is intact internally, so long as exterior thoughts don’t come into range and there’s no corresponding attention, there’s no manifestation of the corresponding type of consciousness.
+
+This passage suggests that, like the physical sense organs, *mano* in some way pre-exists the actual moment of conscious awareness. This does not mean that it is some mystical substrata of consciousness, for as we have seen *mano* is consistently used in the sense of the mind that performs acts, especially those with a moral dimension. So the *mano* is that which has performed deeds in the past, fueling an ongoing mental continuum within which the results of those deeds may be experienced in the present. It is the mental faculty that holds the potential for conscious experience, created and conditioned by choices made in the past.
+
+The “outer” aspect is <i>dhammā</i>, a term so ambiguous its translation is always difficult. Here it refers to anything that may be known directly by the mind, distinct from the six senses. The most technically correct translation is probably “mental phenomena”, but “thought” may be used as a more colloquial rendering, so long as it is understood to include ideas, imagination, and so on, not just verbalized cognition.
+
+The six sense fields complement the five aggregates as the summary of the noble truth of suffering. Where the aggregates focus on the functional structure of experience as basis for views of self, the emphasis here is on how sense experience stimulates desire. Despite this difference in orientation, the two collections share much in common, and often the exact same template is applied in both cases.
+
+The term *āyatana* refers to something “stretched out”, a domain, field, or dimension of activity. However, the Visuddhimagga suggest that the sense of the word is primarily a “cause”, or perhaps “stimulus”:
+
+> … base (<i>āyatana</i>) should be understood as such (a) because of its actuating (<i>āyatana</i>), (b) because of being the range (<i>tanana</i>) of the origins (<i>āya</i>), and (c) because of leading on (<i>nayana</i>) what is actuated (<i>āyata</i>). (<cite>Path of Purification</cite>, XV.4, translated by Bhikhhu Ñāṇamoḷi)
+
+Bhikkhu Ñāṇamoḷi rendered the term accordingly as “base”, which has been followed by Bhikkhu Bodhi. But this commentarial explanation is merely a series of false etymologies, or rather, puns. The point of such explanations is to provide material for teachers to reflect on use in teaching, and it shouldn’t be taken uncritically. In fact the verbal root is not the obscure *āyatati* (“actuate”) but *āyamati*, “field, dimension”.
+
+As so often, the context draws upon and redefines brahmanical terminology. The “six sense fields” (*saḷāyatana*) were first mentioned in the Buddha’s third teaching, the famous Fire Sermon (Ādittapariyāya Sutta) which appears in this collection at SN 35.28. This sermon was given to a large assembly of brahmanical ascetics, following a period when the Buddha stayed in their “fire house”, a kind of shrine room for worshiping the sacred flame. And in Sanskrit, this place is called an *āyatana*. The Upanishads also call the senses *āyatana* in the sense of fields or scopes of activity and experience (eg. Bṛhadāraṇyaka Upaniṣad 4.1.4 *cakṣur evāyatanam*, 6.1.5 *mano vā āyatanam*, Chāndogya Upaniṣad 5.1.5 *mano ha vā āyatanam*).
+
+When the Buddha told those ascetics that “all is burning”, he was not giving an Abhidhamma analysis, for it was many centuries before Abhidhamma as invented. He was speaking in terms that the brahmins could understand.
+
+One of the key projects of the brahmanical Upanishads was to reinterpret the deities of the Vedas; rather than thinking of them as entities who lived in the sky, they became forces or essences that imbued all of reality. So for the brahmin ascetics, the flame (*agni*) was worshiped as the embodiment of a sacred energy that was imminent in all things.
+
+The teachings of the Fire Sermon respond to several key Upanishadic passages. In Bṛhadāraṇyaka Upaniṣad 1.3, it is told how evil entered into the world by the actions of the demons (*asuras*). While the gods (*devas*) were performing the ritual, they entered into the various senses and corrupted them, tainting them with evil and death. Hence when suffering is experienced through the senses, this is the reason. But those same senses can be freed from this corruption by being carried beyond death. These purified, divine senses are further described at 2.5.1, the famous “Honey-Knowledge”, regarded as one of the highest and most secret teachings. It presents a template, applied to various different kinds of things. These are not organized so rationally as the Buddhist doctrines, but include quite different kinds of things in the same set, such as the elements, truth, the sun, etc. Nevertheless, the parallels with the teachings of the six senses are quite apparent.
+
+>*ayam ādityaḥ sarveṣāṃ bhūtānāṃ madhu*  
+>This sun is the honey of all beings  
+>*asyādityasya sarvāṇi bhūtāni madhu*  
+>All beings are the honey of the sun.  
+>*yaś cāyam asminn āditye tejomayo ’mṛtamayaḥ puruṣo yaś cāyam adhyātmaṃ cākṣuṣas tejomayo ’mṛtamayaḥ puruṣo ’yam eva sa yo ’yam ātmā*  
+>This person in the sun made of fire and immortality, and this person in the internal eye made of fire and immortality: this is that—that which is the self.  
+>*idam amṛtam idaṃ brahmedaṃ sarvam*  
+>This is the immortal, this is the divine, this is the all.  
+(Bṛhadāraṇyaka Upaniṣad 2.5.5, my translation.)
+
+The brahmanical view is that all creation stems from Brahmā and hence is, in its truest essence, overflowing with divinity and bliss—honey. Any suffering is merely a temporary imperfection. This is how the brahmins handled the great challenge to any theistic system, the problem of evil.
+
+For the brahmins, to focus on suffering is to miss the point. This is not merely a facile “positive thinking” doctrine, it is a profoundly contemplative philosophy, worked out in great detail across many complex sacred texts, and informed by deep meditative practice. It does not deny the reality of suffering, but it points to a deeper reality where suffering cannot reach.
+
+Rather than tackling the textual and philosophical issues, the Buddha preferred to point directly at experience. Divested of theology, the experience of our senses is not “honey” but “fire”. And while we may have a theology that sees fire as sacred, the reality is that it burns. The Buddha was showing the ascetics that there is no need to invoke deities and metaphysics in order to understand their experience: they could see how it worked right here.
+
+The forces lighting that fire can be readily discerned: greed, hate, and delusion. This classic Buddhist presentation of the fundamental defilements appears first in this passage. It is correlated with the three feelings: pleasant feeling stimulates desire; painful feeling provokes pain; and neutral feeling slips into delusion (MN 44:25, MN 128:28, SN 36.3).
+
+The Fire Sermon, in its brevity, foreshadows several distinctive features of the teachings on the six senses as compared to the five aggregates. It is direct, emotional and powerful, speaking of the world that is burning, in contrast with the more intellectual approach of the aggregates. In invoking the idea of the “all”, it suggests that the scope of the six senses includes all that is experienced and known; no such claim to completeness is made of the aggregates. And the text treats sense experience as a conditioned process, the immediately visible dimension of dependent origination.
+
+
+
+
 
 ## The Great Book
 
