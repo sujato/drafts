@@ -38,6 +38,16 @@ The five books are named according to various principles:
 
 In this Introduction I will give an overview of each of the five books. However, I will not summarize each of the 56 *saṁyuttas*, for that would make the introduction far too long. For such summaries, see the lists of suttas on SuttaCentral, which include explanations of the various structural levels of the *saṁyutta*, as well as each individual discourse.
 
+## Buddhism and Brahmanism
+
+Mahavakya:
+DN 1:2, DN 11:81, DN 24:2: ahamasmi brahmā = Brihadaranyaka Upanishad 1.4.10 ahaṃ brahmāsmīti
+
+idaṃ brahmedaṃ kṣatram ime lokā ime devā ime vedā imāni bhūtānīdaṃ sarvaṃ yad ayam ātmā || BrhUp_4,5.7 ||
+
+tasyeme lokā ātmānaḥ "These worlds are his [Agni's] body/self." BrhUp_1,2.7 = so attā so loko
+
+
 ## The Book With Verses
 
 The “Book With Verses” (Sagāthāvagga) is divided into eleven <i>saṁyuttas</i>, with a total of 271 suttas.
