@@ -9,35 +9,25 @@ body{
 main{
 background:#CE8400;
 color:white;
-display:flex;
-flex-direction: column;
-align-items: center;
-margin:0 auto;
+margin:0;
 height:2400px;
 width:1600px;
 }
-top-group{
-display:flex;
-flex-direction: column;
-align-items: center;
-justify-content: center;
-height:33%;
-width:100%;
+.top-group{
+height:266px;
 border-bottom: 4px solid #f6b735;
+padding:230px 0 300px;
 }
-bottom-group{
-display:flex;
-flex-direction: column;
-align-items: center;
-justify-content: center;
-height:66%;
+.bottom-group{
+padding:400px 0;
 }
-supertitle{
+.supertitle{
 font-size:60px;
 font-family:"Skolar PE";
 letter-spacing: 0.02em;
 font-variant-caps: small-caps;
-display:block;
+display:table;
+margin:0 auto;
 }
 .suttacentral-logo{
 width:80px;
@@ -51,39 +41,45 @@ font-family:"Skolar Sans Eb";
 letter-spacing: 0.02em;
 font-variant-caps: small-caps;
 text-transform:lowercase;
-margin-top: 48px;
+display:table;
+margin: 48px auto 0;
 }
 .bird{
-display:block;
 width:400px;
-margin-bottom:300px
+display:table;
+margin:0 auto 300px;
 }
-about{
+.about{
 font-size:60px;
 font-family:"Skolar Sans Sb";
 font-style: italic;
-display:block;
+display:table;
+margin:0 auto;
 }
-author{
+.author{
 font-size:80px;
   font-family:"Skolar Sans Eb";
   letter-spacing: 0.02em;
   font-variant-caps: small-caps;
   text-transform:lowercase;
+  display:table;
+  margin:0 auto;
 }
 </style>
 </head>
 <body>
 <main>
-<top-group>
-<supertitle><img class="suttacentral-logo" src="suttacentral-logo.png"> SuttaCentral</supertitle>
+<div class="top-group">
+
+<div class="supertitle"><img class="suttacentral-logo" src="suttacentral-logo.png"> SuttaCentral</div>
 <h1>Middle Discourses</h1>
-</top-group>
-<bottom-group>
+
+</div>
+<div class="bottom-group">
 <img class="bird" src="bird.png">
-<about>A translation of the Majjhima Nikāya by</about>
-<author>Bhikkhu Sujato</author>
-</bottom-group>
+<div class="about">A translation of the Majjhima Nikāya by</div>
+<div class="author">Bhikkhu Sujato</div>
+</div>
 </main>
 </body>
 </html>
