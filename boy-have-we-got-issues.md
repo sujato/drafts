@@ -9,7 +9,7 @@ In 2017/2018, SC was completely rebuilt as a PWA on top of Polymer 2.x. In early
 
 The upgrade from P2 to P3 is automated using Polymer’s  [modulizer](https://github.com/Polymer/tools/tree/master/packages/modulizer).
 
-In addition, the Polymer team announced the deprecation of the polymer base class, superseded by [LitElement](https://github.com/Polymer/lit-element). They now recommend that new apps build on LitElement and old apps upgrade when possible.
+In addition, the Polymer team has announced the deprecation of the polymer base class, superseded by [LitElement](https://github.com/Polymer/lit-element). They now recommend that new apps build on LitElement and old apps upgrade when possible.
 
 While building the app, we encountered a number of cases where the existing Polymer elements were buggy and apparently unmaintained. Monica of the Polymer team [has explained that](https://www.polymer-project.org/blog/2017-11-27-future-of-elements.html) the old elements were left as-is while the focus was on core development. A new generation of elements based on LitElement is being released ([MDC Web](https://github.com/material-components/material-components-web)), and has now become Google’s core element set.
 

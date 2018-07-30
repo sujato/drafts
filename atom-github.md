@@ -5,3 +5,4 @@
 3. Write "clone".
 4. Click it!
 5. Enter repo URL and local directory.
+6. Wait!
