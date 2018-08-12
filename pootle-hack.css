@@ -1,0 +1,340 @@
+/* BACKGROUND COLORS*/
+body,
+html,
+#footer,
+#navbar,
+.path-summary-more,
+tr.view-row:nth-child(2n+1),
+.permissions tr.item:nth-child(2n+1),
+#header-meta,
+#top-stats,
+#actions,
+#toolbar,
+div#body,
+#nav-main li a,
+.search-container,
+tr.edit-ctx,
+tr.ctx-row,
+.show-dropdown .dropdown-menu,
+tr.view-row:nth-child(2n+1),
+.permissions tr.item:nth-child(2n+1),
+.stats .item.odd,
+#header-meta,
+#footer,
+.header,
+#tabs li a.active,
+.search-results tr:nth-child(2n+1),
+tr.edit-row.with-ctx {
+    background-color: #eee8d5;
+}
+div.translate-container,
+#search-form input[type="text"],
+#search-form,
+td.translate-full textarea.translation,
+form.formtable tbody tr:hover,
+#nav-main .dropdown-menu li a:hover,
+#nav-main .dropdown-menu li.show-dropdown,
+#nav-main .dropdown-menu li a:active,
+#nav-main .dropdown-menu li a:focus,
+.search-results tr:hover {
+    background-color: #fdf6e3
+}
+.extra-item-block:hover,
+#tabs a:hover {
+    background-color: rgba(0, 0, 0, 0.1)!important
+}
+table.graph .translated,
+#translate-actions a.translation-complete .counter,
+.btn.btn-success {
+    background-color: #859900
+}
+#translate-actions a.continue-translation .counter,
+#translate-actions .back-to-browser .counter,
+td.stats-number.need-translation a.stats-data,
+.staticpages .action {
+    background-color: #d33682
+}
+#translate-actions a.fix-errors .counter,
+td.stats-number.critical a.stats-data {
+    background-color: #dc322f
+}
+div.unit-path {
+    background-color: #93a1a1
+}
+td.translate-full textarea.translation {
+    margin-bottom: 0px!important
+}
+.btn {
+    background-color: #6c71c4
+}
+.btn.btn-warning {
+    background-color: #b58900;
+}
+tr.view-row:hover {
+    background-color: rgba(0, 0, 0, 0.05)
+}
+div.translate-container.error {
+    background-color: rgba(220, 50, 47, 0.1);
+}
+.extra-item-block {
+    background-color: rgba(108, 113, 196, 0.1);
+}
+#translator-comment .extra-item-block {
+    background-color: rgba(2, 161, 152, 0.1)
+}
+.tm-server .diff-replace,
+.tm-server .diff-delete,
+.tm-server .diff-insert {
+    background-color: #fdf6e3
+}
+#tabs li a.active {
+    border: none;
+    border-bottom: 3px solid #dc322f
+}
+
+/* FONT COLORS*/
+*,
+body,
+html,
+.translate-focus div.translate-original,
+.suggestion-original {
+    color: #657b83;
+}
+a,
+a:link {
+    color: #268bd2;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered,
+.extra-item .tm-context span {
+    color: #93a1a1
+}
+div.unit-path li a,
+div.unit-path li::after,
+div.unit-path li span.content-wrapper,
+.translate-context-value,
+.extra-item .tm-context {
+    color: #93a1a1
+}
+.highlight-html {
+    color: #cb4b16
+}
+.tm-server .diff-replace {
+    color: #cb4b16!important;
+    font-weight: 600
+}
+.tm-server .diff-delete {
+    color: #93a1a1!important;
+    font-weight: 600
+}
+.tm-server .diff-insert {
+    color: #cb4b16;
+    font-weight: 600
+}
+
+/* FONTS */
+* {
+    font-family: "source sans pro";
+}
+td.translate-full textarea.translation,
+.translate-translation > div > div {
+    font-family: "source serif pro"
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    font-weight: 400;
+}
+.suggestion-original {
+    font-size: 14px;
+    font-family: "source sans pro";
+    font-weight: 400;
+}
+div.sources .translation-text,
+td.translate-full textarea.translation {
+    font-weight: 600
+}
+
+/* FROM HERE ON CHANGES MAY AFFECT FUNCTIONALITY, SO TAKE CARE */
+
+/* REMOVE ANNOYING "GO BACK TO BROWSING" TEXT, ESPECIALLY USEFUL FOR NARROW SCREEN */
+#toolbar {
+    box-shadow: none;
+    border: none;
+    top: -45px;
+    right: 10px;
+    z-index: 200
+}
+#translate-actions .caption {
+    display: none
+}
+#translate-actions li {
+    margin-left: 10px
+}
+
+/* MAKE THINGS GO AWAY */
+.sidetitle,
+.unit-meta,
+.extra-item-meta,
+.extra-item-title,
+.translate-priority,
+.translate-locations,
+.comments p,
+#translate-checks-block .sidetitle,
+.check-warning,
+div.language-name,
+.icon-timeline,
+.icon-raw-mode,
+.extra-item-gravatar,
+#target-item-gravatar,
+.report-issue,
+.translate-buttons-block {
+    display: none
+}
+.translation-text-headers {
+    padding: 0;
+    border: 0
+}
+
+/* MAKE TEXT DISPLAY PRETTY */
+table .translate-view.translate-original,
+table .translate-view.translate-translation {
+    padding: 1px 20px 2px 20px
+}
+div.translate-container {
+    border: none;
+    margin: 0 auto;
+    padding: 10px 0 3px 0;
+    box-shadow: none
+}
+tr.edit-ctx.before .edit-ctx-wrapper,
+tr.edit-ctx.after .edit-ctx-wrapper {
+    box-shadow: none;
+    border: none
+}
+table.translate-table {
+    max-width: 72em;
+    margin: 0 auto
+}
+.editor-area-wrapper.is-focused {
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+.translate-fuzzy-block {
+    text-align: left
+}
+div.translate-left,
+div.translate-right {
+    width: 10%;
+    height: 0;
+    margin-top: 0
+}
+div.translate-middle {
+    width: 96%;
+    display: block;
+    margin-top: -30px;
+    margin-bottom: -5px
+}
+.extra-item .tm-context span {
+    float: left;
+}
+
+/* MAKE HAMBURGER TOP MENU. NOT GUARANTEED! */
+#nav-main > li:first-of-type,
+#user img,
+.user-score {
+    display: none
+}
+#user .user-username {
+    visibility: hidden
+}
+@media screen and (max-width: 900px) {
+    #user .user-username:after {
+        display: none!important
+    }
+}
+#user .user-username:after {
+    content: "≡";
+    visibility: visible;
+    font-size: 40px;
+    color: white;
+}
+.show-dropdown .dropdown-menu {
+    right: 20px;
+}
+#translate {
+    display: flex;
+    flex-direction: row;
+}
+div.sources {
+    margin-top: -5px;
+    flex-basis: 0;
+    flex-grow: 1;
+    margin-right: 30px
+}
+#target-item-content div.translate-translation {
+    flex-basis: 0;
+    flex-grow: 1
+}
+.suggestion-original {
+    padding-right: 40px
+}
+
+/* MAKE CONTROLS GO ON THE SIDE OF THE SEGMENTS */
+.extras-bar {
+    width: 5px;
+    position: absolute;
+    left: -15px;
+    top: -10px;
+    z-index: 10000;
+}
+.icon-comment-add {
+    filter: grayscale(100%) brightness(1.3);
+}
+.icon-copy {
+    position: absolute;
+    top: 15px;
+    left: 0px;
+    filter: grayscale(100%) brightness(1.3);
+}
+div.unit-path ul li:nth-child(4) a:after {
+    content: "🔗";
+    position: absolute;
+    top: 26px;
+    left: 30px
+}
+.translate-context-value {
+    position: absolute;
+    top: 5px;
+    left: 140px;
+    font-weight: 400;
+    display: none
+}
+table .translate-view.translate-original,
+table .translate-view.translate-translation {
+    padding-left: 28px
+}
+div.translate-middle {
+    padding-left: 10px
+}
+div.unit-path ul li:nth-child(1),
+div.unit-path ul li:nth-child(2),
+div.unit-path ul li:nth-child(3) {
+    display: none
+}
+div.unit-path {
+    position: relative;
+    width: 100px;
+    display: inline-block;
+    right: 23px;
+    background-color: #fdf6e3;
+}
+div.unit-path ul li:nth-child(4) a {
+    color: #fdf6e3;
+}
+.editor-area-wrapper:first-child {
+    border: none
+}
+#suggestions,
+#extras-container,
+#timeline-results,
+#tm-results,
+#translator-comment {
+    margin: 7px 0 10px
+}
