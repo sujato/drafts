@@ -46,9 +46,9 @@ Mark | Definition | Note | Markup
 `#`123 | reference number  | If the manuscript has any reference numbers, indicate with #. | `.counter`
 `-` | new line | Indicate line break in manuscript. Don’t write the numbers, they will be calculated later. | `<br>`
 `@` | new page  | Indicate page break in manuscript. Don’t write the numbers, they will be calculated later. | CSS `page-break-after`
-`~`abc`~` | deleted text  | Text crossed out or otherwise marked for deletion ~deletion~ by a scribe.  | `.del`, `<del>`
+`~`abc`~` | deleted text  | Text crossed out or otherwise marked for deletion `~deletion~` by a scribe.  | `.del`, `<del>`
 `>`def`<` | inserted text | Text overwritten >or added to the main text< by a scribe. | `.add`, `<ins>`
-`~`abc`~>`def`<` | substitution  | Text ~croslsed~>crossed< out and replaced by a scribe. Arrow indicates direction. | `.del`, `<del>` + `.add`, `<ins>`
+`~`abc`~>`def`<` | substitution  | Text `~croslsed~>crossed<` out and replaced by a scribe. Arrow indicates direction. | `.del`, `<del>` + `.add`, `<ins>`
 `≈`abc`≈` | apparently incorrect text | Text identified by an editor as being ≈uncorrect≈, such as a misspelling. |  `.sic`
 `⪢`def`⪡` | corrected text | Corrected version made by an editor of text that appeared to be ⪢incorrect⪡ in the manuscript. |  `.corr`
 `≈`abc`≈⪢`def`⪡` | correction | Text that was apparently ≈uncorrect≈⪢incorrect⪡, but for which an editor offers a correction. |  `.sic`, `.corr`
