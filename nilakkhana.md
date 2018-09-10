@@ -1,14 +1,10 @@
-# Nilakkhana: SuttaCentral-flavored Markdown
+# Nilakkhana: SuttaCentral Markdown extension
 
 Markdown is eating the world. Great! I love using it. By focusing on a specific and limited set of features it avoids the bloat of complex markup languages.
 
 I propose that we develop our own extension of Markdown. This is a specialized implementation that will make use of only part of the Markdown spec, while requiring non-standard features. It will generally aim to be compatible with MD philosophy and specifics, but may assign special functions to things that differ from MD.
 
-We don’t need to work out Markdown solutions for everything, but can evolve it on a case by case basis. Currently the main scope is:
-
-1. The inline markup for segments.
-2. Possibly for static pages and UI.
-3. Manuscript transcription.
+We don’t need to work out Markdown solutions for everything, but can evolve it on a case by case basis. The main scope is to use for inline markup in segmented texts. Ultimately it should be replaced with standoff properties.
 
 Use the [CommonMark spec](https://commonmark.org/) as the starting point.
 
@@ -17,11 +13,11 @@ Use the [CommonMark spec](https://commonmark.org/) as the starting point.
 - **Emphasis**. Markdown treats `*asterisks*` and `_underscores_` as synonyms, both generating `<em>` tags. Let us distinguish them so that `*asterisks*` = `<em>` and `_underscores_` = `<i>`, used for foreign words.
 - **Numbered lists**. As per Markdown, use 1. … 2. … 3. … to mark the start of numbered list items. These occur inline with no line break in segments.
 
-In certain texts, mainly in the Anguttara Fours, I use lists within a segment. Markdown uses `\n\d.\s` or `\n\d)\s`. Since we do not have line breaks inside a segment, the logic is: If a segment starts with `1.\s`, then that and any following occurrences of `\d.\s` indicate the start of a numbered list item. Note that if each list item is a segment, standoff is used instead.
+In certain texts, mainly in the Anguttara Fours, I use lists within a segment. Markdown uses `\n\d.\s` or `\n\d)\s`. Since we do not have line breaks inside a segment, the logic is: If a segment starts with `1.\s`, then that and any following occurrences of `\d.\s` indicate the start of a numbered list item. Note that if each list item is a segment, standoff markup is used instead.
 
 ## Text-critical
 
-Traditionally, text-critical markup is often indicated with plain-text conventions. This may be seen on GRETIL, and we used it for bendall-cv. Given the range of text-critical markup, it will be a challenge to represent it all in markdown. I am thinking here specifically about what can be used by our typists for DPCV.
+Traditionally, text-critical markup is often indicated with plain-text conventions. This may be seen on GRETIL, and we used it for bendall-cv. Given the range of text-critical markup, it will be a challenge to represent it all. I am thinking here specifically about what can be used by our typists for DPCV.
 
 In the MD spirit, our conventions should aim to fulfill three requirements:
 
@@ -33,7 +29,7 @@ It's not easy to achieve all of these goals. To get around it we can relax the f
 
 I give more-or-less equivalents to HTML or CSS. Note, however, that these marks will *not* convert directly to HTML, but to standoff markup. Therefore there is no need to be concerned about the overlapping hierarchy problem, eg. what to do if unclear text crosses paragraphs. These issues are dealt with when converting standoff to HTML or another markup language.
 
-We shall treat text-critical MD as a separate set of conventions. Our transcribed texts do not have added punctuation, only the native punctuation (usually |) in the manuscript.
+We shall treat text-critical MD as a separate set of conventions. Our transcribed texts do not have added punctuation, only the native punctuation (usually `|`) in the manuscript.
 
 Note that the deleted/inserted/substitution and incorrect/corrected/correction triplets are essentially the same thing, except one is by the scribe and one by the editor. Thus they are indicated with similar glyphs, doubled in the case of the modern editor.
 
