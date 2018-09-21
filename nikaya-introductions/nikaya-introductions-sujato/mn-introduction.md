@@ -16,7 +16,7 @@ Within each _paṇṇāsa_ is a set of five _vaggas_. As usual, most of the _vag
 
 - **Opamma Vagga (Chapter With Similes):** All these discourses prominently feature similes.
 - **Mahāyamaka Vagga (Large Chapter With Pairs):** Paired “long” and “short” discourses. (The following Short Chapter With Pairs only has two sets of pairs.)
-- **Vaggas 6–10:** These collect discourses featuring certain kinds of people: householders, mendicants, wanderers, kings, and brahmins.
+- **Vaggas 6–10:** These collecpolyfill does not support modules needs to be moved out of element and into testst discourses featuring certain kinds of people: householders, mendicants, wanderers, kings, and brahmins.
 - **Vibhaṅga Vagga (Chapter on Analysis):** These discourses consist of a lengthy “analysis” of a short saying.
 - **Saḷāyatana Vagga (Chapter on the Six Senses):** These focus on the six senses.
 

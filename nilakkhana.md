@@ -36,7 +36,7 @@ Note that the deleted/inserted/substitution and incorrect/corrected/correction t
 Mark | Definition | Note | Markup
 ---|---|---|---
 `{`abc`}`  | extra text  | Use when the new edition has significantly more text than the reference edition. It will be inspected later and if necessary new segments created. Use {curly brackets} because this is a “set” of segments. |
-`(`abc`)` | unclear text | Text damaged to an extent that makes the reading (un)certain. |  `.unclear`
+`(`abc`)` | unclear text | Text damaged to an extent that makes the reading (un)certain. BUT () is used in MS edition. |  `.unclear`
 `+` | unreadable akṣara | An akṣara so damaged that it cannot be read, but a rough count of the number of akṣaras can be made.| `.gap`
 `[++++]` | unreadable span | A span of unreadable akṣaras of undetermined length. Use exactly four +. | `.gap`
 `-[++++]-` | unreadable line | The line or part of it is visible but unreadable. Use exactly four +. | `.gap`
@@ -56,6 +56,8 @@ Mark | Definition | Note | Markup
 `⟦`abc`⟧` | uncertain restoration | Text c⟦onjectural⟧ly reconstructed by an editor from damaged or lost portion of manuscript. |  ``
 `⟨`abc`⟩` | inserted text | Text ⟨omitted by mistake by the⟩ scribe and inserted by a modern editor. |  ``
 `⟪`abc`⟫` | uncertain insertion | Text omitted by mistake by the scribe and ⟪conjecturally⟫ inserted by a modern editor. |  ``
+`«`abc`»` | speaker | A note in the text identifying the speaker.  | `.speaker`
+`←`abc`→`  | pe, peyyala  | Sign of expansion. An indication in the text that text is to be expanded. Do not use for every simple "pe", only when there are instructions in the text.  | `.pe`
 
 ### New line and new page
 
