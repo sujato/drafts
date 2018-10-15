@@ -29,14 +29,6 @@ By comparison, the Vinaya Piṭaka details the life of the monastic communities,
 
 ## About These Introductions
 
-I have long admired the careful and detailed introductions crafted by Bhikkhu Bodhi for his _nikāya_ translations. I wanted to offer something of a similar scope for readers of SuttaCentral. Since Bhikkhu Bodhi’s introductions have been released under a Creative Common license, I contemplated simply hosting them here. However there were a number of problems with this idea.
-
-Most obviously, he has not translated the Dīgha Nikāya, so there is no introduction. And, while both T.W. Rhys Davids and Maurice Walshe provided long introductions to their translations of the Dīgha, they dealt with issues of a more general nature and do not really introduce the Dīgha as a collection.
-
-A second problem was that Bhikkhu Bodhi’s introductions deal extensively with matters that pertain specifically to his translations, such as renderings for technical terms, which are not always relevant for my translations. Moreover, his introductions were written nearly a decade apart, so they are quite independent, while I wanted something to reflect the integrated nature of my translations.
-
-Finally, in some matters he approached problems in a different way than I, especially in the use of the commentaries. While we both want to focus on the meaning of the Pali suttas as they are, he tends to bring in commentarial explanations, sometimes even when the suttas are clear and he admits the commentaries complicate things. I prefer to leave the commentaries aside unless really necessary. If context is needed, I will look first of all to the traditions that precede the Buddha, rather than those that came after. I am more interested in how the Buddha responded to his situation than in how the later generations of Buddhists responded to theirs.
-
 I have prepared these introductions in order to ease a student into an understanding of the _nikāyas_. This general introduction is meant to be read first, as it covers a variety of issues that are common to all the _nikāyas_. The four _nikāyas_ are a highly unified body of texts, sharing most of the significant doctrinal passages. The general information presented here is fleshed out in individual essays on each of the four _nikāyas_, which highlight the shifts in emphasis and orientation from one collection to the next. These may be read in any order.
 
 Summaries of major doctrinal themes may be found mostly in the introduction to the Saṁyutta Nikāya, rather than here. But I would urge a degree of caution when it comes to summaries. There have been plenty of attempts at summarizing the doctrines of the early texts that are quite fine as far as summaries go. But the true joy of the suttas is in the undigested teachings, in that raw moment when the Buddha encounters a person in suffering and helps them, not by giving them a digested abstract, but by reaching out to them as people. I feel that it’s better to let a general understanding of the teachings emerge from such moments.
@@ -73,9 +65,9 @@ More granular referencing is provided by section numbers. These follow pre-exist
 
 Each of these is further subdivided so that each section contains a number of “segments”, a short piece of text usually about a sentence or so long. In my translations, the segments are matched with the underlying Pali text.
 
-You may encounter various other referencing systems. In modern academic works, texts are often referenced by volume and page of the Pali Text Society (PTS) edition of the original Pali. This is a regrettable and unscientific convention, and I hope it is swiftly abandoned in favor of proper semantic references. The legacy PTS numbers are displayed on SC in the sutta cards.
+You may encounter various other referencing systems. In academic works, texts are often referenced by volume and page of the Pali Text Society (PTS) edition of the original Pali. This is a regrettable and clumsy convention, since it binds references to a specific paper edition. I hope it is swiftly abandoned in favor of proper semantic references. However, the PTS volume/page numbers are displayed on SuttaCentral in case you need to look up a legacy reference.
 
-Traditionally, the texts were—and indeed still are—referenced the long way: by _nikāya_, then _saṁyutta_ or _nipāta_ and/or _paṇṇasaka_ (as applicable), then _vagga_ and _sutta_. This system is helpful when using manuscripts, as you can narrow your search step by step through the manuscript to find what you need. On the web, or even in books, however, it is unnecessary. Nevertheless, you can use the traditional navigation structure in our sidebar if you wish.
+Traditionally, the texts were—and often still are—referenced the long way: by _nikāya_, then _saṁyutta_ or _nipāta_ and/or _paṇṇasaka_ (as applicable), then _vagga_ and _sutta_. This system is helpful when using manuscripts, as you can narrow your search step by step through the manuscript to find what you need. On the web, or even in books, however, it is unnecessary. Nevertheless, you can use the traditional navigation structure in our sidebar if you wish.
 
 ## Elements of Structure
 
@@ -83,7 +75,7 @@ As students of Buddhist texts we are interested in the content, in learning what
 
 Early Buddhist texts were organized, not for reading, but for oral recitation and memorization. The overriding concern was to divide the texts into chunks that could be memorized and recited together. Since the texts were preserved in memory, they were largely “random access”: a skilled student could instantly recall a passage from anywhere in the texts, without having to flip through the pages or look up an index. In this way, the earliest system of organization is a little similar to how we find information today through a search engine.
 
-It follows from this that we cannot expect early Buddhist texts to be structured sequentially like a modern book. But the collections are not random or chaotic. They follow their own logic, which can be readily understand.
+It follows from this that we cannot expect early Buddhist texts to be structured sequentially like a modern book. But the collections are not random or chaotic. They follow their own logic, and if we approach it sympathetically we can discern what that might be.
 
 Here are some of the structural or formal elements you will encounter in the early Buddhist texts.
 
@@ -117,7 +109,7 @@ The flipside of repetition is abbreviation. Since the repetitions are so abundan
 
 Generally speaking, the abbreviations in the Pali editions, and the occasional instructions on how to spell out the full text, are sensible and fairly consistent between editions. Modern translations follow the manuscript tradition, but not slavishly. Sometimes the translation will spell out abbreviated passages, or else abbreviate passages spelled out in the original.
 
-Abbreviations are both “internal”—for example, where the only the first and last items in a list are spelled out, and the rest are just mentioned in brief—and “external”, where an abbreviated passage requires looking up another text to fill in the blanks. This is another example of how the oral tradition differs from written texts. A reciter would obviously know, say, the formula for the four noble truths, so there is no need to write it every time; just enough to jog the memory. But in modern editions, especially on the web, a reader can access a specific text from anywhere, and may never have encountered the abbreviated passage before. So we try to present our translations so as to reduce the amount of external abbreviations, so far as is practicable.
+Abbreviations are both “internal”—for example, where the only the first and last items in a list are spelled out, and the rest are just mentioned in brief—and “external”, where an abbreviated passage requires looking up another text to fill in the blanks. This is another example of how the oral tradition differs from written texts. A reciter would obviously know, say, the formula for the four noble truths, so there is no need to write it every time; just enough to jog the memory. But in modern editions, especially on the web, a reader can access a specific text from anywhere, and may never have encountered the abbreviated passage before. For this reason I tried to reduce the number of external abbreviations in my translations.
 
 ### Titles
 
@@ -163,7 +155,7 @@ The fifth Pali _nikāya_, the Khuddaka Nikāya, is more flexible and varies more
 
 Each discourse begins with a brief statement saying that at “one time” the Buddha was staying at a particular place. In this way the redactors of the texts were concerned to locate the Buddha and his teachings in a specific historical and cultural context. Modern scholars have been able to reconstruct a fairly detailed picture of the Buddha’s life and times, relying on the early Buddhist texts, as well as what information may be gleaned from Brahmanical and Jaina scriptures.
 
-<small>Archeology is, unfortunately, of limited use, as there are few archeological remnants from the Buddha’s day. In fact, before the time of Ashoka—perhaps 150 years after the Buddha—there are very few remains at all of ancient India, until the time of the Indic Valley civilization, many centuries earlier. For the period we are interested in, we have found only some pottery and a few other implements, but no large scale buildings or other more substantive remnants. This is for two main reasons. The first is that buildings at the time were mostly of wood or other perishable materials. And the second is that archeological work in India has been very spotty and incomplete.</small>
+<small>Archeology is, unfortunately, of limited use, as there are few archeological remnants from the Buddha’s day. In fact, before the time of Ashoka—perhaps 150 years after the Buddha—there are very few remains at all of ancient India, until the time of the Indic Valley civilization, many centuries earlier. For the period we are interested in, only some pottery and a few other implements have been found, but no large scale buildings or other more substantive remnants. This is for two main reasons. The first is that buildings at the time were mostly of wood or other perishable materials. And the second is that archeological work in India has been very spotty and incomplete.</small>
 
 The Buddha lived in the 5th century BCE in the Ganges valley in northern India. He was born in Lumbini and grew up in Kapilavatthu, both of which belong to the Sakyan republic, straddling the modern border of India and Nepal.
 
@@ -175,7 +167,7 @@ It was not just the Buddha who was restricted to this region. It seems that trad
 
 Though cities and urban life feature prominently in the texts, they are still on a small scale compared to what came later.  The economy was largely rural, with farming playing a prominent role. However there are lists of occupations in the Pali canon that show a diverse range of employment—accountants, jewelers, builders, soldiers, doctors, government officials, and many more.
 
-The rise in diversity of employment was linked to the growth of cities, which in turn is associated with the appearance of new technologies. The archeological record, though thin, has furnished us with records of two significant innovations: a kind of fine pottery known as Northern Black Polished Ware (NBPW), and forges for iron. These new developments attest to a growing mastery in the industrial use of fire, something that the suttas mention in several memorable similes.
+The rise in diversity of employment was linked to the growth of cities, which in turn is associated with the appearance of new technologies. The archeological record, though thin, has furnished us with records of two significant innovations: forges for iron, and a kind of fine pottery known as Northern Black Polished Ware. These new developments attest to a growing mastery in the industrial use of fire, something that the suttas mention in several memorable similes.
 
 Technological innovation drove economic growth. We frequently hear of wealthy individuals, employing large staffs and managing properties or businesses. There was enough economic surplus to support a large class of spiritual seekers. Such ascetics made no material contributions to society; their value lay in spiritual and ethical development.
 
@@ -185,11 +177,11 @@ Of even greater significance, towards the end of his life, Magadha was announcin
 
 ## Social Life
 
-The growing complexity of economic and political life required corresponding changes in social roles and responsibilities. Like any society in a time of change, people in the time of the Buddha were trying to balance their traditional values and structures with the new realities. It seems that people were for the most part reasonably well off, and we don’t hear about extreme endemic poverty and famine. Nevertheless, these things did occur, along with injustice, banditry, and economic uncertainty. We hear frequent laments about how unpredictable wealth is, whether the older forms of wealth in cattle and land, or the newer forms in money and career.
+The growing complexity of economic and political life required corresponding changes in social roles and responsibilities. Like any society in a time of change, people in the time of the Buddha were trying to balance their traditional values and structures with the new realities. It seems that people were for the most part reasonably well off. Still, poverty and famine, along with injustice, banditry, and economic uncertainty, were present and posed a very real threat. We hear frequent laments about how unpredictable wealth is, whether the older forms of wealth in cattle and land, or the newer forms in money and career.
 
 The Buddha was not a social revolutionary and did not overtly agitate for an overthrow of social systems, even those he recognized as unjust. Typically he would argue for a more just and fair implementation of existing norms. For example, rather than saying all societies should be democratic, he spoke of the moral duty of a king to look after his people.
 
-A man was supposed to earn funds so as to take care of his family and protect them. The money he earned was to be used to provide for his family, treating workers with kindness and decency, and not neglecting to assign some funds for savings, and some for donations to charity.
+A man was expected to earn a living so as to maintain and protect his family. He should use his earnings to provide his family with both essentials and luxuries, and to treat workers with kindness and decency, while not neglecting to assign some funds for savings, and some for donations to charity.
 
 A woman’s traditional role was to marry and bear children. Aside from this, her options were limited. We rarely hear of professional women aside from sex workers. In this context, the opportunity to become a nun allowed women to pursue their own spiritual and intellectual development, to act as leaders and teachers, and to be respected and supported in that role.
 
@@ -244,7 +236,7 @@ The caste who called themselves “brahmins” inherited an ancient body of sacr
 
 The Ṛg Veda grew out of the cultural and religious milieu of the ancient Indo-European peoples. It shares much in common with the Avestan texts of Iranian Zoroastranism, and more distantly, the mythologies of Europe. It seems that the Indo-European people moved into India around a millennium before the Buddha, with distinct clans maintaining sets of sacred lore. In the early centuries of the first millennium BCE, in the area know as the Kuru country (modern Delhi), the clans were unified into the classical brahmanical kingdom whose story is echoed in the Mahābharata. The Ṛg Veda was forged from the books of the clans, wrapped in opening and closing chapters emphasizing unity. By the time of the Buddha, the brahmanical culture and language had already become strongly established in the regions further south and east where the Buddha lived.
 
-The brahmins insisted on the holiness of their caste, the efficacy of their rituals, the truth of their scriptures, and the omnipotence of their deities. The Buddha rejected all these claims out of hand.
+The brahmins insisted on the holiness of their caste, the efficacy of their rituals, the truth of their scriptures, and the omnipotence of their deity. The Buddha rejected all these claims out of hand.
 
 However, Brahmanical traditions were far from a unified monolith. We see a strong strand of questioning of tradition, of seeking out new ways, of earnest seeking of the truth; and such attitudes are just as strong in the Brahmanical texts as the Buddhist.
 
@@ -256,7 +248,7 @@ In the generations preceding the Buddha, brahmanical philosophy had reached a pe
 
 Quite distinct from the brahmins, and often in opposition to them, was a complex set of religious movements known as the _samaṇas_ or “ascetics”. Six prominent ascetic schools were acknowledged in the time of the Buddha. The Buddha counted himself as an ascetic, too, in view of the many similarities between his own teachings and theirs.
 
-Like the Buddhists, the other _samaṇas_ were typically celibate renunciates, living either in solitude or in monastic communities, and relying on alms for food.  The most famous—and the only one to survive until today—was Jainism, which flourished under their leader Mahāvīra, known as Nigaṇṭha Nātaputta in the Buddhist texts.
+Like the Buddhist mendicants, the other _samaṇas_ were typically celibate renunciates, living either in solitude or in monastic communities, and relying on alms for food.  The most famous—and the only one to survive until today—was Jainism, which flourished under their leader Mahāvīra, known as Nigaṇṭha Nātaputta in the Buddhist texts.
 
 The ascetics shared an iconoclastic attitude, and all rejected the brahmanical system _in toto_. However they varied amongst each other, as shown in their teachings attested at DN 2 <cite>Sāmaññaphala</cite> as well as MN 60 and MN 76. Some emphasized austerities and self-mortification, others rationality and debate. Some advocated ardent effort, others a resigned fatalism. Some taught rebirth, while others asserted that this material world was the only reality.
 
