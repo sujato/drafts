@@ -4,11 +4,17 @@ The four main _nikāyas_ of the Pali Canon (Tipiṭaka) are essential reading fo
 
 Tese texts were originally passed down orally, by generations who memorized them and recited them together. Around 50 BCE they were written down, and subsequently were transmitted in manuscripts of palm leaves (in the south) or birch bark (in the north).
 
-![The Dutiya-Parakkamabāhu Cullavagga held at the National Museum in Colombo. Dated to the 13th century, it is the oldest complete Pali manuscript in the world.](dpcv-nyanatusita-2004-001.jpg "13th Century Vinaya manuscript from Sri Lanka")
+<figure>
+  <img src="dpcv-nyanatusita-2004-001.jpg" alt="The Dutiya-Parakkamabāhu Cullavagga held at the National Museum in Colombo. Dated to the 13th century, it is the oldest complete Pali manuscript in the world." title="13th Century Vinaya manuscript from Sri Lanka">
+  <figcaption>The Dutiya-Parakkamabāhu Cullavagga held at the National Museum in Colombo. Dated to the 13th century, it is the oldest complete Pali manuscript in the world.</figcaption>
+</figure>
 
 From the 19th century, the manuscripts were edited and published as modern editions in sets of books. In addition, the Pali text was translated into a number of local languages.
 
-![Thai royal Tipitaka, containing the text and commentaries in Thai translation. Creative Commons Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5). Image from Wikipedia, https://commons.wikimedia.org/wiki/File:Tipitaka1.jpg](thai-tipitaka.jpg "Thai edition of the Pali Canon")
+<figure>
+  <img src="thai-tipitaka.jpg" alt="Thai royal Tipitaka, containing the text and commentaries in Thai translation. Creative Commons Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5). Image from Wikipedia, https://commons.wikimedia.org/wiki/File:Tipitaka1.jpg" title="Thai edition of the Pali Canon">
+  <figcaption>Thai royal Tipitaka, containing the text and commentaries in Thai translation. Creative Commons Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5). Image from Wikipedia, https://commons.wikimedia.org/wiki/File:Tipitaka1.jpg</figcaption>
+</figure>
 
 The word Tipiṭaka means “Three Baskets”. The four _nikāyas_ make up the bulk of the Basket of Discourses, which is traditionally listed as the second of the three. Here is how they are situated within the canon as a whole.
 
@@ -23,11 +29,17 @@ The word Tipiṭaka means “Three Baskets”. The four _nikāyas_ make up the b
 
 Similar collections are found in ancient Chinese translations, and substantial portions of them are also in Sanskrit and Tibetan. The diverse collections of scriptures arose among the Buddhist communities who spread across greater India in the centuries following the Buddha, especially under the Buddhist emperor, Ashoka. These missions are documented in the ancient chronicles of Sri Lanka as well as the Vinaya commentaries in Pali and Chinese, and have been partially corroborated by modern archaeology.
 
-![Map of India showing the extent of King Ashoka’s realm and the Buddhist missions sent out in his time. Creative Commons Attribution-ShareAlike 3.0 Unported License. Image from Ānandajoti Bhikkhu’s Ancient Buddhist texts.  https://www.ancient-buddhist-texts.net/Maps/During-Asokas-Time/Map-14-Buddha-to-Asoka.htm](Map-14-6-Missions.jpg "Ashokan missions")
+<figure>
+  <img src="Map-14-6-Missions.jpg" alt="Map of India showing the extent of King Ashoka’s realm and the Buddhist missions sent out in his time. Creative Commons Attribution-ShareAlike 3.0 Unported License. Image from Ānandajoti Bhikkhu’s Ancient Buddhist texts.  https://www.ancient-buddhist-texts.net/Maps/During-Asokas-Time/Map-14-Buddha-to-Asoka.htm" title="Ashokan missions">
+  <figcaption>Map of India showing the extent of King Ashoka’s realm and the Buddhist missions sent out in his time. Creative Commons Attribution-ShareAlike 3.0 Unported License. Image from Ānandajoti Bhikkhu’s Ancient Buddhist texts.  https://www.ancient-buddhist-texts.net/Maps/During-Asokas-Time/Map-14-Buddha-to-Asoka.htm</figcaption>
+</figure>
 
  SuttaCentral hosts almost all of these texts and provides comprehensive parallels showing the relations between them. A comparative understanding of all these texts is essential for any study of early Buddhism. The Chinese Buddhist canon, in particular, contains a vast amount of translations of early texts, and in terms of quantity it outweighs the Pali texts by some margin.
 
-![Tripitaka Koreana stored at Haeinsa (해인사, Temple of Reflection on a Smooth Sea) is one of the foremost Chogye Buddhist temples in South Korea. It is most notable for being the home of the Tripitaka Koreana, the whole of the Buddhist Scriptures carved onto 81,258 wooden printing blocks, which it has housed since 1398. This is the basis of most modern editions of the Chinese texts. Author Lauren Heckler, image from Wikipedia, https://commons.wikimedia.org/wiki/File:Korea-Haeinsa-Tripitaka_Koreana-01.jpg](Korea-Haeinsa-Tripitaka_Koreana-01.jpg "Tripitaka Koreana at Haeinsa")
+<figure>
+  <img src="Korea-Haeinsa-Tripitaka_Koreana-01.jpg" alt="Tripitaka Koreana stored at Haeinsa (해인사, Temple of Reflection on a Smooth Sea) is one of the foremost Chogye Buddhist temples in South Korea. It is most notable for being the home of the Tripitaka Koreana, the whole of the Buddhist Scriptures carved onto 81,258 wooden printing blocks, which it has housed since 1398. This is the basis of most modern editions of the Chinese texts. Author Lauren Heckler, image from Wikipedia, https://commons.wikimedia.org/wiki/File:Korea-Haeinsa-Tripitaka_Koreana-01.jpg" title="Tripitaka Koreana at Haeinsa">
+  <figcaption>Tripitaka Koreana stored at Haeinsa (해인사, Temple of Reflection on a Smooth Sea) is one of the foremost Chogye Buddhist temples in South Korea. It is most notable for being the home of the Tripitaka Koreana, the whole of the Buddhist Scriptures carved onto 81,258 wooden printing blocks, which it has housed since 1398. This is the basis of most modern editions of the Chinese texts. Author Lauren Heckler, image from Wikipedia, https://commons.wikimedia.org/wiki/File:Korea-Haeinsa-Tripitaka_Koreana-01.jpg</figcaption>
+</figure>
 
 For many reasons, though, the Pali texts will always retain a special place for those who wish to understand what the Buddha taught.
 
@@ -38,7 +50,10 @@ For many reasons, though, the Pali texts will always retain a special place for 
 
 Moreover, the Pali texts are the core scriptures of a living tradition, the Theravāda school found in Sri Lanka, Thailand, Myanmar, Bangladesh, Cambodia, Laos, India, China, and Vietnam. To this day they are recited, taught, studied, and practiced daily, and are regarded in the traditions as being a reliable witness to the teachings of the Buddha himself.
 
-![Theravadin monks studying](monks-studying.jpg "Theravadin monks studying")
+<figure>
+  <img src="monks-studying.jpg" alt="Theravadin monks studying" title="Theravadin monks studying">
+  <figcaption>Theravadin monks studying</figcaption>
+</figure>
 
 Among the Pali texts, it is the four _nikāyas_ that command the most attention. It is here that we find extensive and definitive explanations of Buddhist teachings, as well as the living personality of the Buddha and his immediate disciples.
 
@@ -101,7 +116,10 @@ As students of Buddhist texts we are interested in the content, in learning what
 
 Early Buddhist texts were organized, not for reading, but for oral recitation and memorization. The overriding concern was to divide the texts into chunks that could be memorized and recited together. Since the texts were preserved in memory, they were largely “random access”: a skilled student could instantly recall a passage from anywhere in the texts, without having to flip through the pages or look up an index. In this way, the earliest system of organization is a little similar to how we find information today through a search engine.
 
-![Monks chanting in Siem Reap](chanting-monks.jpg)
+<figure>
+  <img src="chanting-monks.jpg" alt="Monks chanting in Siem Reap" title="Monks chanting in Siem Reap">
+  <figcaption>Monks chanting in Siem Reap</figcaption>
+</figure>
 
 It follows from this that we cannot expect early Buddhist texts to be structured sequentially like a modern book. But the collections are not random or chaotic. They follow their own logic, and if we approach it sympathetically we can discern what that might be.
 
@@ -125,7 +143,10 @@ It won’t take long before you notice that the suttas tend to be repetitious. *
 
 Like so many patterns found in nature, the repetitions are *fractal*. That is, they occur at every level: the word, the phrase, the sentence, the paragraph, the passage, the whole text, even the group of texts. This shows that the repetition is not something alien to these texts, not something forced on them by an over-zealous editor, but is intrinsic from the beginning.
 
-![Bodhi leaf skeleton showing fractal patterns](bodhi_leaf.jpg)
+<figure>
+  <img src="bodhi_leaf.jpg" alt="Bodhi leaf skeleton showing fractal patterns" title="Bodhi leaf skeleton showing fractal patterns">
+  <figcaption>Bodhi leaf skeleton showing fractal patterns</figcaption>
+</figure>
 
 But why? The thing to remember is that the texts were formed in an oral tradition. And in an oral tradition, repetition works very differently than it does in writing. When you *read* a repetition, it can be annoying; it feels like a waste of time, and you want to skip over it. But when *reciting*, repetition has exactly the opposite effect. It is soothing and relaxing. The parts that are different take more work, you have to exercise your memory; but when the repeated passage comes around—like the chorus of a song—you relax into the flow of the chanting. Repetitions give the reciter space to be at ease and contemplate. Reciting a highly repetitive text becomes a form of meditation, where you reflect the meaning and apply it to your experience as you recite.
 
@@ -189,11 +210,17 @@ Each discourse begins with a brief statement saying that at “one time” the B
 
 The Buddha lived in the 5th century BCE in the Ganges valley in northern India. He was born in Lumbini and grew up in Kapilavatthu, both of which belong to the Sakyan republic, straddling the modern border of India and Nepal.
 
-![Mayadevi Temple from the south, Lumbini, Nepal. Image from Wikipedia: https://commons.wikimedia.org/wiki/File:Lumbini_-_Mayadevi_Temple_from_South,_Lumbini_(9244243566).jpg](Lumbini_-_Mayadevi_Temple_from_South,_Lumbini.jpg)
+<figure>
+  <img src="Lumbini_-_Mayadevi_Temple_from_South,_Lumbini.jpg" alt="Mayadevi Temple from the south, Lumbini, Nepal. Image from Wikipedia: https://commons.wikimedia.org/wiki/File:Lumbini_-_Mayadevi_Temple_from_South,_Lumbini_(9244243566).jpg" title="Mayadevi Temple from the south, Lumbini, Nepal. Image from Wikipedia: https://commons.wikimedia.org/wiki/File:Lumbini_-_Mayadevi_Temple_from_South,_Lumbini_(9244243566).jpg">
+  <figcaption>Mayadevi Temple from the south, Lumbini, Nepal. Image from Wikipedia: https://commons.wikimedia.org/wiki/File:Lumbini_-_Mayadevi_Temple_from_South,_Lumbini_(9244243566).jpg</figcaption>
+</figure>
 
 After his Awakening, the Buddha traveled among the region, in the area known as the “sixteen nations” (_janapada_). This spanned from modern Delhi to the north-west, the Bangladesh border to the east, the Himalayan foothills to the north, the Deccan to the south, and Ujjain to the south-west. Most of his time was spent in the cities of Sāvatthī in the kingdom of Kosala and Rājagaha in the kingdom of Magadha. Despite the proliferation of local legends in most Buddhist countries, the Buddha never ventured outside this area.
 
-![The sixteen janapadas](janapada.jpg)
+<figure>
+  <img src="janapada.jpg" alt="The sixteen janapadas" title="The sixteen janapadas">
+  <figcaption>The sixteen janapadas</figcaption>
+</figure>
 
 It was not just the Buddha who was restricted to this region. It seems that trade and other close cultural contacts normally took place within this region, too. Occasional references to places further afield—southern India or the Greeks—were vague and often legendary. It was in the century after the Buddha passed away that the kingdoms of northern India were unified and regular international trade routes were opened, first to Europe, and, a couple of centuries later, to south-east Asia and China.
 
@@ -201,13 +228,19 @@ It was not just the Buddha who was restricted to this region. It seems that trad
 
 Though cities and urban life feature prominently in the texts, they are still on a small scale. The economy was largely rural, with farming playing a prominent role.
 
-![Rice farming in modern India](rice.jpg)
+<figure>
+  <img src="rice.jpg" alt="Rice farming in modern India" title="Rice farming in modern India">
+  <figcaption>Rice farming in modern India</figcaption>
+</figure>
 
 However there are lists of occupations in the Pali canon that show a diverse range of employment—accountants, jewelers, builders, soldiers, doctors, government officials, and many more.
 
 The rise in diversity of employment was linked to the growth of cities, which in turn is associated with the appearance of new technologies. The archeological record, though thin, has furnished us with records of two significant innovations: forges for iron, and a kind of fine pottery known as Northern Black Polished Ware. These new developments attest to a growing mastery in the industrial use of fire, something that the suttas mention in several memorable similes.
 
-![Black and red ware](nbpw_redware.jpg)
+<figure>
+  <img src="nbpw_redware.jpg" alt="Black and red ware" title="Black and red ware">
+  <figcaption>Black and red ware</figcaption>
+</figure>
 
 Technological innovation drove economic growth. We frequently hear of wealthy individuals, employing large staffs and managing properties or businesses. There was enough economic surplus to support a large class of spiritual seekers. Such ascetics made no material contributions to society; their value lay in spiritual and ethical development.
 
@@ -242,7 +275,10 @@ Change in the Buddha’s day was not limited to the worldly sphere. The religiou
 
 In the time of the Buddha, and indeed even to this day, the ancient pre-Buddhist Vedas formed the basis for the spiritual life of the brahmins and those who followed them. Rituals such as the _agnihotra_, the daily pouring of ghee onto the fire as an offering to the fire-god Agni—originated long before the Aryan people even came to India, and continue to be performed today.
 
-![Agnihotra in Maharasthra.](agnihotra.jpg)
+<figure>
+  <img src="agnihotra.jpg" alt="Agnihotra in Maharasthra." title="Agnihotra in Maharasthra.">
+  <figcaption>Agnihotra in Maharasthra.</figcaption>
+</figure>
 
 Nevertheless, many of the old gods featured in the Vedas had vanished by the time of the Buddha, and many of the famed deities of later Hinduism had not yet appeared. Those who do appear take on a markedly different aspect; prominent gods such as Vishnu (Pali: _Veṇhu_) or Shiva (Pali: _Siva_) appear in minor roles, and a warrior like Sakka (AKA Indra) appears as an apostle of peace. There were no temples, no images, and no cult of devotion (_bhakti_). There is no mention of a system of _avatars_.
 
@@ -270,13 +306,19 @@ Amid the complex sets of religious practices, we may discern three major domains
 
 In the villages and towns of ancient India, the most widespread folk religion was a belief in the omnipresent reality of spirits in nature. Such deities might embody aspects of the weather, or live in plants or rivers or caves; they might promote abundance, or take ferocious and threatening forms. They were unreliable, but could be wooed through simple offerings of rice, flowers, or ghee.
 
-![Yaksa](Agnipani_Yaksha_-_Circa_2nd_Century_BCE_-_Bharna_Kalan_-_ACCN_87-147_-_Government_Museum_-_Mathura_2013-02-24_6165.JPG)
+<figure>
+  <img src="Agnipani_Yaksha_-_Circa_2nd_Century_BCE_-_Bharna_Kalan_-_ACCN_87-147_-_Government_Museum_-_Mathura_2013-02-24_6165.jpg" alt="Yaksa" title="Yaksa">
+  <figcaption>Yaksa</figcaption>
+</figure>
 
 Animist beliefs were derived from local legends and rituals, not from religious philosophy. However, the higher religious paths such as Buddhism or Jainism, rather than repressing such beliefs, were happy to assign them a minor role in the scheme of things, so long as they eliminated harmful practices like human or animal sacrifice.
 
 Throughout the Buddhist texts, we hear of _yakkhas_ (spirits), _nāgas_ (dragons), _gandhabbas_ (fairies), and many more. The Buddhist attitude towards such beings might best be described as “good neighborliness”. Neither they, nor any higher beings, are worshiped or looked to for salvation. Rather, they are treated with respect and dignity, for who knows? If they are real, it would be good to have them on your side.
 
-![Yaksa](Vyala_Yaksha_-_Circa_1st_Century_BCE_-_ACCN_42-2944_-_Government_Museum_-_Mathura_2013-02-24_6175.JPG)
+<figure>
+  <img src="Vyala_Yaksha_-_Circa_1st_Century_BCE_-_ACCN_42-2944_-_Government_Museum_-_Mathura_2013-02-24_6175.jpg" alt="Yaksa" title="Yaksa">
+  <figcaption>Yaksa</figcaption>
+</figure>
 
 ### Brahmanism
 
@@ -290,7 +332,10 @@ However, Brahmanical traditions were far from a unified monolith. We see a stron
 
 Brahmins were typically family men, living a settled life, and expecting a degree of social respect and standing due to their learning and caste—a respect that they did not always deserve. But some brahmins had adopted an ascetic lifestyle, apparently influenced by the _samaṇas_.
 
-![Brahmin priest](Brahmin_priest.jpg)
+<figure>
+  <img src="Brahmin_priest.jpg" alt="Brahmin priest" title="Brahmin priest">
+  <figcaption>Brahmin priest</figcaption>
+</figure>
 
 In the generations preceding the Buddha, brahmanical philosophy had reached a peak in the Upaniṣads, with their sophisticated debates and mystic philosophy of the essential unity of self and cosmos. Some early Upaniṣads are apparently referred to in DN 13 <cite>Tevijjā</cite>, and the Upaniṣadic doctrine of “self” (_ātman_) was prominently rejected by the Buddha in his most distinctive teaching: not-self (_anattā_).
 
@@ -302,7 +347,10 @@ Like the Buddhist mendicants, the other _samaṇas_ were typically celibate renu
 
 The ascetics shared an iconoclastic attitude, and all rejected the brahmanical system _in toto_. However they varied amongst each other, as shown in their teachings attested at DN 2 <cite>Sāmaññaphala</cite> as well as MN 60 and MN 76. Some emphasized austerities and self-mortification, others rationality and debate. Some advocated ardent effort, others a resigned fatalism. Some taught rebirth, while others asserted that this material world was the only reality.
 
-![Jain monks](Sthanakvasi_monks.jpg)
+<figure>
+  <img src="Sthanakvasi_monks.jpg" alt="Jain monks" title="Jain monks">
+  <figcaption>Jain monks</figcaption>
+</figure>
 
 While their doctrines may appear florid and obscure, and their practices sometimes bizarre and pointless, the ascetic movements are a lasting testament to the diversity, vigor, and innovation of religious life in ancient India.
 
@@ -391,6 +439,6 @@ One innovation that was not pursued consistently was the introduction of chapter
 
 The PTS editions were ground-breaking and have exerted an unparalleled influence on modern Buddhism, both east and west. Asian scholars have been well aware of them, with the consequence that it is probably hard to find any printed edition from the 20th century that is completely free of their influence. Nevertheless, the quality of the PTS texts is not particularly reliable. They were put together over a considerable period of time, with scant resources and few workers. The editors used whatever manuscripts they had to hand, and, apart from a general preference for Sri Lankan readings, it is hard to discern a consistent or clear methodology in their choices of readings. The limitations of these editions are well known among experts in the field, and in some cases updated and improved editions have been published.
 
-For my translation of the _nikāyas_, I preferred to use the the Mahāsaṅgīti edition. This is essentially a digital representation of the Burmese textual tradition of the 6th Council, itself based on the 19th century 5th Council text. It is based on the digital edition prepared by the Vipassana Research Institute, with extensive proofreading and corrections by the Dhamma Society of Bangkok. The Mahāsaṅgīti is, so far as I know, the most consistent and carefully edited digital text, and for that reason was chosen as the root Pali text for SuttaCentral. But it should not be assumed that it is the most authentic. On the contrary, it preserves the Burmese readings, which tend to correct the text in conformity with the Pali grammars. Nevertheless, in almost all such cases there is no difference in the meaning, just minor differences in spelling.
+For my translation of the _nikāyas_, I preferred to use the the Mahāsaṅgīti edition. This is essentially a digital representation of the Burmese textual tradition of the 6th Council, itself based on the 19th century 5th Council text. It is based on the digital edition prepared by the Vipassana Research Institute, with extensive proofreading and corrections by the Dhamma Society of Bangkok. The Mahāsaṅgīti is a consistent and carefully edited digital text, and for that reason was chosen as the root Pali text for SuttaCentral. But it should not be assumed that it is the most authentic. On the contrary, it preserves the Burmese readings, which tend to correct the text in conformity with the Pali grammars. Nevertheless, in almost all such cases there is no difference in the meaning, just minor differences in spelling.
 
 Like most translators, when editions vary I did not adhere to one edition, but simply selected what seems to be the best reading in each case. I referred to the PTS and, more rarely, the Buddha Jayanthi and other editions of the Pali. I also consulted previous translations, and, where relevant, Sanskrit and Chinese parallels. However in every case the overriding intention was to accurately represent the Pali text. Only in a very few exceptional cases did I rely on the Sanskrit or Chinese parallels to correct the Pali.
