@@ -307,8 +307,8 @@ Amid the complex sets of religious practices, we may discern three major domains
 In the villages and towns of ancient India, the most widespread folk religion was a belief in the omnipresent reality of spirits in nature. Such deities might embody aspects of the weather, or live in plants or rivers or caves; they might promote abundance, or take ferocious and threatening forms. They were unreliable, but could be wooed through simple offerings of rice, flowers, or ghee.
 
 <figure>
-  <img src="Agnipani_Yaksha_-_Circa_2nd_Century_BCE_-_Bharna_Kalan_-_ACCN_87-147_-_Government_Museum_-_Mathura_2013-02-24_6165.jpg" alt="Yaksa" title="Yaksa">
-  <figcaption>Yaksa</figcaption>
+  <img src="agnipani-yaksha.jpg" alt="Yaksha" title="Yaksha">
+  <figcaption>Agnipani Yaksha. Circa 2nd Century BCE. Bharna_Kala. Government Museum, Mathura, 2013-02-24.</figcaption>
 </figure>
 
 Animist beliefs were derived from local legends and rituals, not from religious philosophy. However, the higher religious paths such as Buddhism or Jainism, rather than repressing such beliefs, were happy to assign them a minor role in the scheme of things, so long as they eliminated harmful practices like human or animal sacrifice.
@@ -316,8 +316,8 @@ Animist beliefs were derived from local legends and rituals, not from religious 
 Throughout the Buddhist texts, we hear of _yakkhas_ (spirits), _nāgas_ (dragons), _gandhabbas_ (fairies), and many more. The Buddhist attitude towards such beings might best be described as “good neighborliness”. Neither they, nor any higher beings, are worshiped or looked to for salvation. Rather, they are treated with respect and dignity, for who knows? If they are real, it would be good to have them on your side.
 
 <figure>
-  <img src="Vyala_Yaksha_-_Circa_1st_Century_BCE_-_ACCN_42-2944_-_Government_Museum_-_Mathura_2013-02-24_6175.jpg" alt="Yaksa" title="Yaksa">
-  <figcaption>Yaksa</figcaption>
+  <img src="vyala-yaksha.jpg" alt="Yaksha" title="Yaksha">
+  <figcaption>Vyala Yaksha. Circa 1st Century BCE; Government Museum, Mathura, 2013-02-24</figcaption>
 </figure>
 
 ### Brahmanism
