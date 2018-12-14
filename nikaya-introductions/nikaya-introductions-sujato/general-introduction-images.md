@@ -2,9 +2,19 @@
 
 The four main _nikāyas_ of the Pali Canon (Tipiṭaka) are essential reading for anyone who wishes to understand the Buddha and his teaching. They have been preserved and passed down in the Pali language by the Theravāda tradition of Buddhism as the word of the Buddha.
 
-These texts were originally passed down orally, by generations of monks and nuns who memorized them and recited them together. Around 30 BCE they were written down in the Āluvihāra in Sri Lanka, and subsequently were transmitted in manuscripts of palm leaves.
+These texts were originally passed down orally, by generations of monks and nuns who memorized them and recited them together. Around 50 BCE they were written down, and subsequently were transmitted in manuscripts of palm leaves.
+
+<figure>
+  <img src="dpcv-nyanatusita-2004-001.jpg" alt="The Dutiya-Parakkamabāhu Cullavagga held at the National Museum in Colombo. Dated to the 13th century, it is the oldest complete Pali manuscript in the world." title="13th Century Vinaya manuscript from Sri Lanka">
+  <figcaption>The Dutiya-Parakkamabāhu Cullavagga held at the National Museum in Colombo. Dated to the 13th century, it is the oldest complete Pali manuscript in the world.</figcaption>
+</figure>
 
 From the 19th century, the manuscripts were edited and published as modern editions in sets of books. In addition, the Pali text was translated into a number of local languages.
+
+<figure>
+  <img src="thai-tipitaka.jpg" alt="Thai royal Tipitaka, containing the text and commentaries in Thai translation. Creative Commons Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5). Image from Wikipedia, https://commons.wikimedia.org/wiki/File:Tipitaka1.jpg" title="Thai edition of the Pali Canon">
+  <figcaption>The Thai royal Tipiṭaka, containing the text and commentaries in Thai translation. Creative Commons Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5). Image from Wikipedia, https://commons.wikimedia.org/wiki/File:Tipitaka1.jpg</figcaption>
+</figure>
 
 The word Tipiṭaka means “Three Baskets”. The Basket of Discourses is traditionally listed as the second of the three. The four _nikāyas_ make up the bulk of the Basket of Discourses. Here is how they are situated within the canon as a whole.
 
@@ -19,7 +29,17 @@ The word Tipiṭaka means “Three Baskets”. The Basket of Discourses is tradi
 
 Similar collections are found in ancient Chinese translations, and substantial portions of them are also in Sanskrit and Tibetan. The diverse collections of scriptures arose among the Buddhist communities who spread across greater India in the centuries following the Buddha, especially under the Buddhist emperor, Ashoka. These missions are documented in the ancient chronicles of Sri Lanka as well as the Vinaya commentaries in Pali and Chinese, and have been partially corroborated by modern archaeology.
 
+<figure>
+  <img src="Map-14-6-Missions.jpg" alt="Map of India showing the extent of King Ashoka’s realm and the Buddhist missions sent out in his time. Creative Commons Attribution-ShareAlike 3.0 Unported License. Image from Ānandajoti Bhikkhu’s Ancient Buddhist texts.  https://www.ancient-buddhist-texts.net/Maps/During-Asokas-Time/Map-14-Buddha-to-Asoka.htm" title="Ashokan missions">
+  <figcaption>Map of India showing the extent of King Ashoka’s realm and the Buddhist missions sent out in his time. Creative Commons Attribution-ShareAlike 3.0 Unported License. Image from Ānandajoti Bhikkhu’s Ancient Buddhist texts.  https://www.ancient-buddhist-texts.net/Maps/During-Asokas-Time/Map-14-Buddha-to-Asoka.htm</figcaption>
+</figure>
+
  SuttaCentral hosts almost all of these texts and provides comprehensive parallels showing the relations between them. A comparative understanding based on the full spectrum of these texts is essential for any study of early Buddhism. The Chinese Buddhist canon, in particular, contains a vast amount of translations of early texts, and in terms of quantity it outweighs the Pali texts by some margin.
+
+<figure>
+  <img src="Korea-Haeinsa-Tripitaka_Koreana-01.jpg" alt="Tripitaka Koreana stored at Haeinsa (해인사, Temple of Reflection on a Smooth Sea) is one of the foremost Chogye Buddhist temples in South Korea. It is most notable for being the home of the Tripitaka Koreana, the whole of the Buddhist Scriptures carved onto 81,258 wooden printing blocks, which it has housed since 1398. This is the basis of most modern editions of the Chinese texts. Author Lauren Heckler, image from Wikipedia, https://commons.wikimedia.org/wiki/File:Korea-Haeinsa-Tripitaka_Koreana-01.jpg" title="Tripitaka Koreana at Haeinsa">
+  <figcaption>Tripitaka Koreana stored at Haeinsa (해인사, Temple of Reflection on a Smooth Sea) is one of the foremost Chogye Buddhist temples in South Korea. It is most notable for being the home of the Tripitaka Koreana, the whole of the Buddhist Scriptures carved onto 81,258 wooden printing blocks, which it has housed since 1398. This is the basis of most modern editions of the Chinese texts. Author Lauren Heckler, image from Wikipedia, https://commons.wikimedia.org/wiki/File:Korea-Haeinsa-Tripitaka_Koreana-01.jpg</figcaption>
+</figure>
 
 For many reasons, though, the Pali texts will always retain a special place for those who wish to understand what the Buddha taught.
 
@@ -30,15 +50,20 @@ For many reasons, though, the Pali texts will always retain a special place for 
 
 Moreover, the Pali texts are the core scriptures of a living tradition, the Theravāda school found in Sri Lanka, Thailand, Myanmar, Bangladesh, Cambodia, Laos, India, China, and Vietnam. To this day they are recited, taught, studied, and practiced daily, and are regarded in the traditions as being a reliable witness to the teachings of the Buddha himself.
 
+<figure>
+  <img src="monks-studying.jpg" alt="Theravadin monks studying" title="Theravadin monks studying">
+  <figcaption>Theravadin monks studying</figcaption>
+</figure>
+
 Among the Pali texts, it is the four _nikāyas_ that command the most attention. It is here that we find extensive and definitive explanations of Buddhist teachings, as well as the living personality of the Buddha and his immediate disciples.
 
 By comparison, the Vinaya Piṭaka details the life of the monastic communities, and in addition it reveals much about the history and social background; but it contains only a few teaching passages. The Abhidhamma Piṭaka is made up of systematic treatises that were composed in the centuries following the Buddha’s passing. And the books of the Khuddaka Nikāya are very mixed. There are six fairly short books that are supplements to the main four _nikāyas_, mostly in verse: the Dhammapada, Udāna, Itivuttaka, Sutta Nipāta, Theragāthā, and Therīgāthā. However, most of the other books in the Khuddaka are later, and represent a phase of Buddhism a few centuries after the Buddha.
 
 ## About These Introductions
 
-I have prepared these introductions in order to support a student who wishes to develop a deeper understanding of the _nikāyas_. They accompany my translations of the four _nikāyas_ as found on SuttaCentral. This general introduction is meant to be read first, as it covers a variety of issues that are common to all the _nikāyas_. The four _nikāyas_ are a highly unified body of texts, sharing most of the significant doctrinal passages. The general information presented here is fleshed out in individual essays on each of the four _nikāyas_, which highlight the shifts in emphasis and orientation from one collection to the next. These may be read in any order. While the introductions for the specific _nikāyas_ naturally focus on the texts in that _nikāya_, this is not adhered to rigidly, and they may refer also to passages found elsewhere.
+I have prepared these introductions in order to ease a student into an understanding of the _nikāyas_. They accompany my translations of the four _nikāyas_ as found on SuttaCentral. This general introduction is meant to be read first, as it covers a variety of issues that are common to all the _nikāyas_. The four _nikāyas_ are a highly unified body of texts, sharing most of the significant doctrinal passages. The general information presented here is fleshed out in individual essays on each of the four _nikāyas_, which highlight the shifts in emphasis and orientation from one collection to the next. These may be read in any order. While the introductions for the specific _nikāyas_ naturally focus on the texts in that _nikāya_, this is not adhered to rigidly, and they may refer also to passages found elsewhere.
 
-Summaries of major doctrinal themes may be found mostly in the _nikāya_ introductions, especially that for the Saṁyutta Nikāya, rather than here. However, I would urge a degree of caution when it comes to summaries, including my own. The true joy of the suttas is in the undigested teachings, in that raw moment when the Buddha encounters a person in suffering and helps them, not by giving them a digested abstract, but by reaching out to them as people. Summaries and surveys are best treated as starting points for discovery, rather than as definitive treatises.
+Summaries of major doctrinal themes may be found mostly in the _nikāya_ introductions, especially that for the Saṁyutta Nikāya, rather than here. However, I would urge a degree of caution when it comes to summaries, including my own. The true joy of the suttas is in the undigested teachings, in that raw moment when the Buddha encounters a person in suffering and helps them, not by giving them a digested abstract, but by reaching out to them as people.
 
 I almost completely avoid sideways glances at the various Chinese and other parallels. Understanding these relations is critical, and the entire basis of SuttaCentral is founded on this fact. But the number of texts is very large, and the complexity of the subject is daunting. I fear that if I were to deal with parallels in any kind of depth, these essays would never be completed; and if they were, they would have become unreadably complex. Hence I have set myself a more manageable scope, sticking to the Pali texts, on the understanding that most things probably apply to the parallels as well. The reader can easily check the parallels on SuttaCentral if they wish.
 
@@ -50,11 +75,11 @@ The Buddha’s teaching is a graduated one, leading from simple principles to pr
 
 On the contrary, the Dīgha Nikāya begins with the Brahmajala Sutta, while the Majjhima Nikāya begins with the Mūlapariyāya Sutta, both of which are among the most profound and difficult discourses in the whole canon. A student who dives in unwarily will suddenly find themselves in very deep waters indeed.
 
-If we wish to build up knowledge step by step, we can’t rely on simply reading the suttas in order. Students often find it helpful to use a structured reading guide such as that offered by these Introductions. On SuttaCentral, we offer several other approaches.
+If we wish to build up knowledge step by step, we can’t rely on simply reading the suttas in order. Instead, we can use a structured reading guide, several of which are suggested on SuttaCentral. This series of essays offers one approach to such a guide.
 
 Having said which, there’s nothing wrong with simply plunging in at random, so long as you don’t expect everything to make sense at first. Take your time and enjoy wandering about. Don’t worry too much about things that seem odd or unexpected. Usually you’ll find that obscure or difficult ideas are explained somewhere else; discovering those unexpected connections is one of the joys of reading the suttas.
 
-In these introductory essays, you will find many references to the suttas. You don’t need to look up each reference to understand the essays. But if you do, you will get a reasonable survey of many important texts, and learn how to find the passage that you need. I suggest reading each Introduction on its own first, and then a second time, looking up and reading the sutta references as you go.
+In these introductory essays, you will find many references to the suttas. You don’t need to look up each reference to understand the essays. But if you do, you will get a reasonable survey of many important texts, and learn how to find the passage that you need.
 
 ## Looking Up References
 
@@ -76,10 +101,10 @@ Each of these is further subdivided so that each section contains a number of �
 
 In our system, the numbers following a colon represent the section and segment numbers, that is, the subdivisions within a sutta. So, for example:
 
-- DN 3 means “the third discourse in the collection of Long Discourses (Dīgha Nikāya)”.
-- MN 43:3 means “discourse 43, section 3 in the collection of Middle Discourses (Majjhima Nikāya)”.
-- MN 43:3.7 means “discourse 43, section 3, segment 7 in the collection of Middle Discourses (Majjhima Nikāya)”.
-- SN 12.2:6.2 means “discourse 2, section 6, segment 2  in the 12th _saṁyutta_ of the collection of Linked Discourses (Saṁyutta Nikāya)”.
+- DN 3 means “the third discourse in the collection of long discourses (Dīgha Nikāya)”.
+- MN 43:3 means “discourse 43, section 3 in the collection of middle discourses (Majjhima Nikāya)”.
+- MN 43:3.7 means “discourse 43, section 3, segment 7 in the collection of middle discourses (Majjhima Nikāya)”.
+- SN 12.2:6.2 means “discourse 2, section 6, segment 2  in the 12th _saṁyutta_ of the collection of linked discourses (Saṁyutta Nikāya)”.
 
 You may encounter various other referencing systems. In academic works, texts are often referenced by volume and page of the Pali Text Society (PTS) edition of the original Pali. This is a regrettable and clumsy convention, since it binds references to a specific paper edition. I hope it is swiftly abandoned in favor of proper semantic references. However, the PTS volume/page numbers are displayed on SuttaCentral in case you need to look up a legacy reference.
 
@@ -90,6 +115,11 @@ Traditionally, the texts were—and often still are—referenced the long way: b
 As students of Buddhist texts we are interested in the content, in learning what the Buddha and his disciples had to say and how they lived. However, due to the manner in which the texts are arranged, we quickly discover that it’s not easy to know how different texts relate to each other. So while it may seem dry, it is worth spending a little time to consider the *structure* of the texts.
 
 Early Buddhist texts were organized, not for reading, but for oral recitation and memorization. The overriding concern was to divide the texts into chunks that could be memorized and recited together. Since the texts were preserved in memory, they were largely “random access”: a skilled student could instantly recall a passage from anywhere in the texts, without having to flip through the pages or look up an index. In this way, the earliest system of organization is a little similar to how we find information today through a search engine.
+
+<figure>
+  <img src="chanting-monks.jpg" alt="Monks chanting in Siem Reap" title="Monks chanting in Siem Reap">
+  <figcaption>Monks chanting in Siem Reap</figcaption>
+</figure>
 
 It follows from this that we cannot expect early Buddhist texts to be structured sequentially like a modern book. But this does not mean that the collections are random or chaotic. They follow their own logic, which can be discerned if the texts are approached sympathetically.
 
@@ -112,6 +142,11 @@ Where narratives are developed in some detail, they are typically as part of the
 It won’t take long before you notice that the suttas tend to be repetitious. *Very* repetitious. This can be a major hurdle for a new reader, so let’s take a little time to consider what is happening.
 
 Like so many patterns found in nature, the repetitions are *fractal*. That is, they occur at every level: the word, the phrase, the sentence, the paragraph, the passage, the whole text, even the group of texts. This shows that the repetition is not something alien to these texts, not something forced on them by an over-zealous editor, but is intrinsic from the beginning.
+
+<figure>
+  <img src="bodhi_leaf.jpg" alt="Bodhi leaf skeleton showing fractal patterns" title="Bodhi leaf skeleton showing fractal patterns">
+  <figcaption>Bodhi leaf skeleton showing fractal patterns</figcaption>
+</figure>
 
 But why? The thing to remember is that the texts were formed in an oral tradition. And in an oral tradition, repetition works very differently than it does in writing. When you *read* a repetition, it can be annoying; it feels like a waste of time, and you want to skip over it. But when *reciting*, repetition has exactly the opposite effect. It is soothing and relaxing. The parts that are different take more work, you have to exercise your memory; but when the repeated passage comes around—like the chorus of a song—you relax into the flow of the chanting. Repetitions give the reciter space to be at ease and contemplate. Reciting a highly repetitive text becomes a form of meditation, where you reflect the meaning and apply it to your experience as you recite.
 
@@ -175,7 +210,17 @@ Each discourse begins with a brief statement saying that at “one time” the B
 
 The Buddha lived in the 5th century BCE in the Ganges valley in northern India. He was born in Lumbini and grew up in Kapilavatthu, both of which belong to the Sakyan republic, straddling the modern border of India and Nepal.
 
+<figure>
+  <img src="Lumbini_-_Mayadevi_Temple_from_South,_Lumbini.jpg" alt="Mayadevi Temple from the south, Lumbini, Nepal. Image from Wikipedia: https://commons.wikimedia.org/wiki/File:Lumbini_-_Mayadevi_Temple_from_South,_Lumbini_(9244243566).jpg" title="Mayadevi Temple from the south, Lumbini, Nepal. Image from Wikipedia: https://commons.wikimedia.org/wiki/File:Lumbini_-_Mayadevi_Temple_from_South,_Lumbini_(9244243566).jpg">
+  <figcaption>Mayadevi Temple from the south, Lumbini, Nepal. Image from Wikipedia: https://commons.wikimedia.org/wiki/File:Lumbini_-_Mayadevi_Temple_from_South,_Lumbini_(9244243566).jpg</figcaption>
+</figure>
+
 After his Awakening, the Buddha traveled among the region, in the area known as the “sixteen nations” (_janapada_). This spanned from modern Delhi to the north-west, the Bangladesh border to the east, the Himalayan foothills to the north, the Deccan to the south, and Ujjain to the south-west. Most of his time was spent in the cities of Sāvatthī in the kingdom of Kosala and Rājagaha in the kingdom of Magadha. Despite the proliferation of local legends in most Buddhist countries, the Buddha never ventured outside this area.
+
+<figure>
+  <img src="janapada.jpg" alt="The sixteen janapadas" title="The sixteen janapadas">
+  <figcaption>The sixteen janapadas</figcaption>
+</figure>
 
 It was not just the Buddha who was restricted to this region. It seems that trade and other close cultural contacts normally took place within this region, too. Occasional references to places further afield—southern India or the Greeks—were vague and often legendary. It was in the century after the Buddha passed away that the kingdoms of northern India were unified and regular international trade routes were opened, first to Europe, and, a couple of centuries later, to south-east Asia and China.
 
@@ -183,9 +228,19 @@ It was not just the Buddha who was restricted to this region. It seems that trad
 
 Though cities and urban life feature prominently in the texts, they are still on a small scale. The economy was largely rural, with farming playing a prominent role.
 
+<figure>
+  <img src="rice.jpg" alt="Rice farming in modern India" title="Rice farming in modern India">
+  <figcaption>Rice farming in modern India</figcaption>
+</figure>
+
 However there are lists of occupations in the Pali canon that show a diverse range of employment—accountants, jewelers, builders, soldiers, doctors, government officials, and many more.
 
 The rise in diversity of employment was linked to the growth of cities, which in turn is associated with the appearance of new technologies. The archeological record, though thin, has furnished us with records of two significant innovations: forges for iron, and a kind of fine pottery known as Northern Black Polished Ware. These new developments attest to a growing mastery in the industrial use of fire, something that the suttas mention in several memorable similes.
+
+<figure>
+  <img src="nbpw_redware.jpg" alt="Black and red ware" title="Black and red ware">
+  <figcaption>Black and red ware</figcaption>
+</figure>
 
 Technological innovation drove economic growth. We frequently hear of wealthy individuals, employing large staffs and managing properties or businesses. There was enough economic surplus to support a large class of spiritual seekers. Such ascetics made no material contributions to society; their value lay in spiritual and ethical development.
 
@@ -220,7 +275,12 @@ Change in the Buddha’s day was not limited to the worldly sphere. The religiou
 
 In the time of the Buddha, and indeed even to this day, the ancient pre-Buddhist Vedas formed the basis for the spiritual life of the brahmins and those who followed them. Rituals such as the _agnihotra_, the daily pouring of ghee onto the fire as an offering to the fire-god Agni—originated long before the Aryan people even came to India, and continue to be performed today.
 
-Nevertheless, many of the old gods featured in the Vedas had vanished by the time of the Buddha, and many of the famed deities of later Hinduism had not yet appeared. Those who do appear take on a markedly different aspect; prominent gods such as Vishnu (Pali: _Veṇhu_) or Shiva (Pali: _Siva_) appear in minor roles, and a warrior like Sakka (AKA Indra) appears as an apostle of peace. There were no temples, no images, and no cult of devotion (_bhakti_). There is no mention of a system of _avatars_, nor of familiar concepts from modern HInduism such as _śakti_, _kuṇḍalinī_, chakras, or yoga exercises.
+<figure>
+  <img src="agnihotra.jpg" alt="Agnihotra in Maharasthra." title="Agnihotra in Maharasthra.">
+  <figcaption>Agnihotra in Maharasthra.</figcaption>
+</figure>
+
+Nevertheless, many of the old gods featured in the Vedas had vanished by the time of the Buddha, and many of the famed deities of later Hinduism had not yet appeared. Those who do appear take on a markedly different aspect; prominent gods such as Vishnu (Pali: _Veṇhu_) or Shiva (Pali: _Siva_) appear in minor roles, and a warrior like Sakka (AKA Indra) appears as an apostle of peace. There were no temples, no images, and no cult of devotion (_bhakti_). There is no mention of a system of _avatars_.
 
 Moreover, when we look at the aspects of modern Hinduism that were present at the time, many of them are completely separate from each other. No-one considered, for example, the worship of a local dragon (_nāga_) to have anything to do with the rites of the brahmins. The outstanding feature of Hinduism—the great synthesis of religious and philosophical ideas and practices, from simple animism to profound non-dualism—had not yet been undertaken. Different strands of religious life were quite distinct and were not considered to be part of the same path.
 
@@ -246,13 +306,23 @@ Amid the complex sets of religious practices, we may discern three major domains
 
 In the villages and towns of ancient India, the most widespread folk religion was a belief in the omnipresent reality of spirits in nature. Such deities might embody aspects of the weather, or live in plants or rivers or caves; they might promote abundance, or take ferocious and threatening forms. They were unreliable, but could be wooed through simple offerings of rice, flowers, or ghee.
 
+<figure>
+  <img src="agnipani-yaksha.jpg" alt="Yaksha" title="Yaksha">
+  <figcaption>Agnipani Yaksha. Circa 2nd Century BCE. Bharna_Kala. Government Museum, Mathura, 2013-02-24.</figcaption>
+</figure>
+
 Animist beliefs were derived from local legends and rituals, not from religious philosophy. However, the higher religious paths such as Buddhism or Jainism, rather than repressing such beliefs, were happy to assign them a minor role in the scheme of things, so long as they eliminated harmful practices like human or animal sacrifice.
 
-Throughout the Buddhist texts, we hear of _yakkhas_ (spirits), _nāgas_ (dragons), _gandhabbas_ (fairies), _garudas_ (phoenixes), and many more. The Buddhist attitude towards such beings might best be described as “good neighborliness”. Neither they, nor any higher beings, are worshiped or looked to for salvation. Rather, they are treated with respect and dignity, for who knows? If they are real, it would be good to have them on your side.
+Throughout the Buddhist texts, we hear of _yakkhas_ (spirits), _nāgas_ (dragons), _gandhabbas_ (fairies), and many more. The Buddhist attitude towards such beings might best be described as “good neighborliness”. Neither they, nor any higher beings, are worshiped or looked to for salvation. Rather, they are treated with respect and dignity, for who knows? If they are real, it would be good to have them on your side.
+
+<figure>
+  <img src="vyala-yaksha.jpg" alt="Yaksha" title="Yaksha">
+  <figcaption>Vyala Yaksha. Circa 1st Century BCE; Government Museum, Mathura, 2013-02-24</figcaption>
+</figure>
 
 ### Brahmanism
 
-The caste who called themselves “brahmins” inherited an ancient body of sacred lore known as the Vedas. This consisted of sets of oral scriptures, among which the Ṛg Veda was primary. In the early Buddhist texts there are three Vedas: Ṛg, Sāma, and Yajur; the Arthavaveda is mentioned, but was not yet considered to be a Veda.
+The caste who called themselves “brahmins” inherited an ancient body of sacred lore known as the Vedas. This consisted of three sets of oral scriptures (in the early Buddhist texts; later the Arthavaveda was added as the fourth), among which the Ṛg Veda was primary.
 
 The Ṛg Veda grew out of the cultural and religious milieu of the ancient Indo-European peoples. It shares a common heritage with the Avestan texts of Iranian Zoroastranism, and more distantly, the mythologies of Europe.
 
@@ -262,17 +332,27 @@ The brahmins insisted on the holiness of their caste, the efficacy of their ritu
 
 However, Brahmanical traditions were far from a unified monolith. We see a strong strand of questioning of tradition, of seeking out new ways, of earnest seeking of the truth; and such attitudes are just as strong in the Brahmanical texts as the Buddhist.
 
-Brahmins were typically family men, living a settled life, and expecting a degree of social respect and standing due to their learning and caste. But some brahmins had adopted an ascetic lifestyle, apparently influenced by the _samaṇas_.
+Brahmins were typically family men, living a settled life, and expecting a degree of social respect and standing due to their learning and caste—a respect that they did not always deserve. But some brahmins had adopted an ascetic lifestyle, apparently influenced by the _samaṇas_.
 
-In the generations preceding the Buddha, brahmanical philosophy had reached a peak in the Upaniṣads, with their sophisticated debates and mystic philosophy of the essential unity of self and cosmos. These texts form the immediate dialectical context of the Buddha’s philosophy. Yājñavalkya, a key Upaniṣadic philosopher, lived around Mithila, in the same region traversed by the Buddha, no more than a century or two before him. Some early Upaniṣads are apparently referred to in DN 13 <cite>Tevijjā</cite>, and the Upaniṣadic doctrine of “self” (_ātman_) was prominently rejected by the Buddha in his most distinctive teaching: not-self (_anattā_).
+<figure>
+  <img src="Brahmin_priest.jpg" alt="Brahmin priest" title="Brahmin priest">
+  <figcaption>Brahmin priest</figcaption>
+</figure>
+
+In the generations preceding the Buddha, brahmanical philosophy had reached a peak in the Upaniṣads, with their sophisticated debates and mystic philosophy of the essential unity of self and cosmos. These texts form the immediate dialectical context of the Buddha’s philosophy. Yajnavalkya, a key Upaniṣadic philosopher, lived around Mithila, in the same region traversed by the Buddha, no more than a century or two before him. Some early Upaniṣads are apparently referred to in DN 13 <cite>Tevijjā</cite>, and the Upaniṣadic doctrine of “self” (_ātman_) was prominently rejected by the Buddha in his most distinctive teaching: not-self (_anattā_).
 
 ### The Samaṇas
 
-Quite distinct from the brahmins, and often in opposition to them, was a complex set of religious movements known as the _samaṇas_ or “ascetics”. Six prominent ascetic schools were acknowledged in the time of the Buddha. The Buddha counted himself as an ascetic, too, in view of the many similarities between his own movement and theirs.
+Quite distinct from the brahmins, and often in opposition to them, was a complex set of religious movements known as the _samaṇas_ or “ascetics”. Six prominent ascetic schools were acknowledged in the time of the Buddha. The Buddha counted himself as an ascetic, too, in view of the many similarities between his own teachings and theirs.
 
 Like the Buddhist mendicants, the other _samaṇas_ were typically celibate renunciates, living either in solitude or in monastic communities, and relying on alms for food.  The most famous movement—and the only one to survive until today—was Jainism, which flourished under their leader Mahāvīra, known as Nigaṇṭha Nātaputta in the Buddhist texts.
 
 The ascetics shared an iconoclastic attitude, and all rejected the brahmanical system _in toto_. However they varied amongst each other, as shown in their teachings attested at DN 2 <cite>Sāmaññaphala</cite> as well as MN 60 and MN 76. Some emphasized austerities and self-mortification, others rationality and debate. Some advocated ardent effort, others a resigned fatalism. Some taught rebirth, while others asserted that this material world was the only reality.
+
+<figure>
+  <img src="Sthanakvasi_monks.jpg" alt="Jain monks" title="Jain monks">
+  <figcaption>Jain monks</figcaption>
+</figure>
 
 While their doctrines may appear florid and obscure, and their practices sometimes bizarre and pointless, the ascetic movements are a lasting testament to the diversity, vigor, and innovation of religious life in ancient India.
 
@@ -317,13 +397,13 @@ The early texts do not attempt to systematize these realms in any great detail. 
 Here is general overview of the most important realms found in the suttas. It is crucial to remember that, in the Buddhist view, all of these, even the most high, are impermanent and do not constitute true freedom. They are not separate metaphysical planes, but mere stations in which consciousness may spend some time during its long journey.
 
 - **Brahmā realms:** The highest heavens, which correspond to attainments of absorption meditation (_jhāna_), and may only be attained by _jhāna_ practitioners. The Brahmā realms include the realms of luminous form (_rūpaloka_) and the formless realms (_arūpaloka_). The former are attained by means of the four primary absorptions. In this context, the word “form” refers to the refined and radiant echo or reflection of the original meditation subject upon which these states are based. The formless states lie beyond this, and are realized when even that subtle luminosity disappears.
-- **Heavens of sensual pleasures:** Many of these are mentioned, most commonly the realm of the Thirty-Three, governed by Sakka. Various beings from Indian animist beliefs are said to inhabit the lower tiers of these realms.
+- **Heavens of sensual pleasures:** Many of these are mentioned, most commonly the realm of the Thirty-Three, governed by Sakka. Various beings from Indian animist beliefs are assigned to the lesser of these realms, including _yakkhas_ (spirits), _nāgas_ (dragons), _garudas_ (phoenixes), and _gandhabbas_ (fairies).
 - **Human realm:** The most important realm, where Buddhas appear and the spiritual path is taught.
 - **Lower realms:**  These include the animal realm, the ghost realm, and the hells. The realm of the _asuras_—titans or demons—is usually placed here in the later cosmologies, but the early texts seem to treat it as one of the heavens.
 
 The Buddha taught that doing good and avoiding bad was the path to rebirth in one of the fortunate realms, which include the human realm and all higher realms. However, the course of transmigration is long and unpredictable, so no heaven realm provides a sure refuge.
 
-Far from teaching rebirth as a solace for naive followers unable to face the inevitability of death, rebirth is depicted in traumatic and terrifying terms: the tears that one has shed in the endless course of transmigration are greater than all the waters in all the oceans of the world. Thus the true significance of doing good deeds is not merely to get a better rebirth, but to lay the foundations for higher spiritual development, primarily through meditation.
+Far from teaching rebirth as a solace for naive followers unable to face the inevitability of death, rebirth is depicted in traumatic and terrifying terms. The tears that one has shed in the endless course of transmigration are greater than all the oceans of the world. Thus the true significance of doing good deeds is not merely to get a better rebirth, but to lay the foundations for higher spiritual development, primarily through meditation.
 
 In the core teaching of the four noble truths, the origin of all suffering is traced to the craving that is connected with rebirth (_yāyaṁ taṇhā ponobbhavikā_). The practice of the noble eightfold path is the only thing that enables one to let go of that craving and be free of suffering. This is what the Buddha called “extinguishment” or “quenching” (Pali: _nibbāna_; Sanskrit _nirvāṇa_).
 
@@ -341,7 +421,7 @@ While Buddhaghosa compiled commentaries on the major texts, he left some incompl
 
 In modern Theravāda the commentaries have become a sadly and unnecessarily divisive issue. Some people take the entire tradition uncritically and regard the commentaries as essentially infallible. Others flip to an extreme of suspecting anything in the commentaries, rewriting Theravādin history as a conspiracy of the commentaries. But any serious scholar knows that the commentaries are often helpful, even indispensable, on countless difficult and obscure points. Without them, there is no way we would have been able to create the accurate dictionaries and translations that we have today. Yet they cannot be relied on blindly, for, like any resource, they are as fallible, and must be read with a careful and critical eye. On some doctrinal issues, the position of the commentaries had shifted considerably from the stance in the suttas, and not in illuminating ways.
 
-I once read some advice from a Burmese Sayadaw—I am afraid this was many years ago and I have forgotten who it was—on how to use the commentaries. He said—and I paraphrase—something like this. First read the sutta. Try to understand it. Read it and meditate on it again and again. If there’s anything you don’t understand, see if can be explained elsewhere in the suttas. If, at the end of the day, you still cannot understand it, check the commentary. If it answers the question, good. But if, after equally careful study, the commentary is still unclear, then check the subcommentary.
+I once read some advice from a Burmese Sayadaw—I am afraid this was many years ago and I have forgotten who it was—on how to use the commentaries. He said—and I paraphrase—something like this. First read the sutta. Try to understand it. Read it again and again. If there’s anything you don’t understand, see if can be explained elsewhere in the suttas. If, at the end of the day, you still cannot understand it, check the commentary. If it answers the question, good. But if, after equally careful study, the commentary is still unclear, then check the subcommentary.
 
 This has always seemed like sound advice to me, and I have tried to follow it. The purpose of the commentary is to help explain the suttas. Where the suttas are clear—and mostly they are—there is no need to refer to the commentary. The only extra thing I would add is that, in addition to the commentaries and subcommentaries, we now also have Chinese and Sanskrit parallels to help us understand difficult passages.
 
@@ -353,7 +433,7 @@ The significance of the _nikāyas_ was recognized by European scholars early on.
 
 During the 19th century, European scholars became aware of the Pali tradition, seeing in it a reliable source of information for the Buddha, his times and his teachings. An English civil servant in Sri Lanka, Thomas Rhys Davids, learned Pali from the monks, initially to help him better understand Sri Lankan legal practices. Recognizing the significance of these texts, he returned to England and established the Pali Text Society (PTS), largely funded by Asian donors. They obtained palm-leaf manuscripts, on the basis of which the PTS prepared print editions of the main Pali texts.
 
-The PTS editions introduced a number of ideas from European scholarship. Most obviously, they used a set of conventions for presenting Indic scripts with European letters. This system is lossless, so texts may be automatically changed from one script to another. It enables easy comparison between the editions of the Pali canon from different countries, which traditionally had been written in diverse local scripts. They also introduced titles at the start of texts, punctuation and capitalization, page numbers, footnotes, variant readings, and various other modern innovations.
+The PTS editions introduced a number of ideas from the west. Most obviously, they used a set of conventions for presenting Indic scripts with European letters. This system is lossless, so texts may be automatically changed from one script to another. It enables easy comparison between the editions of the Pali canon from different countries, which traditionally had been written in diverse local scripts. They also introduced titles at the start of texts, punctuation and capitalization, page numbers, footnotes, variant readings, and various other modern innovations.
 
 One innovation that was not pursued consistently was the introduction of chapter and section numbers. These were added to the PTS Pali editions of the Dīgha Nikāya and the Vinaya, and are used in subsequent translations. However most of the PTS editions lack such sections, with the unfortunate consequence that academic referencing of Pali texts is still based on the volume and page of the PTS edition, a system that is neither practical nor precise.
 
