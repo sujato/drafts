@@ -159,7 +159,7 @@ In external abbreviations, an abbreviated passage cannot be fully reconstructed 
 
 Buddhist manuscripts rarely have titles at the start like modern texts. Rather, the title is recorded at the end. In modern editions, these titles have been added at the start for clarity.
 
-In many cases, especially in the titles of suttas and _vaggas_, what we actually have in the manuscript is not really a title as such, but a key word found in the summary verse (_uddāna_) found at the end of a _vagga_ or other division. These verses were inserted by the redactors of the canon in order to help keep the contents organized, much like a Table of Contents. However, the summary verses do vary to some extent between editions, so the titles of suttas are not always consistent. In addition, some suttas are assigned more than one title in the text itself (see DN 1 <cite>Brahmajala</cite>), or there are spelling variations. So take care, for it is quite common to find different titles for the same text.
+In many cases, especially in the titles of suttas and _vaggas_, what we actually have in the manuscript is not really a title as such, but a key word found in the summary verse (_uddāna_) found at the end of a _vagga_ or other division. These verses were inserted by the redactors of the canon in order to help keep the contents organized, much like a Table of Contents. However, the summary verses do vary to some extent between editions, so the titles of suttas are not always consistent. In addition, some suttas are assigned more than one title in the text itself—for example DN 1 <cite class="text-translated">The Prime Net</cite> (<cite class="text-root">Brahmajalasutta</cite>)—or there are spelling variations. So take care, for it is quite common to find different titles for the same text.
 
 ### Textual Divisions
 
@@ -169,9 +169,9 @@ The _vagga_ is the most widespread and distinctive structural unit in early Budd
 
 The _vagga_ is often little more than a convenient grouping to help organize the discourses neatly. In such cases, a _vagga_ is usually just named after its first discourse.
 
-However, it is also common to find that a _vagga_ collects discourses with a loose thematic unity. For example, in the <cite>Sīlakkhandhavagga</cite> of the Dīgha Nikāya  (thirteen discourses in this case), all the texts deal with the “gradual training” of ethics, meditation, and wisdom.
+However, it is also common to find that a _vagga_ collects discourses with a loose thematic unity. For example, in the <cite class="text-translated">Chapter on the Full Spectrum of Ethics</cite> (<cite class="text-root">Sīlakkhandhavagga</cite>) of the Dīgha Nikāya  (thirteen discourses in this case), almost all the texts deal with the “gradual training” of ethics, meditation, and wisdom.
 
-In some cases, a _vagga_ in Pali may parallel a similar _vagga_ in another language. For example, the famous <cite>Aṭṭhakavagga</cite> of the Sutta Nipāta exists in Chinese translation, though the Sutta Nipāta as a whole does not. Similarly, the <cite>Sīlakkhandhavagga</cite> of the Dīgha Nikāya has parallels in both the Dharmaguptaka (Chinese) and Sarvāstivāda (Sanskrit) texts of the Dīgha.
+In some cases, a _vagga_ in Pali may parallel a similar _vagga_ in another language. For example, the famous <cite class="text-translated">Chapter of the Eights</cite> (<cite class="text-root">Aṭṭhakavagga</cite>) of the Sutta Nipāta exists in Chinese translation, though the Sutta Nipāta as a whole does not. Similarly, the <cite class="text-root">Sīlakkhandhavagga</cite> of the Dīgha Nikāya has parallels in both the Dharmaguptaka (Chinese) and Sarvāstivāda (Sanskrit) texts of the Dīgha.
 
 Occasionally the word _vagga_ is applied to a larger textual unit, one that includes a number of sections, each of which composed of “little” _vaggas_. Examples of such nested _vagga_ structures include the Saṁyutta Nikāya and the Khandhakas of the Pali Vinaya.
 
@@ -254,7 +254,7 @@ Moreover, when we look at the aspects of modern Hinduism that were present at th
 
 Thus historians do not refer to the brahmanical religion of the time as Hinduism, but rather as Vedism or Brahmanism. It was nearly a thousand years later that the movement recognizable as modern Hinduism became prominent in India. To be sure, much of Hinduism is drawn from the Vedas, in the same way that much of Catholicism is drawn from the Hebrew scriptures that Christians call the Old Testament. But were you to meet Abraham or Noah and address them as “Catholics”, they would not know what you are talking about. And the Indians of the Buddha’s time would have been equally unfamiliar with the very idea of “Hinduism”.
 
-All this notwithstanding, there is an oft-repeated claim to the effect that the Buddha “was born, lived, and died a Hindu”, attributed to the great pioneer of Indology, Thomas Rhys Davids. While it is true that he did write this, it was in an early work, page 116 of <cite>Buddhism: its history and literature</cite>, a lecture series published in 1896. But by 1912 his views had changed, for on page 83 of <cite>Buddhism: Being a sketch of the life and teachings of Gautama, the Buddha</cite>, he said:
+All this notwithstanding, there is an oft-repeated claim to the effect that the Buddha “was born, lived, and died a Hindu”, attributed to the great pioneer of Indology, Thomas Rhys Davids. While it is true that he did write this, it was in an early work, page 116 of <cite class="book">Buddhism: its history and literature</cite>, a lecture series published in 1896. But by 1912 his views had changed, for on page 83 of <cite class="book">Buddhism: Being a sketch of the life and teachings of Gautama, the Buddha</cite>, he said:
 
 >Gautama was born, and brought up, and lived, and died a typical Indian. Hinduism had not yet, in his time, arisen.
 
@@ -292,7 +292,7 @@ However, Brahmanical traditions were far from a unified monolith. We see a stron
 
 Brahmins were typically family men, living a settled life, and expecting a degree of social respect and standing due to their learning and caste. But some brahmins had adopted an ascetic lifestyle, apparently influenced by the _samaṇas_.
 
-In the generations preceding the Buddha, brahmanical philosophy had reached a peak in the Upaniṣads, with their sophisticated debates and mystic philosophy of the essential unity of self and cosmos. These texts form the immediate dialectical context of the Buddha’s philosophy. Yājñavalkya, a key Upaniṣadic philosopher, lived around Mithila, in the same region traversed by the Buddha, no more than a century or two before him. Some early Upaniṣads are apparently referred to in DN 13 <cite>Tevijjā</cite>, and the Upaniṣadic doctrine of “self” (_ātman_) was prominently rejected by the Buddha in his most distinctive teaching: not-self (_anattā_).
+In the generations preceding the Buddha, brahmanical philosophy had reached a peak in the Upaniṣads, with their sophisticated debates and mystic philosophy of the essential unity of self and cosmos. These texts form the immediate dialectical context of the Buddha’s philosophy. Yājñavalkya, a key Upaniṣadic philosopher, lived around Mithila, in the same region traversed by the Buddha, no more than a century or two before him. Some early Upaniṣads are apparently referred to in DN 13 <cite class="text-translated">The Three Knowledges</cite> (<cite class="text-root">Tevijjasutta</cite>), and the Upaniṣadic doctrine of “self” (_ātman_) was prominently rejected by the Buddha in his most distinctive teaching: not-self (_anattā_).
 
 ### The Samaṇas
 
@@ -300,7 +300,7 @@ Quite distinct from the brahmins, and often in opposition to them, was a complex
 
 Like the Buddhist mendicants, the other _samaṇas_ were typically celibate renunciates, living either in solitude or in monastic communities, and relying on alms for food.  The most famous movement—and the only one to survive until today—was Jainism, which flourished under their leader Mahāvīra, known as Nigaṇṭha Nātaputta in the Buddhist texts.
 
-The ascetics shared an iconoclastic attitude, and all rejected the brahmanical system _in toto_. However they varied amongst each other, as shown in their teachings attested at DN 2 <cite>Sāmaññaphala</cite> as well as MN 60 and MN 76. Some emphasized austerities and self-mortification, others rationality and debate. Some advocated ardent effort, others a resigned fatalism. Some taught rebirth, while others asserted that this material world was the only reality.
+The ascetics shared an iconoclastic attitude, and all rejected the brahmanical system _in toto_. However they varied amongst each other, as shown in their teachings attested at DN 2 <cite class="text-translated">The Fruits of the Ascetic Life</cite> (<cite class="text-root">Sāmaññaphalasutta</cite>) as well as MN 60 and MN 76. Some emphasized austerities and self-mortification, others rationality and debate. Some advocated ardent effort, others a resigned fatalism. Some taught rebirth, while others asserted that this material world was the only reality.
 
 While their doctrines may appear florid and obscure, and their practices sometimes bizarre and pointless, the ascetic movements are a lasting testament to the diversity, vigor, and innovation of religious life in ancient India.
 
