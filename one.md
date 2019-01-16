@@ -44,13 +44,13 @@ But then suppose that down the track—maybe in another nikaya—we find the sam
 2. *Lobho pahātabbo.*
 3. *Chando pahātabbo*
 
-Now what to do? You can’t just say the same thing in every sutta. If you want to represent them accurately, you have to present a different term each time:
+Now what to do? You can’t just say the same thing in every sutta. If you want to represent the three suttas accurately, you have to present a different term each time:
 
 1. One should give up lust.
 2. One should give up greed.
 3. One should give up desire.
 
-But the text is, in fact, identical. There’s no variation in context that would justify a different rendering. It just happens to be split across three texts. So you end up translating exactly the same thing in different ways, purely because of the formal features of how the text is divided. In this way the translation loses accuracy; information is eroded.
+But the text is, in fact, identical with the previous case. There’s no variation in context that would justify a different rendering. It just happens to be split across three texts. So you end up translating exactly the same thing in different ways, purely because of the formal features of how the text is divided. In this way the translation loses accuracy; information is eroded.
 
 Now, surely we can find a way to manage this case. And there are contexts where such flexibility is warranted. But what I found was that by maintaining the 1-to-1 translation approach, I was able to solve countless similar problems. It is a simple technique that solves a wide range of different kinds of problems.
 
@@ -66,7 +66,7 @@ To look at it less technically: most HTML is like play-doh, while web components
 
 Okay, so the point is this: when we normally use language, it’s much like HTML, or if you prefer, play-doh. It’s flexible and contextual, with words and phrases taking on nuances and implications that vary each time. Such a use of language is powerful, but fragile; it’s easy to break meaning by misreading a nuance. So if you want to accurately and robustly preserve meaning, you sacrifice some of that flexibility and use language rather more like web components, or if you like, lego. Words, phrases, and passages have a set and consistent meaning. The sense is not derived from the immediate context, but from *somewhere else*. They are defined in one place and just dropped “as-is” into different contexts. And just as we can make many different web pages—or lego toys—by clicking together the individual components in different ways, we can make many different suttas by recombining components.
 
-Sometimes such an approach is decried as being “artificial”. But I don’t really think this is accurately describing what is going on. There’s nothing more or less “natural” or “artificial” about either approach. One is more specialized than the other, true, but really they are simply aspects of how language is used. This is why I like the HTML analogy: web components are a part of the HTML spec; they are just as much “native” HTML as anything else. Or consider a child playing “in nature”: they might build a wall for their castle by shaping up mud; or they might take a stone of the right shape and just use it “as-is”. Both are perfectly natural.
+Sometimes such an approach is decried as being “artificial”. But I don’t really think this is accurately describing what is going on. There’s nothing more or less “natural” or “artificial” about either approach. One is more specialized than the other, true, but really they are just different aspects of how language is used. This is why I like the HTML analogy: web components are a part of the HTML spec; they are just as much “native” HTML as anything else. Or consider a child playing “in nature”: they might build a wall for their castle by shaping up mud; or they might take a stone of the right shape and just use it “as-is”. Both are perfectly natural.
 
 I suspect if we were to carefully analyze spoken language we would find variations on the degree of contextuality. In the suttas it is the same, it is just that the weight and emphasis is shifted, quite considerably, in the direction of “components”.
 
