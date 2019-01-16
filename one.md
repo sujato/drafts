@@ -10,7 +10,7 @@ I have always enjoyed this approach. My first suttas were Nyanamoli’s translat
 
 Despite this, when I started my translation project, my thought was that I would not prioritize consistency so greatly. I wanted to make my translation more fluid and idiomatic, so in some cases I abandoned the more formally consistent terms used by Bhikkhu Bodhi. For example, he uses “visual form” to stand for _rūpa_ as the thing that is seen; to me, the normal English word for this is “sight”, so that’s what I use. This is more idiomatic, at the expense of losing connection with “form” in the five aggregates.
 
-However, as I proceeded, I found that again and again, my attempts at a more flexible approach where undone by the texts themselves. It turned out that often, what I thought was flexibility was really just an excuse for not paying attention. Contexts that I assumed were separate turned out, in another place, to be closely related. And so in many cases I returned to a more consistent approach.
+However, as I proceeded, I found that again and again, my attempts at a more flexible approach were undone by the texts themselves. It turned out that often, what I thought was flexibility was really just an excuse for not paying attention. Contexts that I assumed were separate turned out, in another place, to be closely related. And so in many cases I returned to a more consistent approach.
 
 Sometimes people seem to think that using a consistent approach stems from a rigid and naive theory of language, or a dogmatic fear of incorrectness. But that’s just not the case: it evolves from the experience of actually translating thousands of suttas.
 
