@@ -1,6 +1,6 @@
 # Eka = One: On the unreasonable effectiveness of consistency in sutta translation
 
-Language is all about context. Words don’t have rigid meanings, and their precise nuance can only be inferred from where they are and how they are used in that case. For this reason it is normally the case that translators don’t translate word-for-word or literally; in fact, truly literal translation is impossible, and in my view is barely even coherent as a concept.
+Language is all about context. Words don’t have rigid meanings, and their precise nuance can only be inferred from where they are, and how they are used in that very particular case. For this reason it is normally the case that translators don’t translate word-for-word or literally; in fact, truly literal translation is impossible, and in my view is barely even coherent as a concept.
 
 And this was how early generations of translations from Pali were done. Each context was taken and rendered as the translator saw fit. Within one book there may be several different renderings of the very same passage. With few qualified scholars and a large body of texts, it is perhaps unsurprising to find such looseness prevailing.
 
